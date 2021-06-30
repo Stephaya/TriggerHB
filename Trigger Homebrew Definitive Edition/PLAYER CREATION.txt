@@ -1,0 +1,149 @@
+ © Copyright 2020 - Stephan DeLuna, Garrett Neenan
+
+ This file is part of Trigger.
+
+    Trigger is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Trigger is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Trigger. If not, see <https://www.gnu.org/licenses/>.
+
+𝗧𝗥𝗜𝗚𝗚𝗘𝗥 𝗛𝗢𝗠𝗘𝗕𝗥𝗘𝗪
+
+This Tabletop Homebrew ruleset is inspired by Tactical Games and made to fit within the TableTop Gameplay Format. This Homebrew is made to be easy for novices; however, it leaves just enough complexity for higher level players to utilize and enjoy the unique combat system present. This Homebrew gives players more creative freedom to act. Many new Mechanics introduce new Opportunities for the Players to Use.
+
+Battles are Dynamic. Battles are Fast. Battles are Concentrated.
+
+𝗣𝗟𝗔𝗬𝗘𝗥 𝗖𝗥𝗘𝗔𝗧𝗜𝗢𝗡
+
+◆ Whats in this File?
+    Simplified Character Creation
+    Determining Stats for Characters
+    Formulaic Based Stats
+    Perks and Modifiers 
+    Credits Reputation and Items
+    Roleplay Elements
+    Character Relationships
+    Character Behaviors
+
+█ Simplified Character Creation
+
+Characters are created from the ground up through this System's Character Creation. Character Sheets can be found in the Catalog, so one can begin to make their character. Backgrounds do not exist, nor do Classes or anything of the sort. Instead, Modifiers and Perks replace these by allowing Characters to Advance in Specific Skills and Obtain Abilities. Steps are provided to complete the Character Outline in an Ordered Fashion. 
+
+█ Determining Stats for Characters
+
+Stats in the Homebrew are intimate with the Action System, Character Systems, and Core Mechanical System. There are Nine Stats that can be added to a character. Every Character has these Stats. A total of 48 points can be distributed amongst the Nine stats; a single starting stat cannot exceed 16. Stats are able to Increase over Time through constant individual use or experience. Increasing Stats over increments of 10 Points allows the Character to earn Modifiers Related to the Relevant Stat. 
+
+There are 9 Stats to Add to:
+Strength            Physical Strength of a Character. 
+Dexterity           Reflexes of a Character. 
+Constitution        Life Force of a Character. 
+Intelligence        Computational Skill of a Character. 
+Wisdom              Experience of a Character.
+Charisma            Appearance of a Character.
+Endurance           Poise of a Character. 
+Agility             Speed and Athletics of a Character. 
+Perception          Awareness of a Character. 
+
+█ Formulaic Based Stats
+
+Base stats affect and make up these extra formulaic stats. These formulaic based stats are generally used in combat more, as base stats are used outside of combat for puzzles and environmental situations.
+
+Initiative Points – Initiative Points determine the Character's spot on the Turn Order in Combat.
+(Intelligence + Dexterity)
+
+Hit Points – Hit points determine how much Damage one can handle before Dying. There is a Minimum of 1 Hit Point. Always Round Up.
+((Endurance * 1.5) + (Constitution * 8))
+
+Action Points – Action Points determine how many Actions a Character can Perform each Turn. Action Points are Always Rounded Down to the Last Whole Number.
+((Square Root of (Wisdom + Charisma)) + 1)
+
+Attack Points – Attack Points determine the Base Damage a Character may Deal with their Physical Attacks. Always Round Up.
+((Dexterity + Strength) / 2)
+
+Energy Points - Energy Points determine the Base Energy a Character has when Casting Abilities tied to Energy. This may go unused in certain games.
+((Intelligence + Endurance) * 5)
+
+Step Points – Step Points Determine how many Spaces a Character may move per Turn in Combat. Always Round Up.
+(Square Root of ((Agility + Perception) / 2) * 3)
+
+█ Perks and Modifiers 
+
+PERKS - Perks can be found in the Catalog Folder. Perks add possible skills and passives exclusive to the Player or Non-Player System. Depending on the Perk, they can be used inside or outside combat. Some Perks are better used with others, and some are very situational. A certain level of depth is created when Perks are Added to the Campaign. Perks are not required to play the game however can be used; ask your Game Master if Perks are being used in the Campaign. Ask your Game Master how many perks can be chosen for your Character; most Characters are Only Given Two Perks. Perks cannot be earned throughout the game and are permanent, so choose wisely. Perks stick with the Character throughout the entire game.
+
+MODIFIERS - Modifiers are the natural way growth can be achieved in this Homebrew. Modifiers can Increase Individual Stats or Give Extra Gameplay Mechanics or Extra Roleplay Mechanics. Modifiers and Methods for gaining Modifiers can be found in the Catalog. Modifiers can only be earned through Actions, Stats, and Companions. There are Three Different Types of Modifiers. Basic Modifiers are achieved through Constant Participation through Actions and Counter Rolls. These Allow the Small Increase of Stats for the Character. Individual Modifiers are earned through specific quantitative Milestones. Every Character Earns their First Individual Modifier based on their Highest Starting Stat; Multiple Stats may Share Ranking for being the Highest Stat, in which only One Stat may be chosen. After this, the Character Earns Specific Modifiers, found in the Catalog, for every 10 Points gained in a Stat. The First Chosen Individual Modifier functions as if it has already reached the first Milestone, and the following Modifier in that Stat is gained at 20. Companion Modifiers are earned through Higher Relationship Status with Non-Player Characters. Companion Modifiers Work Along Side the Support System- Where Higher Support Rankings Give Characters Companion Modifiers. All Characters have at least Three Companion Modifiers; Players may choose One once the Support Rank is Reached. If the User Loses this Support Rank- The User Loses Their Modifier.
+
+█ Credits, Reputation, Items, and Equipment
+
+Credits and Reputation make up the most common forms of currency. Credits are commonly used to develop a form of currency available to the world and connected with a changing economy based on the Game Master's Story. Reputation works as credits in a more political tone. Pleasing specific figures and groups gain Reputation. Reputation changes the Story for the Players: When Reputation lies as a Positive number, that means the characters are viewed as Good, or at least Lawful; when Reputation lies as a Negative number, that means the characters are seen as Bad, or at least Chaotic. Reputation will change the way Characters treat each other and how Others view them.
+
+ITEMS AND EQUIPMENT - Equipment and Items can be conventional depending on the campaign and add Artificial Modifiers or Stat Increases to Characters. Equipment can Directly Increase Specific Stats or Increase Defense in the form of Vitality Types or Damage Reductions Values (@damage_calculation). These Functions as Artificial Increases for the Character; These Artificial Increases won't be applied if Armor or Items are not Applied or Held. Characters May Start with Items, but the Players should talk to their Game Masters before making a decision.
+
+ITEMS AND CARRYING CAPACITY - The Base Carry Capacity of a Character is 8 Item Slots. This can Be Increased if the Character has a Bag of Holding or other Equipment. Players cannot Hide Multiple Bags of Holding inside others unless they are Smaller in Slot Size (Similar to Russian Nesting Dolls). As mentioned before, some Items can and will increase specific stats and or give Artificial Passives to the Character. Items can be stacked based on their size; Item Stack Sizes include Sequences with a factor of 2 between each number up towards 64. Larger Items can require Several Item Slots to Hold, with a maximum of 4 Required Slots. Objects too large to fit in a Character's Inventory must be Carried in the Character's Hand Slots, using the Physics System (@damage_calculation). Credits Do Not require an Item Slot to Hold.
+
+EQUIPMENT SLOTS - There are 5 Equipment Slots. Armor is assigned a category based on the Equipment type. As mentioned before, Equipment can and will increase specific stats and or give Artificial Passives to the Character. Equipment can have Item Slots, which will be separate from their Character. Types of Equipment can negatively affect and even provide negative leverage in specific scenarios. Any Additional Accessories or Equipment being worn will take up a slot in the Character's Inventory and are not assigned an Equipment Slot. In Addition to Equipment Slots, Each Character has 2 Weapon Equip Slots, One for Each Hand. Weapons may be One-Handed or Two-Handed and have other Properties such as Damage, Damage Type, Leverage, and Range. Equipping 2 One-Handed Weapons Allows for the Attack Action to optionally consist of a 2-Hit Multihit Attack, with Half Leverage from Each Weapon. If Both Weapon Equip Slots are Filled, the User is Unable to use the Grab Action. The Equipment Slots Are:
+
+    Helmet | Chest | Arms | Legs | Boots
+
+    Weapon | Weapon
+
+█ Roleplay Elements
+
+Roleplay Elements are the Foundation of a Character's Personality, Motives, and Goals. Roleplay Elements should be filled out during Character Creation based on the Character's Backstory but may change as the Story Progresses. The Categories for Roleplay Elements and How Many of Each should be filled out are Detailed Below, but these Serve only as a Base and may be adjusted or even left out for each Character or Game.
+
+    PERSONALITY TRAITS
+        Personality Traits should help flesh out a character's personality. Personality should not be explained in a paragraph. Single Sentences of a couple of keywords can help get a Personality across. A Personality should guide the Players or Game Master in how the Character would Act and Interact with other characters and scenarios. A Minimum of Three Personality Traits should be Stated.
+
+    PERSONALITY IDEALS
+        Ideals should help flesh out a character's actions. Ideals should not be explained in a paragraph. Single Sentences of a couple of keywords can help get Ideals across. Ideals should be used as a guide for Players and the Game Master in explaining the motives and drives of a character and how this relates to any scenarios or situations. A Minimum of Three Ideals Traits should be Stated.
+
+    PERSONALITY FLAWS
+        Flaws should help flesh out a character's Faults and Mistakes. Flaws should not be explained with a paragraph. Single Sentences of a couple of keywords can help get Flaws across. Flaws should be used as a guide for Players and the Game Master, explaining the Character's Faults and Actions and how this can affect the Story or relations in any way. A Minimum of Three Flaws Traits should be Stated.
+
+    ALIGNMENT
+        Alignments should help flesh out a character's Morals. Alignments can change during the Story, which can have major effects on the way the Character views themself and others. Alignments are described as one out of nine different choices: Lawful Good, Neutral Good, Chaotic Good, Lawful Neutral, True Neutral, Chaotic Neutral, Lawful Evil, Neutral Evil, Chaotic Evil.
+
+    GOALS
+        Goals should help flesh out a character's Motives. Goals can change during the Story, which gives the Character and Player more room to grow. Goals can be simple or complex- but their entire purpose is to provide meaning to the Character. Characters should not be made without goals because this severely hurts the Character's playability. 
+
+█ Character Relationships
+
+Characters typically have relationships with other characters. Characters in this Homebrew have Relationship Ranks they can reach with other characters. This is normally focused on Player Characters, however, Non-Player Characters may also be given Relationship Ranks. All Relationships begin from Rank C which means the Character is a known acquaintance of the other. Other Ranks Exist Beyond C Ranks which allow Other Characters to Interact and Support other Characters in More Ways. This all functions through the support system which is tied to Leverage and Combat (@adhd_combat).
+
+    SUPPORT SYSTEM
+        X Rank - X Rank is the special Rank obtained and can only be obtained with one character (unless this rank is broken). This Rank can only be reached through Character's Initiating Romantic Relationships with each other. This mostly implies Marriage or Relationships- However, X Ranks can be broken if the Romantic Bond is broken. This Rank Strongly Increases Character's Synergy with each other.
+            > Characters can Borrow One Modifiers from the Other Character
+            > Characters gain 8 Extra Leverage when Directly Interacting with the Other Character
+            > Characters can be Controlled by Companion Player
+
+        S Rank - S Rank is the final highest Rank that can be obtained. This Rank allows for Characters to get intimate with each other, however, characters can still be friends with each other. S Ranks Implies that the characters are best friends, however, this can be broken through betrayal. This Rank allows for powerful Synergy with other characters and is best paired when multiple characters have S Rank.      
+            > Characters gain 8 Extra Leverage when Directly Interacting with the Other Character
+            > Characters can Borrow One Modifiers from the Other Character
+
+        A Rank - A Rank is a second-highest Rank that can be obtained. This Rank initiates Friendships amongst other characters, However, A Ranks can be Easily Broken if ignored or neglected during Roleplay and Combat. Character's with A Ranks are Typically seen as good friends with each other however are restricted by their differences. These ranks can also be left with really good first impressions, however, that is more challenging to do.
+
+        B Rank - B Ranked is the First High Rank that can be obtained. This Rank can be earned through good impressions and is typically no different from C Ranks. This Rank can transition smoothly into A Ranks if treated properly. This Rank does not affect the Character's Relation in any Negative or Positive Ways. Characters with this Rank can transition into A Ranks through Similiar Morals or Constant Cooperation and Social Interaction.
+
+        C Rank - C Rank is the most Neutral Rank earned- and is typically made when talking to an Character for a duration of time. This Rank does not affect the Character's Relation in any Negative or Positive Ways. C Ranks can be skipped over if the Character leaves a bad or good impression on another character. This can vary but will mostly tie into the Character's Morals and Ideals
+
+        D Rank - D Ranked is the First Low Rank that can be obtained. This Rank can be earned through negative impressions and is typically no different from C Ranks. This Rank can transition into E Ranks if neglected to repair. This Rank does not affect the Character's Relation in any Negative or Positive Ways. Characters with this Rank can transition into E Ranks through Opposite Morals or Constant incorporation and Negative Social Interaction. 
+
+        E Rank - E Rank is the second-lowest Rank that can be obtained. This Rank implies both Characters have a strong dislike for each other. This is usually earned through negative interactions, opposite views, or Betrayal. These Ranks can be changed over time but are difficult to mend when characters dislike each other. Characters with these Ranks can normally set aside differences when dealing with enemies.
+            > Characters lose 8 Extra Leverage when Directly Interacting with the Other Character
+            > Supporting Perks and Modifiers cannot Effect Eachother.
+
+        F Rank - F Rank is the final lowest Rank that can be obtained. This Rank Results in both Characters being sworn enemies and can be obtained through Revenge, Hate, Moral Views, or Ethical Views. Characters with F Ranks will gain disadvantages with each other in Combat. F Ranks also imply characters will target each other during Combat. Typically F Ranks are nigh-impossible to change.
+            > Supporting Perks and Modifiers cannot Effect Eachother.
+            > Characters lose 8 Extra Leverage when Directly Interacting with the Other Character
+            > Heart Turns are Impossible when these Characters are Involved.
+
+█ Character Behaviors
+
+Non-Player Characters are often given some form of Unique Behavior or Intelligence that dictates how they might function in the world. Many Characters may behave and function differently compared to other Characters- which leads to interesting interactions between other Characters. Detailing Character Behaviors will help Character Interactions greatly, although it is not entirely necessary. Describing these Behaviors can provide details on how they respond within Combat and Interactions. These Details could be drawn from the Characters Backstory, Traits, or Flaws. Character Behavior could be written as notes to function like a Guideline for the Characters Actions and Personality. Character Behaviors are not necessary to write down, but they do help greatly.

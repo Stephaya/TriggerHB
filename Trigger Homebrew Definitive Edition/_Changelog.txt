@@ -1,0 +1,43 @@
+> Rulebook: Removed Universal Electrical Unit.
+> Rulebook: Fixed Grammer and Spelling. 
+> Rulebook: Elaborated in Unclear Areas.
+> Core Mechanics: Increased the number of Crafting Items necessary for Crafting in all circumstances.
+> Core Mechanics: Thresholds for Crafting are now based on the number of Crafting Items being used.
+> Core Mechanics: Patched out an Exploit with Deconstruction of Small Objects.
+> Core Mechanics: Updated the Items and Carrying Capacity section in Player Creation to account for larger objects.
+> Core Mechanics: Removed Threshold Number Scale for less restrictions for rolls.
+> Core Mechanics: Introduced Core Stealth System to Current Build.
+> Core Mechanics: Core Experience System now Relates to Current Build.
+> Core Mechanics: Reduced the Experience from Criticals from Five to Three.
+> Player Creation: Modified Support System to give more Advantages and Disadvantages.
+> Player Creation: Individual Modification are Earned from Stats in Increments of Ten Points.
+> Player Creation: First Individual Modification is Earned from the Highest Stat the User Holds.
+> Player Creation: Replaced Character Artificial Intelligence with Character Behaviors. 
+> Player Creation: Added the +1 to the Action Points Formula in Player Creation Formulaic Stats.
+> Player Creation: Clarified that Action Points are Rounded Down in Player Creation Formulaic Stats.
+> Damage Calculation: Introduced Concussive Damage and Piercing Damage to Damage Types.
+> Damage Calculation: Reworked Physics System to Account for Multiple Forces and Immolation System.
+> Damage Calculation: Edited Toxin Systems to Include Radiation System.
+> Damage Calculation: Edited Mutilate System to be applied when Limbs are Disabled and Removed.
+> Damage Calculation: Edited Mutilate System so Negative Leverage is Applied based on how many Limbs are Removed and the Percentage those limbs took up.
+> Damage Calculation: Edited Mutilate System so that Decapitated Characters must have their head Reattached in the next Action to be Saved.
+> Damage Calculation: Edited Mutilate System to Apply with Damage Types and Negative Leverage with Required Damage.
+> Damage Calculation: Edited Mutilate System to Rebalance Percentage Relating to Body Parts.
+> Damage Calculation: Electrical Damage now Applies Levels of Status Effect to Targets.
+> Damage Calculation: Changed Line Splash Damage to Full Splash Damage.
+> Damage Calculation: Changed the Functionality of Special Splash Damage and Full Splash Damage to be more Flexible.
+> Damage Calculation: Patched out an Exploit allowing Immolation to Increase Damage and Leverage at the same time with Physics System Projectiles.
+> ADHD Roleplay: Fixed Player Contract to be more Relevant and General.
+> ADHD Combat: Edited Leverage System to Apply to the Current Build.
+> ADHD Combat: Edited Leverage System to Apply to both Combat and Roleplay Portions of the Game under the correct circumstance.
+> ADHD Combat: Edited Leverage System to Explain Primary Areas Leverage can be gained from.
+> ADHD Combat: Clarified what Teching does in ADHD Combat.
+> ADHD Combat: Introduced Crawling and Crouching KeyActions.
+> ADHD Combat: Separated Key Actions into Four Categories: General Actions, Defense Actions, Offense Actions, Support Actions
+> Metric Calculation: Expanded to Involve More Examples and Provides Extra Details. 
+> Metric Calculation: Expanded Universal Weight to have Changes from Heavier and Ligher Status Affect.
+> Metric Calculation: Expanded USU to introduce Small, Medium, Large, and Huge Objects and the Amount of Space they take up.
+> Status Effects: Added and Revised Content
+> Thresholds: Added and Revised Content
+> Modifications: Added and Revised Content 
+> Perks: Added and Revised Content

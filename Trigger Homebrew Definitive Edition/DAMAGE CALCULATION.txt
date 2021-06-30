@@ -1,0 +1,246 @@
+ © Copyright 2020 - Stephan DeLuna, Garrett Neenan
+
+ This file is part of Trigger.
+
+    Trigger is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Trigger is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Trigger. If not, see <https://www.gnu.org/licenses/>.
+
+𝗧𝗥𝗜𝗚𝗚𝗘𝗥 𝗛𝗢𝗠𝗘𝗕𝗥𝗘𝗪
+
+This Tabletop Homebrew ruleset is inspired by Tactical Games and made to fit within the TableTop Gameplay Format. This Homebrew is made to be easy for novices; however, it leaves just enough complexity for higher level players to utilize and enjoy the unique combat system present. This Homebrew gives players more creative freedom to act. Many new Mechanics introduce new Opportunities for the Players to Use.
+
+Battles are Dynamic. Battles are Fast. Battles are Concentrated.
+
+𝗗𝗔𝗠𝗔𝗚𝗘 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗜𝗢𝗡
+
+◆ Whats in this File?
+	Damage and Vitality Types
+	Damage Concepts and Caculations
+	Damage Reduction and Chip Damage
+	Homebrew Physics Engine
+	Energy Damage System
+	Toxins & Radiation Damage System
+	Mutilation System
+	Splash Damage System
+	Misconceptions
+
+█ Damage and Vitality Types
+
+This Homebrew works off of Multiple Damage Types and Multiple Vitality Types. Each Damage and Vitality Type functions Differently. Damage Types don't dictate damage dealt, but instead the functionality of it. Vitality Types provide different ways for Characters to stay Alive. Shown Below is the List of Damage and Vitality Types. 
+
+	VITALITY TYPES
+		Health Points (HP) - Is the Effective Health the Character has. Health is the only form of Vitality that can be Healed. Healing in this Homebrew only affects Health Points, and no other Vitality Points can be "Healed". Health Points cannot Regenerate (Unless Stated Otherwise). Health Points are the most common form of Vitality. If a Character runs out of Health Points, they are Retired. Health Points are Always affected after all other Vitality Types.
+		Bloom Points (BP) - Is the Temporary Health a Character can aquire. Bloom Points cannot be healed, but rather gained. Bloom Points may have Maximum Values if Stated by Modifiers, Perks, or Entities. Bloom Points have the same properties when taking damage as Health Points.
+		Armor Points (AP) - Is an Artifical Form of Health that can Negate Damage. Armor serves as One-Shot Protection. Other Vitality Types only begin to take damage after Armor is Removed, with Remaining Damage from the Attack being Negated. Damage Reduction Does Not Reduce Damage Dealt to Armor.
+		Shields Points (SP) - Is an Artifical Form of Health that can Self Regenerate. Shields Normally Regenerate 6 SP Per Combat Turn, but This can be Modified Through Perks, Items, and Equipment. Shields Take Full Damage from All Types of Damage. Damage Reduction Does Not Reduce Damage Dealt to Shields.
+
+	The order that damage is reduced in is as follows: Shield Points > Armor Points > Bloom Points > Health Points
+
+	DAMAGE TYPES
+        Normal Damage (ND) - Normal Damage is the Most Common form of Damage there is and comes from either Physical Contact or Physical Projectiles. Normal damage can be blocked and can use the Mutilation System.
+        Concussive Damage (CD) - Concussive Damage is caused by Heavy Blunt Force such as fast moving Objects or Large Weapons. Concussive Damage can be blocked and Struggles to Use the Mutilate System.
+        Piercing Damage (PD) - Piercing Damage is caused by Sharp Focused Force such as Blade points or Bullets. Piercing Damage can be Blocked if not Mutilated and is Ideal in the Mutilation System.
+        Energy Damage (ED) - Energy Damage is dictated through Units of Energy and Type of Energy applied to Targets. Energy Damage cannot be blocked and Only Certain Energy Damage may use the Mutilate System.
+       	Internal Damage (ID) - Internal Damage is caused through Toxins & Radiation. Internal Damage only includes the Biological Attacks on the User's own Immune System. Internal Damage is strictly dictated by the Toxin & Radiation Systems. Internal Damage cannot be Blocked or use the Mutilate System.
+        Abstract Damage (AD) - Abstract Damage functions like the other damage types but includes damage scenarios where other damage types do not apply. Abstract damage can be Blocked and use the Mutilate System. Abstract Damage does not have to follow traditional rules.
+
+█ Damage Reduction and Chip Damage
+
+Items, Perks, or Actions can reduce the possible damage taken for a user. This is Considered Damage Reduction. There are two types of Damage Reduction, Static Damage Reduction (Which applies to Items, Equipment, Perks, and Status Effects) and Dynamic Damage Reduction (Which applies to Counters, Perks, and Status Effects). Details Regarding Damage Reduction and the different Damage Reduction types are described below.
+
+	STATIC DAMAGE REDUCTION
+		Static Damage Reduction is the most common form of Damage Reduction. Static Damage Reduction cannot Negate 100% of Damage Taken. Static Damage Reduction Can Stack up to a Max Damage Reduction of 99% and Directly Lowers the Damage Taken by the User. Static Damage Reduction Applies to Normal, Concussive, Piercing, and Sometimes Abstract Damage
+		Static Damage Reduction is given to a Player Through a Variety of Ways:
+			Equipment
+			Consumable
+			Modifiers
+			Status Effects
+		Static Damage Reduction Applies mostly through Armor and Items and is the only permanent Damage Reduction in this Homebrew.
+
+	DYNAMIC DAMAGE REDUCTION
+   		Dynamic Damage Reduction is a temporary form of damage reduction that comes from Blocking (@adhd_combat-key_actions-defense_actions-blocking). Dynamic Damage Reduction Reduces Values of Damage Instead of a Percentage. There is no Limit to How Much Dynamic Damage Reduction Can Block. If Dynamic Damage Reduction Goes Beyond the Damage Dealt, then Chip Damage is Applied.
+   	 	Blocking will Reduce the Amount of Damage Taken By ((Counter Roll + Added Stat + Leverage) / 2). Reduced Damage functions Per Hit of a Multihit Attack. If the Reduced Damage is Over the Damage Dealt, Chip Damage is Applied. If the Defender rolls a Natural 20, then Chip Damage is not Applied and All Damage is Blocked.	 
+   	 	The Finalized Number For Dynamic Damage Reduction is called the Damage Reduction Value.  Dynamic Damage Reduction Values may be increased via the Immolate Function. Dynamic Damage Reduction Will Trigger the PassOnEffect. 
+
+    CHIP DAMAGE
+		Chip Damage Dictates how Much Damage is Taken if Dynamic Damage Reduction Extends Beyond the Amount that the Base Attack Dealt. 
+		Chip Damage differs between Multi Hits and Single Hits.
+			Single Hits - Damage Output for the Attack is Reduced Down to 1 Damage.
+			Multi Hits - Damage Output for Multihits is Scaled Down to 1% Damage, with a minimum of 1.
+
+█ Homebrew Physics Engine
+
+This Homebrew Introduces Its own Fully Made Physics Engine that Calculates Damage of Moving Objects, Leverage Added to these Objects, The Speed of these Objects, and where these objects land. This introduces complexity into the game. This Physic Engine Works through the Universal Measurement System found in Metric Calculation. It should be noted that due to its complexity, the Physics System does not have to be used for All Projectiles, and may be replaced with static Damage, Range, and Leverage numbers on Equipment to make things faster and simpler.
+
+PHYSICS SYSTEM
+    A Physics Damage System is installed to determine values for projectiles. The Formula Provided below determines an object's damage output based on speed, size, and weight. Formulas for Interacting with Object in different ways has been provided.
+
+    Formulas for Physics Engine: 
+    	(Counter Roll + Added Stat) > (UWU * 2) = Object is Carriable
+        (((Counter Roll + Added Stat) * 4) / UWU) = USP Object Thrown
+        (USP / 6) = Distance Object Thrown in Meters
+        Square Root((USU + UWU) * (USP / 2)) = Damage Dealt
+        Square Root(Damage Dealt by Projectile) = Leverage Value 
+
+    For the sake of Damage Calculation of Small Projectiles, any Object with a USU less than 1 will be considered to be 1 USU.
+
+    In the Case a Projectile is under the influence of Two or More Forces Acting on it, the Distance from each Individual Force should be calculated and the resulting Vectors added together from Tip to Tail in their respective Directions. Once the End Point has been reached, a line will be drawn back to the Source of the Projectile in order to determine the final Distance, which will be Multiplied by 6 to Determine the USP of the Projectile. 
+    
+    In the Case a Character is being Affected by Physics, the Affected Character is Capable of Utilizing that Leverage to Perform an Action While being Moved. This Leverage Acts as Positive Leverage if their Action is Targeted Towards the Direction they are Moving, and Negative if in any Other Direction (@adhd_combat-key_actions). 
+
+    Objects being thrown by the Physics System may not have their Damage Points Increased by the Immolation System. The Immolation System may still be used to Increase the Counter Roll to Throw an Object, but not the Damage Directly. (@adhd_combat-immolate_system).
+
+KNOCKBACK SYSTEM
+    Knockback is introduced to complexify and create a more dynamic combat environment. Knockback is Separate from the Physics System in that Knockback is caused by Damage Dealt by Attacks as opposed to Specific Actions, such as Throwing. Knockback is Determined by the Damage Type as well as the Damage Dealt. Knockback Damage is an effect introduced to allow possible recovery with some reward on the attacker's end. Knockback Damage is triggered once a character is pushed into an object or NPC. Damage is Taken for Every Meter They were Pushed Back For. The Rules and Calculations for these are shown Below: 
+
+    	Knockback Damage Calculations Formula:
+        	(Damage Taken / UWU) = Total Knockback in Spaces
+        	(Knockback Traveled / UWU) + Remaining Knockback = Damage Dealt
+
+    Concussive Damage causes Double Knockback and Explosive Energy Damage causes Regular Knockback. Upon taking a Single Concussive Damage Attack or a Single Explosive Energy Damage Attack Equal to a third of the User's Maximum Health Points, the User will be forced into Crawl after knockback (This does not apply on Damage dealt to Bloom, Armor, or Shields Points). Normal Damage causes Regular Knockback. Piercing Damage, Internal Damage, and Other Energy Damages has no effects when dealing with Knockback. Abstract Damage can Deal Knockback, but this is usually stated in the Attack. 
+
+█ Energy Damage System
+
+The basis behind this damage calculation is that Fire, Electricity, Explosions, and Chemical Acids all do the same thing to the human body; they burn. This allows the damage from these different forms to be standardized into one working system based on having four rising levels of severity based on real life. It should be noted that while each category has a guideline Temperature, Voltage, or other Requirement, The Game Master has full discretion as to what Degree of Damage is used at any given time. Energy Damage may also be dealt with Custom Static Numbers depending on the game and situation. Elemental Status Effects may be found in the Catalog.
+
+In cases of Full Body Burns (FBB), all damage from each increment is multiplied by a factor of 4. 
+To cover the Full Body in a substance it takes 75 liters of liquid.
+
+	STANDARD ENERGY DAMAGE
+		1st Degree: 2 damage (FBB - 8) (Explosion - 32)
+		2nd Degree: 4 damage (FBB - 16) (Explosion - 64)
+		3rd Degree: 8 damage (FBB - 32) (Explosion - 128)
+		4th Degree: 16 damage (FBB - 64) (Explosion - 256)
+
+	THERMAL BURNS
+		Thermal Burns can be caused by Fire, Steam, or other Hot objects. 3rd Degree Thermal Burns apply the Burning Status Effect. Burn Damage can be reduced or made more dangerous based on clothing and equipment, as flammable clothing will easily result in a Full Body Burn, but some clothing is Fireproof. Burn Damage is Halved if the target is Wet.
+
+				1st Degree - 50 C (2) (FBB 8)
+				2nd Degree - 80 C (4) (FBB 16)
+				3rd Degree - 800 C (8) (FBB 32)
+				4th Degree - 1000 C (16) (FBB 64)
+
+	FREEZER BURNS
+		Freezer burns are a variation of Thermal Burns revolving around cold, dealing half normal Burn Damage. 2nd Degree Freezer Burns and higher apply the Frozen status effect, taking away the character's ability to use the PassOnEffect until the end of their next Combat Turn. Cold Damage can be reduced by clothing and equipment. Cold Damage is Doubled if the target is Wet.
+
+				1st Degree - 0 C (1) (FBB 4)
+				2nd Degree - -25 C (2) (FBB 8)
+				3rd Degree - -80 C (4) (FBB 16)
+				4th Degree - -200 C (8) (FBB 32)
+
+	CHEMICAL BURNS
+		Chemical Burns are unique in that there is no one unifying way to measure them, every chemical will do something different. With that in mind, the person controlling any given character that uses Chemical Damage MUST KNOW how effective that chemical is going to be. Chemical Burns in real life are classified using the Degree Burn system, any player that does not know the strength of their chemical is subject to the Game Master's discretion. Players using Chemical Damage are also responsible for the effect their Chemical will have on clothing and must plan accordingly. Refer to the Catalog for status effects caused by chemicals, and if one doesn't exist that fits, speak to the Game Master about it.
+
+				1st Degree - Battery Acid (2) (FBB 8)
+				2nd Degree - Gastric Acid (4) (FBB 16)
+				3rd Degree - Nitric Acid (8) (FBB 32)
+				4th Degree - Sulfiric Acid (16) (FBB 64)
+
+	ELECTRICAL BURNS
+		Electricity, by its nature, will automatically deal Full Body Burn damage. 3rd Degree Electrical Burns cause Internal Bleeding and Shocked Status Effect, being at Level One in the 3rd Degree and Level 2 in th 4th. Specific protective equipment can be worn to grant partial or complete protection against Electrical Damage. Electrical Damage is Doubled if the target is Wet. 
+
+				1st Degree - 999 volts or less. (8)
+				2nd Degree - 10000 - 99999 volts. (16)
+				3rd Degree - 100000 volts to 999999 volts. (32)
+				4th Degree - Caused by Electricity at any voltage at or above 1 million. (64)
+
+	EXPLOSIVE BURNS
+		Explosions deal damage equal to FBB Damage x 4. Explosions have set AOE ranges based on the power of the explosion. For every 500g TNT Equivalent, the damage spreads 1 additional meter away from the source. Explosions Typically function as Radial Splash Damage, and deal Less Damage the Further from the Source a Target is.
+
+				1st Degree - 1 - 499g TNT Equivalent (32)
+				2nd Degree - 500 - 999g TNT Equivalent (64)
+				3rd Degree - 1 - 499kg TNT Equivalent (128)
+				4th Degree - 500kg+ TNT Equivalent (256)
+    			Nuclear - 15000kg TNT Equivalent (!) 
+
+    MACH SPEED BURNS
+  		Objects Moving at Mach Speeds take Damage based on How Fast they are Moving, this Damage is Unblockable and is Unrelated to Damage Dealt After Hitting a Target. Damage Beyond Mach 3 will give the Target the Nausea Status Effect. Mach Damage will always increase through increments of X * 2.
+        
+        		Mach 1 (343 USP) - 2 Damage
+        		Mach 2 (686 USP) - 4 Damage
+        		Mach 3 (1029 USP) - 8 Damage 
+        		Mach 4 (1372 USP) - 16 Damage 
+        		Mach 5 (1715 USP) - 32 Damage 
+        		etc.
+
+█ Toxins & Radiation Damage System
+
+Toxins and Radiation encountered in-game will typically affect characters by damaging or shutting down Internal Organs. Various Organs are affected by Toxins and Radiation in a Variety of Ways. Toxins could also be distributed in Various Ways, although most distribution is done through Gasses, Liquids, and Waves. Toxins and Radiation that damage Internal Organs affect characters as specific status effects that deal damage based on the organ being affected:
+
+	TOXIN SYSTEM
+		Toxins encountered in game will typically affect characters by damaging or shutting down Internal Organs.
+		Toxins that damage Internal Organs affect characters as specific status effects that deal damage based on the organ being affected:
+			1. Brain - Death/Retirement
+			2. Heart - Death/Retirement
+			3. Liver - Death/Retirement
+			4. Organ - 12 damage for every affected organ every Combat Turn until dealt with.
+			5. Nerves - 4 damage per affected area (if nerve cells are killed) and any part of the body that requires manual input past the damaged Nerves cannot be used until repaired, this includes the Lungs, Bladder, and Limbs and can lead to full body Paralysis. (Nerve Damage Cannot Deal More than 40 Damage).
+			6. Lungs - Causes Suffocation until dealt with. The Level of Suffocation is Determined by the Toxicity Catagory Rating.
+			7. Stomach - Causes Vomit Immediately. The Level of Vomit is Determined by the Toxicity Category Rating.
+			8. Eyes - Causes Blinded until dealt with. The Level of Blindness is Determined by the Toxicity Catagory Rating.
+			8. Bloodstream - X damage every Combat Turn for every Quarter Liter of Toxin in the Blood Stream until dealt with. 
+		There is a Toxicity Category Rating for Toxins Damage, Which Has 4 Levels:
+			Level 1 Deals 0 Damage but may apply light Status Effects.
+			Level 2 Deals 4 Damage and applys Level 1 Status Effects on the Lungs, Stomach, and Eyes.
+			Level 3 Deals 12 Damage and applys Level 2 Status Effects on the Lungs, Stomach, and Eyes. 
+			Level 4 Deals 24 Damage and applys Level 3 Status Effects on the Lungs, Stomach, and Eyes.
+
+	RADIATION SYSTEM
+    	Radiation functions as a special type of Internal Damage. 
+    	For every 1/2 Grays (Gy) of Radiation absorbed by a living Entity, they will lose 1 Maximum Health Point.
+    	Radiation Damage may also simply be dealt directly as a type of Internal Damage.
+    	Radiation Damage will have additional Adverse Effects as more Gy is Absorbed and Maximum Health Decreases; These Effects Override each other:
+        	25% Maximum Health Depleted: Nausea I
+        	50% Maximum Health Depleted: Nausea III
+        	75% Maximum Health Depleted: Nausea III + Skin Ruptures, causing External Bleeding II
+        	90% Maximum Health Depleted: Brain Shutdown
+
+Keep in mind before using Radiation in your Game that it is not easily Reversed, and typically requires Special Treatment to Cure. The amount of a Toxin necessary to lead to adverse effect,s as well as the method of affliction (injection, contact, etc.), is up to the player using said Toxin to be aware of before they use it; otherwise it is up the the GM's discretion. Toxins such as melatonin that don't hurt people but instead have some other effect are dealt with using Status Effects. If no Status Effect exists that fits what the toxin does, speak to the GM about creating one.
+
+█ Mutilation System
+
+The Mutilation System applies when Character's Limbs are Removed, Broken, or Disabled. The Mutilation System Reduces the Character's Max Health Points and applies Negative Leverage to the Character, depending on which Limb is Removed, Broken, or Disabled. Disabling and Breaking Limbs only applies Negative Leverage, and does Not Remove Maximum Health. Disabling, Breaking, or Removing Limbs prevents the User from being able to use those Limbs, although this is temporary for Disabling and will Function through the Stun Status Effect (@uni-status_effects). Disabling or Breaking the Head will leave the User Unable to Process whats happening around them, while Removing the Head results in instant Retirement to a character, to which the Character will Die in the Next Action. Decapitated Character are able to be saved if their head is reattached within the Next Action. Mutilation Damage reduces Max Health Points and Applies Negative Leverage based on the Removed Limb, a list is provided below to show this:
+
+	Head 				6%
+	Torso				30%
+    Upper Arm  			4%
+    Forearm    			4%
+    Hand       			2%
+    Midrift   			12%
+    Waist     			12%
+    Thigh     			5%
+    Calf     			4%
+    Feet       			1%
+
+The Percentage shown above indicates how much Max Health should be Removed from a Character once that Limb is gone. The Mutilation System applies through Mutilation Actions (@adhd_combat-key_actions) which determines the amount of Required Damage there must be to Remove a Limb and the Negative Leverage Associated. The Mutilation System also applies from localized Explosions and Projectiles. Projectiles considered Medium in Size compared to the Target are capable of Mutilation when moving at Mach 3 or Faster (Small Objects typically won't Remove Limbs, but may Disable or Break them instead). Explosions only Require 1g TNT Equivalent to Mutilate a Limb when Applied Directly on the Limb, but from further away may not Mutilate at all depending on context.
+
+█ Splash Damage System
+
+The Splash Damage System allows for Attacks to hit Several Targets in the given Area. The Splash Damage System does not Restrict the General Shape that Damage will take. Targets Take Varying Amounts of Damage Depending on the Damage's Shape and Source. Splash Attacks are Capable of Overlapping and Stacking Damage. Splash Damage has various types depending on the purpose of the Splash Attack and the Attack Source. 
+
+	RADIAL SPLASH DAMAGE
+    	Radial Splash Damage Deals Damage to Everything in the radius based on how far away the affected object is from the Splash source. Everything in the Inner Ring will take full damage. The Inner Ring consists of everything from the source to the one-third of the radius. Everything in the Middle Ring will take 66% damage. The Middle Ring consists of Anything between the one-third and the two-third point of the radius from the center to the Radius Edge. Everything in the Outer Ring will take 33% damage. The Outer Ring consists of Anything from the two-third point of the radius to the Outer Edge.
+    	For Example: Explosion deals 30 damage in a 6-meter radius. Anything on the space of the bomb through the first 2 meters will take 30 damage, Anything in the 3rd and 4th Meters will take 20 Damage, and Anything from the 5th to the 6th meters out from the bomb will take 10 Damage.
+
+	FULL SPLASH DAMAGE
+    	Full Splash Damage Deals the Full Damage of the Attack to Everything in the Specified Area. The Size of the Splash Damage could be of Any Scale or Any Shape as specified in the Attack. Full Splash Damage Requires that the Shapes and Area are fully Connected to Eachother. The Shape of the Splash Damage could take any form.
+    	For Example: Spikes Invade the Ground Below Traveling in a Line up to Several Meters. Everything on that Line would take 32 Damage. Objects Outside the Line would take no Damage. This Would hit Multiple Objects Standing on the Line.
+
+	SPECIAL SPLASH DAMAGE
+    	Special Splash Damage is a combined form of Radial and Full Damage. The Size and Shape of the Splash Damage will Deal Full Damage to Everything in it, while Everything Outside the Shape from a Set Distance will Deal Half Damage to Everything. The Set Distance Outside the Primary Shape will vary by Attack, but must keep the same Shape.
+   		For Example: A Flamethrower deals 16 Damage to everything within the Cone of Effect, with each layer of the Cone being its part of the Full Damage; Entities just outside the Cone would take 8 Damage and would not be set on Fire.
+
+█ Misconceptions
+
+> Status Effects Bypass All Damage Reduction and Chip Damage.
+> Chip Damage does not apply to Knockback. Teching is the only way to reduce Knockback Damage. (@adhd_combat-key_actions-defense_actions)

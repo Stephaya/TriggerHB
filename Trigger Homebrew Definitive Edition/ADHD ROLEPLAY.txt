@@ -1,0 +1,90 @@
+ © Copyright 2020 - Stephan DeLuna, Garrett Neenan
+
+ This file is part of Trigger.
+
+    Trigger is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Trigger is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Trigger. If not, see <https://www.gnu.org/licenses/>.
+
+𝗧𝗥𝗜𝗚𝗚𝗘𝗥 𝗛𝗢𝗠𝗘𝗕𝗥𝗘𝗪
+
+This Tabletop Homebrew ruleset is inspired by Tactical Games and made to fit within the TableTop Gameplay Format. This Homebrew is made to be easy for novices; however, it leaves just enough complexity for higher level players to utilize and enjoy the unique combat system present. This Homebrew gives players more creative freedom to act. Many new Mechanics introduce new Opportunities for the Players to Use.
+
+Battles are Dynamic. Battles are Fast. Battles are Concentrated.
+
+𝗔𝗗𝗛𝗗 𝗥𝗢𝗟𝗘𝗣𝗟𝗔𝗬
+
+◆ Whats in this File?
+    Inside of Social Gameplay
+    ADHD Roleplay
+    Reputation 
+    Relationships
+    Player Contract
+
+█ Inside of Social Gameplay
+
+Tabletop Roleplay has Gameplay inside and outside of the Social Aspect. The Idea of Tabletop Roleplays is to Expand your comfort zone and Act and Talk more openly with others. The Social Aspect here is Part of the Bread and Butter of All Tabletop Games. If no one Acts, the Game will become Stale.
+
+█ ADHD Roleplay
+
+The ADHD Roleplay Style in this Homebrew Popularizes a Lack of Maps with a Heavy Emphasis on Interacting through the world. This Interacting happens through the Game Master, as player explore the world through Directional Means, with Visuals Relating to the Area. Sometimes before ADHD Roleplay can begin, the Game Master May Ask Everyone to Roll D20s to See What Type of Events could happen to them. 
+
+The Fundamental Process that ADHD roleplay takes is through processes similar to Point and Click Adventures. Characters are taken from One Location to Another with simple connections in the World. Characters and Interesting Items are more concentrated this way, allowing more engaging and Focused Gameplay.
+
+Characters Take Turns acting within Areas. If Multiple Characters are within the same Area, they all share the same Turn. All Characters' Turns Function off of their Initiative; Characters with the Highest Initiative can act First. Once a Character Moves to a new Area, their Turn ends, and the Character with the next Initiative can Act in their Area. When Characters move into a new Area or area- they should be told details about the area.
+
+Combat can Initiate in Roleplay, However, Characters not within the Area are not drawn into Combat. Combat is only Initiated through natrual agreement, preemptive strikes, or directed strikes. All Characters in the Same Area are drawn into combat. Characters Are given Two Turns in Combat before Combat Pauses and the next Character may act in their Area. Characters Outside of Combat can Affect Combat Zones through Outside Forces. However, Interacting with the Combat Zone from a far distance will instantly end their turn. Interacting with Combat Zones will function through Combat Zone Rules (@adhd_combat).
+
+█ Reputation
+
+Reputation in this Homebrew Functions as current Social Status of the Party. Reputation directly ties to how other Characters will Treat the Player Characters. Reputation Works on Scale from -50 to 50. Reputation could start anywhere, but the Scale dictates how Characters are Treated. Reputation increases through Interactions with other Characters, Impressions, and Questlines. Lower Reputation Scores Typically Means Characters are Feared and Hated- While being Well-known with those of Low Reputation. Higher Reputation Typically Means Characters are Adored and Respected- While being Hated or Targeted with those of High Reputation. Reputation is not related to Character's Alignments; Characters Can be Evil and still hold High Reputation. 
+
+Reputation Can Enable Characters to Have Higher Relations with Characters. Reputation can also allow Access to Questlines or Exclusive Content. Reputation Functions as the Non-Linear Key the Players Mold during their Adventures.
+
+█ Relationships
+
+Relationships in this Homebrew Functions as Personal Social Links between Characters. Relationships help develop characters with each other. Players can Increase or Decrease these Relationships to get personal details about each other or benefits. Bonds can also be formed to create allies that could eventually join the Players Party (If the Game Master Allows It). Lower Relationships Typically Means that Characters are Rivals or Enemies of Eachother. Higher Relationships Typically Means that Characters are Friends or Lovers of Eachother. This means that these Relationships Can help With Questlines in Connecting with Certain Characters or Using Certain Characters, Or Relationships can provide Character Development for Them.
+
+Companions Modifications are Possibly the Most Direct Reward Relationships Give as they Provide Buffs and Modifiers for Befriending Other Characters. Relationships Function as the Tools the Players use to Further the Game and their Characters. 
+
+For more Details on Character Relationships and the Effects they have, see (@player_creation-character_relationships).
+
+█ Player Contract
+
+The purpose of this contract is to lay ground roles and procedures for both the Players and the Game Master to ensure a cool and good gaming experience, all players will be required to agree to this Player's Contract if they are to be allowed to continue playing the game. Breach of Contract will result in verbal warnings and repeated offenses CAN result in ejection from the game if issues continue. Player Contracts are followed by both the Game Master and Players; Unless the Player Contract is not Used. Player Contracts are determined based on the Game Master's Own Decision.
+
+𝟭. 𝗥𝗲𝘀𝗽𝗲𝗰𝘁 𝘁𝗵𝗲 𝗚𝗮𝗺𝗲 𝗠𝗮𝘀𝘁𝗲𝗿
+The Game Master is responsible for creating the universe, making things happen in said universe, showing up to every session, running every session, roleplaying characters, managing inventories, managing shops, and managing relations, and actually running each and every single character. The Game Master Manages the Entire Game typically by themselves. Without Game Master there would be no game. Do not forget that.
+
+𝟮. 𝗕𝗼𝘁𝗵 𝗚𝗮𝗺𝗲 𝗠𝗮𝘀𝘁𝗲𝗿 𝗮𝗻𝗱 𝗣𝗹𝗮𝘆𝗲𝗿𝘀 𝗘𝗻𝘀𝘂𝗿𝗲 𝗙𝘂𝗻
+Everyone should go into every session with the mindset that they will enjoy themselves. This also means that the Game Master and all the players should go into each session with the mindset of "Is what I'm doing allowing others to have fun?" If everyone is concerned with the wellbeing of the other people involved, everyone will enjoy themselves! It's the Player's Job to make sure other Players and the Game Master are having fun. It's up to the Game Master to make sure everyone else is having fun.
+
+𝟯. 𝗕𝗿𝗲𝗮𝗸 𝗮𝗹𝗹 𝗣𝗿𝗲𝗰𝗼𝗻𝗰𝗲𝗶𝘃𝗲𝗱 𝗡𝗼𝘁𝗶𝗼𝗻𝘀 𝗼𝗳 𝗨𝗽𝗰𝗼𝗺𝗶𝗻𝗴 𝗦𝗲𝘀𝘀𝗶𝗼𝗻 𝗘𝘃𝗲𝗻𝘁𝘀
+Sessions will play out naturally and whatever happens- happens. If things don't go the way a Player thinks they'll go down, they will not have fun, but if Players goes in ready to adapt to any situation and trust that the Game Master is out to give them a good time, everyone will be happy. Stories change and the world requires conflict and negative events to keep the story going. The Game Master wants to give the player challenges and events to overcome as this helps with development. 
+
+𝟰. 𝗟𝗲𝗮𝗿𝗻 𝘁𝗵𝗲 𝗥𝘂𝗹𝗲𝘀 𝗼𝗳 𝘁𝗵𝗲 𝗚𝗮𝗺𝗲
+The Trigger Homebrew Rules are different compared to traditional tabletop roleplaying game rules. Trigger Homebrew although has simple fundamentals to learn there are many Advance Mechanics that can enrich the experience. Knowing these Mechanics could greatly benefit all Players Involved with the Game. Learn the Rulebook before playing the game to avoid complications and missed Opportunities while playing.
+
+𝟱. 𝗦𝗰𝗵𝗲𝗱𝘂𝗹𝗶𝗻𝗴 𝗰𝗮𝗻 𝗯𝗲 𝗛𝗮𝗿𝗱
+Sometimes things come up and either the Game Master or the Players are unable to make it to a scheduled session. Try to show up as much as possible and try to show up on time. Game Masters should always give week notices for thier sessions. This Gives Players at least a Weeks Notice to prepare or rearrange times for sessions. Players should not give excuses for not attending when sessions are told in advance, barring extreme circumstances.
+
+𝟲. 𝗚𝗮𝗺𝗲 𝗠𝗮𝘀𝘁𝗲𝗿 𝗛𝗮𝘀 𝗙𝗶𝗻𝗮𝗹 𝗦𝗮𝘆
+The Game Master always has the final say on any conflict, rule discrepancy, or another issue that arises. Like it or not, Game Master has an authoritative position in the group. Arguing with the Game Master about their executive decisions could result in punishment. That said, Other Players should make an effort to diffuse conflict that happens without forcing the Game Master to step in.
+
+𝟳. 𝗗𝗼𝗻'𝘁 𝗛𝗼𝗴 𝗧𝗵𝗲 𝗦𝗽𝗼𝘁𝗹𝗶𝗴𝗵𝘁
+No Player is the Main Character of this story. Game Master's Should never focus only on the Party, as this limits narrative. The Players should try to include themselves with the world- not the other way around. Players should know that there are Overarching Plots, that may or may not relate to them. The World does not revolve around the Players and Their Actions, as they are simply taking part in a Larger Narrative. This should be kept in mind. Let other players Speak; Let them do things; Dont take Backseats on Decision Making. Let the Game Play Itself.
+
+𝟴. 𝗣𝗿𝗲𝗽𝗮𝗿𝗲 𝗯𝗲𝗳𝗼𝗿𝗲 𝗘𝘃𝗲𝗿𝘆 𝗦𝗲𝘀𝘀𝗶𝗼𝗻
+Both the Players and the Game Master are responsible for prepping before every session. While the Game Master is responsible for establishing the world itself and the events going on at the time, the Players are responsible for knowing what their base goal is for that session and having a general idea of how to act on it. Failure to do so on either side will slow down sessions significantly. This is not fun.
+
+𝟵. 𝗞𝗲𝗲𝗽 𝗖𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝗰𝘆 𝘄𝗶𝘁𝗵𝗶𝗻 𝘁𝗵𝗲 𝗪𝗼𝗿𝗹𝗱
+The Players are responsible for using the information at their disposal to properly roleplay without world breaking. This includes general character background knowledge as well as keeping track of the knowledge their character has. Metagaming is easy to do and difficult to reverse in many situations, so it is the Player's job to keep consistent with their character to avoid this. If something happens to another Player in a session, only those characters who were present in-universe are aware of what transpired until that information is verbally passed along.

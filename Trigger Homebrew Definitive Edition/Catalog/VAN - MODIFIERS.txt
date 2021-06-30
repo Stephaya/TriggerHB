@@ -1,0 +1,446 @@
+ © Copyright 2020 - Stephan DeLuna, Garrett Neenan
+
+ This file is part of Trigger.
+
+    Trigger is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Trigger is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Trigger. If not, see <https://www.gnu.org/licenses/>.
+
+█ Basic Modifiers
+
+Stats can be Increased through Experience with Counter Rolls and Objective Rewards. Stats will Increase by One Point once a Hundred Experience has been earned in the Stat. Counter Rolls Increase Experience by 1, unless the Counter Roll is Rerolled, which will make it 0, or was a Critical, making it give 3. Once a Hundred Experience has been reached in a Stat, the Stat will Permanently increase by one Point. This will Change the Character's Formulaic Stats if they have any.
+
+Strong - +X Strength        
+Dextrous - +X Dexterity     
+Hardy - +X Constitution 
+Smart - +X Intelligence 
+Wise - +X Wisdom            
+Charismatic - +X Charisma       
+Durable - +X Endurance      
+Agile - +X Agility      
+Perceptive - +X Perception 
+
+█ Individual Modifiers
+
+Stats Increase Naturally over time through Experience as previously shown. Once a Single Stat has Increase past Ten, the Character will be able to Earn an Extra Modifier Related to the Chosen Stat. This Specific Stat can Gain Extra Modifiers Relating to the Stat or Upgrade Preexisting ones once a Single Stat has Increased past Increments of Ten. These Modifiers are related to the Specific Stat and will often Increase Counter Rolls or Improve Situations in which these Stats are Used.
+
+STRENGTH
+
+Exertion - 1D8 with Strength Rolls Outside Combat. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Strength Rolls. This does not work if multiple stats are being rolled with.
+
+Skirmish - 1D8 with Close Combat Offense. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled while in Close Combat Offense. This refers to close combat that focuses on offensive maneuvers.
+
+Intercept - 1D8 with Restraining Targets. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled while Restraining Targets. This refers to restraining targets through grabs or tackles.
+
+Import - Allows for Two Extra Spaces for Carrying Objects. This Modifier changes over three levels; each level after level one adds one extra Inventory Space for Carrying Objects. This does not increase stack sizes or allow carrying larger objects.
+
+Hoist - Allows Carrying One Large Object in Inventory. This Modifier changes over three levels; each level allows carrying one Extra Large Object in Inventory. This does not increase stack sizes or increase inventory space.
+
+Flurry - Allows for 3 Extra Multihits when Immolated in Offense Counter Roll. This Modifier changes over three levels; each level after level one Increases Extra Multihits by Another 3 through Immolations. This does not affect damage or leverage.
+
+Thrash - Allows for 25% Extra Damage when Immolated in Offense Counter Roll. This Modifier changes over three levels; each level after level one Increases Extra Damage by Another 25% through Immolations. This does not affect multihits or leverage.
+
+Lacerate - Allows for 25% Less Damage for Mutilation Actions. This Modifier changes over three levels; each level after level one Decreases Required Damage for Mutilation by Another 25%. This does not affect damage or leverage associated with mutilation.
+
+Ruthless - Allows for 25% Extra Damage against Stunned Targets. This Modifier changes over three levels; each level after level one Increases Damage against Stunned Targets by Another 25%. This does not increase the stun or cause stun.
+
+Seize - Allows for 25% Extra Damage when Grabbing Targets. This Modifier changes over three levels; each level after level one Increases Damage against Grabbed Targets by Another 25%. This includes throwing and attacking targets grabbed by the user.
+
+DEXTERITY
+
+Finesse - 1D8 with Dexterity Rolls Outside Combat. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Dexterity Rolls. This does not work if multiple stats are being rolled with.
+
+Deception - 1D8 with Stealing from or Disarming Targets. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled while Deceiving Targets. This refers to stealing or disarming as well as physically tricking targets.
+
+Suppress - 1D8 with Neutralizing Targets. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled while Neutralizing Targets. This refers to physically subduing or repressing targets.
+
+Deconstruct - Allows for Half Extra Crafting Material when Decrafting any Object. This Modifier changes over three levels; each level after level one Increases Extra Crafting Material by One Forth when Deconstructing an Object. This does not change the Threshold for Deconstructing Objects. 
+
+Conspire - Allows for 4 Extra Leverage when Performing Actions while Sneaking. This Modifier changes over three levels; each level after level one Increases Extra Leverage by Another 4 when Sneaking. This does not affect sneak rolls, only rolls from actions while sneaking.
+
+Advance - Allows for 4 Extra Leverage when a Turn is Passed. This Modifier changes over three levels; each level after level one Increases Extra Leverage by Another 4 when the Previous Turn is Passed. This only gives extra leverage if the previous turn was passed with held actions. 
+
+Dominance - Allows for 4 Extra Leverage when Immolated in Offense Counter Roll. This Modifier changes over three levels; each level after level one Increases Extra Leverage by Another 4 through Immolations. This does not affect damage or multihits.
+
+Multitask - Allows Performing One Extra Action while Dashing. This Modifier changes over three levels; each level after level one changes the Restrictions for Actions while Dashing. This Changes from Actions directed to the User, then to Allies, then to Opponents.
+
+Oppress - Allows for Positive Criticals to Stun Targets. This Modifier changes over three levels; each level after level one Increases Stun by One when Attacking Targets with Criticals. This only activates when the user attacks a target with a positive critical.
+
+Guerilla - Allows for Positive Criticals to Deal 25% More Damage. This Modifier changes over three levels; each level after level one Increases Damage against Targets by Another 25% with Criticals. This only activates when the user attacks a target with a positive critical.
+
+CONSTITUTION
+
+Fortitude - 1D8 with Constitution Rolls Outside Combat. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Constitution Rolls. This does not work if multiple stats are being rolled with.
+
+Discipline - 1D8 with Close Combat Support. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled while in Close Combat Support. This refers to helping allies through hindering targets or serving allies.
+
+Determination - 1D8 with Situations against Adversity. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled while against Adversity. This refers to moments where the user is in an exchange initiated by opponent or negative force.
+
+Adaptation - Allows Resistance against Level One Elemental Status Effects. This Modifier changes over three levels; each level after level one Increases the Level of the Status Effects that can be Resisted. This also lowers the level of status effects in relation to the resistance level.
+
+Variation - Allows Resistance against Level One Complex Status Effects. This Modifier changes over three levels; each level after level one Increases the Level of the Status Effects that can be Resisted. This also lowers the level of status effects in relation to the resistance level.
+
+Immunity - Allows Resistance against Toxins or Radiation Status Effects. This Modifier changes over three levels; each level after level one Increases the Level of the Status Effects that can be Resisted from Toxins or Radiation. This also reduces damage dealt from these by 10% each level.
+
+Tough - Allows Resistance against Bleeding and Mutilation. This Modifier changes over three levels; each level Decreases the Level of Any Bleeding Status Effect by One Level. This also increases the negative leverage by -4 that opponents will have while attempting mutilation against the user.
+
+Resurgence - Allows Recovery from Retirement to be more Efficient. This Modifier changes over three levels; each level Increases the Health of the User by 25% upon Recovery from Retirement. This also allows the user to immediately be revived when healed from retirement.
+
+Resisted - Allows Interaction Against Internal Damage twice per Turn. This Modifier changes over three levels; each level after level one Increases by One the Number of Times Players can Interact Against Internal Damage per Turn. This allows users to Block and Parry Internal Damage.
+
+Grounded - Allows Interaction Against Energy Damage twice per Turn. This Modifier changes over three levels; each level after level one Increases by One the Number of Times Players can Interact Against Energy Damage per Turn. This allows users to Block and Parry Energy Damage.
+
+INTELLIGENCE
+
+Logistics - 1D8 with Intelligence Rolls Outside Combat. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Intelligence Rolls. This does not work if multiple stats are being rolled with.
+
+Science - 1D12 with Sciences Related to the Users Studies. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Related Sciences. This refers to specific situations where the user applies related sciences to problems or task.
+
+Engineer - 1D12 with Engineering Related to the Users Studies. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Related Engineering. This refers to specific situations where the user applies related engineering to problems or task.
+
+Interpretations - Allows Users to Reveal the Background Information regarding Targets Actions in the Present. This Modifier changes over three levels; each level increases the Information that can be Revealed Regarding Targets. This is based on the Game Masters Discretion. 
+
+Factorization - Allows Users to Determine the Leverage Held by Targets. This Modifier changes over three levels; each level allows more Transparency with Determining Leverage Held by Targets. This changes from active leverage, then to inactive leverage, then to outside leverage.
+
+Determinization - Allows Users to Determine the Threshold Held by Targets. This Modifier changes over three levels; each level allows more Transparency with Determining Threshold Held by Targets. This changes from active thresholds, then to inactive thresholds, then to threshold alterants.
+
+Fabricate - Allows One Extra Crafting Materials to be Kept when Crafting Medium or Small Objects. This Modifier changes over three levels; each level after level one allows for One Extra Crafting Materials. This will still always use at least one crafting material when making objects.
+
+Produce - Allows 4 Extra Leverage when Crafting Medium or Small Objects with Base Crafting Items. This Modifier changes over three levels; each level after level one Increases Extra Leverage by Another 4. This will not increase the amount of objects produced.
+
+Equalize - Allows Counter Rolls to Balance Leverage between Targets. This Modifier changes over three levels; each level after level one will Balance Counter Rolls even Greater. This changes both counter rolls by 1, then by 2, then by 3 to get closer to each other and will not change if equal or if the User has rolled higher.
+
+Distribute - Allows Carrying Leverage for Two Turns. This Modifier changes over three levels; each level after level one will allow the User to Hold Previous Leverage for One Extra Turn. This will waste the current action's leverage to hold for later and will be replaced when held again.
+
+WISDOM
+
+Rational - 1D8 with Wisdom Rolls Outside Combat. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Wisdom Rolls. This does not work if multiple stats str being rolled with.
+
+Sensible - 1D12 with Knowledge inside Low-Urban Areas Related to the Users Background. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Low-Urban Knowledge. This refers to tricks and trades the user learned from low-urban areas.
+
+Educated - 1D12 with Knowledge inside High-Urban Areas Related to the Users Background. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with High-Urban Knowledge. This refers to tricks and trades the user learned from high-urban areas.
+
+Hypothesize - Allows Users to Reveal the Background Information regarding Targets Actions in the Past or Future. This Modifier changes over three levels; each level increases the Information that can be Revealed Regarding Targets. This is based on the Game Masters Discretion. 
+
+Experience - Allows Users to Determine the Stats Held by Targets. This Modifier changes over three levels; each level allows more Transparency with Stats Held by Targets. This changes from two stats, then to four stats, then to include formulaic stats.
+
+Conclusion - Allows Users to Determine the Attributes Held by Targets. This Modifier changes over three levels; each level allows more Transparency with Attributes Held by Targets. This changes from public modifiers, then to public perks, then to any hidden modifiers and perks. 
+
+Evidence - Allows Investigation to Identify Direct Evidence towards Targets. This Modifier changes over three levels; each level allows for more Information to be Revealed when Identifying Evidence. This changes from direct evidence, then to indirect evidence, then to include hidden evidence.
+
+Indication - Allows Investigation to Identify Directions taken by Targets. This Modifier changes over three levels; each level allows for more Information to be Revealed when Identifying Directions. This changes from cardinal directions, then to specific paths, then to the end destination.
+
+Fusion - Allows Combined Rolls to Increase by 25%. This Modifier changes over three levels; each level after level one will Increase Combined Counter Rolls by Another 25%. This will always have values rounded up when counter rolls are combined and increased.
+
+Retain - Allows Preserving Counter Rolls for Two Turns. This Modifier changes over three levels; each level after level one will allow the User to Hold Previous Counter Rolls for One Extra Turn. This will waste the current action's counter rolls to hold for later and will be replaced when held again.
+
+CHARISMA
+
+Charming - 1D8 with Charisma Rolls Outside Combat. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Charisma Rolls. This does not work if multiple stats are being rolled with.
+
+Performer - 1D12 with Performances Related to the Users Instruments. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Related Instruments. This refers to instruments or performances skills the user's learned before.
+
+Mediator - 1D12 with Communication Related to the Users Relations. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Related Relations. This refers to relations or affiliations the user gained before.
+
+Instigate - Allows Users to Reveal the Background Information regarding Targets Character Traits. This Modifier changes over three levels; each level increases the Information that can be Revealed Regarding Targets. This is based on the Game Masters Discretion. 
+
+Appealing - Allows Users to Increase of Initial Relationships when meeting Targets for First Time. This Modifier changes over three levels; each level allows for Initial Relationships to Increase Rank Higher. This changes from Rank B, then to Rank A, then to Rank S.
+
+Ambitious - Allows User's Relationships to Enable Borrowing Modifiers at Rank A. This Modifier changes over three levels; each level allows for the User to Borrow Modifiers Starting at Lower Ranks. This changes from Rank A, then to Rank B, then to Rank C.
+
+Companionship - Allows Users Relationships to Enable Interaction Leverage at Rank A. This Modifier changes over three levels; each level allows the User to have Interaction Leverage Starting at Lower Ranks. This changes from rank A, then to rank B, then to rank C.
+
+Empathy - Allows Users to Know a Target's Reaction to Information. This Modifier changes over three levels; each level allows the User to Determine Reactions of more Targets. This changes from companions, then to acquaintances, then to strangers.
+
+Disillusion - Allows Users to Know if Companions are Lying to them. This Modifier changes over three levels; each level allows the User to Determine Lies of different Targets. This changes from companions, then to acquaintances, then to strangers.
+
+Sympathy - Allows Users to Know a Target's Emotional State. This Modifier changes over three levels; each level allows the User to Determine the Emotional State of more Targets. This changes from companions, then to acquaintances, then to strangers.
+
+ENDURANCE
+
+Stamina - 1D8 with Endurance Rolls Outside Combat. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Endurance Rolls. This does not work if multiple stats are being rolled with.
+
+Defense - 1D8 with Close Combat Defense. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled while in Close Combat Defense. This refers to close combat that focuses on defensive maneuvers.
+
+Refusal - 1D8 with Resisting Targets. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled while Resisting Targets. This refers to physically resisting or escaping targets.
+
+Excursion - Allows Traversing Difficult Terrain and Environments to have 25% Less Debuffs. This Modifier changes over three levels; each level after level one Decreases any Terrain Debuffs by Another 25%. This will reduce all numerical debuffs from terrain and environments and will not affect buffs.
+
+Transport - Allows for 4 Less Negative Leverage when Carrying of Objects. This Modifier changes over three levels; each level after level one Decreases Negative Leverage by Another 4 when Carrying Objects. This applies to all sizes of objects and any negative leverage from equipment.
+
+Armored - Allows Performing one Extra Action before Stun is Applied. This Modifier changes over three levels; each level after level one Increases the Number of Extra Actions that can be done before Stun. This will still apply stun after extra actions are done or the User stops.
+
+Auxiliary - Allows Performing one Extra Action while Parrying. This Modifier changes over three levels; each level after level one changes the Restrictions for Actions while Parrying. This Changes from Actions directed to the User, then to Allies, then to Opponents.
+
+Endured - Allows Performing one Extra Action while Blocking. This Modifier changes over three levels; each level after level one changes the Restrictions for Actions while Blocking. This Changes from Actions directed to the User, then to Allies, then to Opponents.
+ 
+Origin - Allows Blocking to Negate Knockback from Multiple Attacks at Once. This Modifier changes over three levels; each level after level one changes the Number of Attacks that will have Knockback Blocked all at Once. This changes from three, then to five, then to eight.
+
+Rhythm - Allows Parrying to Negate Damage from Multiple Attacks at Once. This Modifier changes over three levels; each level after level one changes the Number of Attacks that will have Damage Negated all at Once. This changes from three, then to five, then to eight.
+
+AGILITY
+
+Hustle - 1D8 with Agility Rolls Outside Combat. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Agility Rolls. This does not work if multiple stats are being rolled with.
+
+Reaction - 1D8 with Reacting to Targets Attacking. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled while Reacting to Offensive Actions. This refers actions performed by the User in response to anothers offensive actions.
+
+Backlash - 1D8 with Reacting to Targets Defending. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled while Reacting to Defensive Actions. This refers actions performed by the User in response to another's defensive actions.
+
+Rebound - Allows the User to Dash immediately after Teching. This Modifier changes over three levels; each level after level one changes the Number of Dashes that can be done after Teching by One. This will still use an action, although it will only use one action for multiple dashes. 
+
+Recoil - Allows the User to Dash immediately after Escaping. This Modifier changes over three levels; each level after level one changes the Number of Dashes that can be done after Escaping by One. This will still use an action, although it will only use one action for multiple dashes. 
+
+Anticipate - Allows 6 Extra Leverage when Defending from Sneak Attacks. This Modifier changes over three levels; each level after level one Increases Extra Leverage by Another 6 when Defending from Sneak Attacks.
+
+Ambuscade - Allows 30% Extra Damage when Attacking with Sneak Attacks. This Modifier changes over three levels; each level after level one Increases Damage with Sneak Attacks by Another 30%. This does not apply if the sneak roll fails beforehand.
+
+Accolade - Allows Successful Positive Criticals to be Canceled into Actions Once per Target each Turn. This Modifier changes over three levels; each level after level one increases the Number of Criticals that can Canceled per Target by One. This is not restricted by the type of actions and resets after each Turn.
+
+Circumvent - Allows Successful Parries to be Canceled into Dashes. This Modifier changes over three levels; each level after level one changes the Number of Dashes that can be done after Parrying by One. This will still use an action, although it will only use one action for multiple dashes. 
+
+Interchange - Allows Switching Places with Another Ally within 3x the Users Action Range. This Modifier changes over three levels; each level after level one changes the Distance of Switching Places by another 3x the Original Action Range, Additively. This only works with allies and consenting targets.
+
+PERCEPTION
+
+Cognition - 1D8 with Perception Rolls Outside Combat. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled with Perception Rolls. This does not work if multiple stats are being rolled with.
+
+Analysis - 1D8 with Investigating or Inspecting Targets. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled while Investigating or Inspecting. This refers searching or examining through areas or objects.
+
+Patience - 1D8 with Interruption Actions. This Modifier changes over three levels; each level after level one adds an extra dice to be rolled during Interruptions. This refers to actions that are done during interruptions and are not conflicts.
+
+Examination - Allows for Extra Details to be Revealed when Investigating Targets. This Modifier changes over three levels; each level increases the Information that can be Revealed Regarding Targets. This is based on the Game Masters Discretion. 
+
+Accurate - Allows for 3 Less Negative Leverage when Aiming at Targets. This Modifier changes over three levels; each level after level one Decreases Negative Leverage by Another 3 when Aiming at Targets. This does not affect distance and can provide Positive Leverage if the Decreases exceed Negative Leverage.
+
+Scotopia - Allows for 4 Less Negative Leverage when Aiming with Obstructed Sight. This Modifier changes over three levels; each level after level one Decreases Negative Leverage by Another 4 when Aiming with Obstructed Sight. This does not affect distance and negative leverage from distance.
+
+Dissect - Allows for 4 Less Negative Leverage with Mutilation Actions. This Modifier changes over three levels; each level after level one Decreases Negative Leverage by Another 4 with Mutilation Actions. This does not affect damage or damage required associated with mutilation.
+
+Specter - Allows 4 Extra Leverage with Sneak Actions while Sneaking. This Modifier changes over three levels; each level after level one Increases Extra Leverage by Another 4 when Sneaking. This only affect sneak rolls, not rolls from actions while sneaking.
+
+Detecter - Allows 4 Extra Leverage when Searching for Hidden Targets. This Modifier changes over three levels; each level after level one Increases Extra Leverage by Another 4 when Searching for Hidden Targets. This only counts when activetly searching or investigating an area for hidden or sneaking targets.
+
+Priority - Allows for Extra Chance to perform Positive Criticals. This Modifier changes over three levels; each level Increases Chances for Critical by One Extra Value following under the Current Positive Criticals Range. This Increases the Current Positive Critical Range and does not affect Negative Criticals.
+
+█ Companion Modifiers
+
+Modifiers can also be Earned from Character Relations. Benefits come as Relationships between Characters Grow. Characters are capable of borrowing these Modifiers when the Appropriate Relationship Rank is met with the Character. These Modifiers can be removed if the Relationship goes Lower, the Character is Phased out of the Campaign, or the Character dies. These Modifiers are Specific to the Character and often Reflect Personality, Experience, or Skills. Modifiers could be Negative or Positive depending on the Character. Typically, All Companion Modifiers come from Non-Player Characters. Companion Modifiers may have values altered and changed by the GM to provide variety or balance within their Campaign.
+
+MECHANICAL
+
+Calm Mind - Allows for Stun Against the User to be Reduced. This reduces the current Stun Level by Half rounding down.
+
+Resilient - Allows for Knockback against the User to be Reduced. This reduces the current Knockback by Half rounding down.
+
+RecoilBurst - Allows for Recoil Damage Against the User to Increase the Damage Dealt by the Attack against the Target. This Increases Damage by Half.
+
+Aftermath - Allows for Dealing High Damage Against the Target that Retired or Killed the User. This deals Two Times the Users Damage to the Target.
+
+Berserk - Allows for Dealing High Damage Against Targets once the User is Under Half Health. This Increases Damage by Half.
+
+BloodLust - Allows for Dealing Damage Against Targets to Slightly Heal the User. This Heals the User for 2 Health Points every Attack.
+
+ImpactWrists - Allows for Dealing Damage to Increase the Knockback through Physical Attacks against the Target. This Increases Knockback by Half.
+
+Chances - Allows for Positive Criticals to Give an Extra Action and Negative Criticals to Remove an Action from the User.
+
+Unbalance - Allows for Positive Criticals and Negative Criticals Ranges to be Extended for Counter Rolls. This Extends Ranges by an Extra Two Values.
+
+Karma - Allows for Negative Criticals to Follow up with Positive Criticals for the Next Counter Roll. This will replace the Next Roll with a Positive Critical.
+
+OverPower - Allows for Positive Criticals on Sneak Attacks to Instantly Retire Unaware Targets. This will deal damage equal to the Max Health of Targets.
+
+Spartan - Allows for Positive Criticals to Deal Triple Damage instead of Double Damage. This will not affect the Experience gained from Criticals.
+
+Focalize - Allows for Positive Criticals to have no Affect when Against the User. This applies to all Positive Criticals at any range Against the User.
+
+Capitalize - Allows for Negative Criticals to Stun the Target when Against the User. This will not affect the Users Negative Criticals.
+
+Defiance - Allows for Positive Criticals Damage to be Reduced to Normal when Against the User. This will not affect the User's Positive Criticals.
+
+Ruthless - Allows for Dealing High Damage Once the Target is Under Half Health. This Increases Damage by Half.
+
+Merciless - Allows for Dealing High Damage Once the Target is Restrained or Restricted. This Increases Damage by Half.
+
+Cleave - Allows for Dealing High Damage Once the Target has Suffered one Mutilation. This Increases Damage by Half.
+
+Clobber - Allows for Damage Dealing more than Half of Targets Max Health to Leave the Target Stunned. This Applies Level One Stun when conditions are met against targets.
+
+Nikopol - Allows Target's Sneak Attacks Against the User to have Leverage Dropped if the User has been Sneak Attacked Previously. This Sneak Attack Leverage is Fully Negated.
+
+Vassili - Allows Aiming Actions to Never have Negative Leverage based on Distance and Never have Sneak Attack Leverage. This only applies to the User's Leverages.
+
+Oblivious - Allows Users to Negate Damage from Indirect Attacks when Sneaking. This only applies if these Attacks are not directed or scattered around the User.
+
+Buccaneer - Allows Users to have Action Range Distance Increased. This will Increase the User's Action Range by Double the current Action Range.
+
+Vigilant - Allows Users to Not Activate any Traps or Triggers when Sneaking. This only works if the User is not Revealed or being Searched for by Nearby Targets.
+
+Steady - Allows Users to Not be knocked into Crawl by Attacks against them. This applies when the User is Attacked by Targets.
+
+QuickReaction - Allows Users Not to Waste an Action Dodging when being Attacked on a Target's First Turn. This only is Active for the Targets' First Turns, not the User's.
+
+QuickDraw - Allows the User to Action Cancel when Shooting Projectiles at Close Targets. This reaches up to Five Spaces away from the User.
+
+QuickCounter - Allows the User to Action Cancel when Blocking Physical Attacks from Targets. This applies to Melee Attacks and is not Restricted by the Type of Action.
+
+RapidReload - Allows the User to Action Cancel when Manually Reloading or Restocking Equipment. This applies to other Actions or Action Cancels.
+
+Athletic - Allows the User to Cancel Crouching and Crawling into Dashing. The User must have put themselves into a Crouch or Crawl.
+
+BackFire - Allows the User to Survive Explosives when Under Tenth of Max Health. Any Status Effects caused by the Explosives will not apply to the User.
+
+Reserves - Allows the User to Gain One Free Immolation Action After Using Two Immolation Actions. These Immolation must be used on the Same Action.
+
+HumanShield - Allows the User to Gain Extra Leverage when Blocking While Holding Another User for Self Defense. This Increases Leverage by 6 Points.
+
+StrongerTogether - Allows the User to Gain Extra Damage when Holding Another Character to Protect Them. This Increases Damage by Half.
+
+Indestructible - Allows the User to Increase Damage Reduction when Blocking. This Increases Damage Reduction by Half.
+
+Resuscitation - Allows the User to Restore to Full Max Health when Healed from Retirement. This does not Heal Removed Limbs or Health Reductions.
+
+Endure - Allows the User to Perform One Last Action Right After Enduring Fatal Blow. This Actions can be used with any of the User's leftover Step Points.
+
+Sturdy - Allows the User to Survive Fatal Blows with One Health Point Left. This will allow the User to Survive Damaging Status Effects for one Turn when suffering a Fatal Blow.
+
+StrongSpirit - Allows the User to Receive Fatal Blows Once they are Left with One Health Point Left. The User will not take Damage from Fatal Blows for one Turn.
+
+PinPoint - Allows the User to Determine Close Targets Hidding Behind Cover. This reaches up to Ten Spaces away from the User and will not have to Roll to Reveal.
+
+Nullify - Allows the User to Disable the Any Modifier Used by one Target during Combat. This is Global and will be chosen by the User.
+
+Radiated - Allows the User to Gain Extra Leverage when Experiencing Radiation. This Increases Leverage by 2 Points for every 4 Grays.
+
+Mutation - Allows the User to Gain Bloom Points when Experiencing Radiation. This Increases Bloom by 4 Points for every 4 Grays.
+
+STATISTICAL
+
+ActionMan - Allows Users to have One Extra Action. This adds to the Users Current Action Points.
+
+Aptitude - Allows Users to have Quarter Extra Damage. This adds to the Users Current Damage Points.
+
+Vitalize - Allows Users to have Quarter Extra Max Health. This adds to the Users Current Max Health Points.
+
+Adroitness - Allows Users to have Quarter Extra Initiative. This adds to the Users Current Initiative Points.
+
+Momentum - Allows Users to have Quarter Extra Speed. This adds to the Users Current Step Points.
+
+Armored - Allows Users to Start with Quarter Extra Max Health in Bloom Points. This will happens at the start of combat and does not refresh.
+
+Investigate - Allows Counter Rolls Related to Investigating to be Increased by Four. This Affects the Counter Roll, not Leverage.
+
+Engineer - Allows Counter Rolls Related to Crafting to be Increased by Four. This Affects the Counter Roll, not Leverage.
+
+Flirty - Allows Counter Rolls Related to Flirting to be Increased by Four. This Affects the Counter Roll, not Leverage.
+
+Diplomacy - Allows Counter Rolls Related to Diplomacy to be Increased by Four. This Affects the Counter Roll, not Leverage.
+
+Emotional - Allows Users to Use D30s for any Counter Roll. This Applies to all Counter Rolls.
+
+Inversion - Allows Users to Control whether Positive Criticals happen from the Highest or Lowest Point of the Dice before Rolling. This affects the entire range.
+
+Coordinate - Allows Counter Rolls to include Positive Criticals at both Highest and Lowest Values when Action Canceling. This affects the entire range.
+
+Manipulate - Allows Users to Manipulate Either the Users Counter Roll or the Targets Counter Roll by One Value. The User does this after the counter roll.
+
+Regulate - Allows Counter Rolls Against the User to be Incapable of Reaching Positive Criticals. This will reduce any Positive Criticals to the next number below the range.
+
+Diminish - Allows Counter Rolls With the User to be Incapable of Reaching Negative Criticals. This will extend any Negative Criticals to the next number above the range.
+
+Analysis - Allows the User to Determine the Current Threshold or Leverage Against Them. This applies inside and outside of combat.
+
+Diagnosis - Allows the User to Determine the Current Health or Damage from any Target Against Them. This applies inside and outside of combat.
+
+Gambler - Allows the User to Determine the Current Chance of an Event Happening Either With or Against Them. This applies inside and outside of combat.
+
+Desperation - Allows the User to Gain Extra Experience from the Counter Rolls of Nearby Targets With Them. These Counter Rolls can be from Allies and Opponents.
+
+Sociable - Allows the User to Gain Twice the Experience when Rolling for Communication. This applies inside and outside of combat.
+
+Adventure - Allows the User to Gain Twice the Experience when Rolling for Crafting. This applies inside and outside of combat.
+
+Creative - Allows the User to Gain Twice the Experience when Rolling for Investigation. This applies inside and outside of combat.
+
+Phanboy - Allows the User to Gain Extra Tenth of Experience Earned at the End of a Session. The User must keep track of the Experience gained during the Session.
+
+Slayer - Allows the User to Gain Three More Experience Once Retiring or Killing a Target. This will not apply if targets are retired or Killed from Traps.
+
+Enthusiasm - Allows for Positive Criticals to Increase Experience by Five instead of Three. This does not affect Negative Criticals Experience.
+
+SlackOff - Allows for Negative Criticals to Increase Experience by Five Instead of One. This does not affect Positive Criticals Experience.
+
+RELATIONSHIP
+
+Cooperation - Allows Targets with Relationships at Rank S to Share One Counter Roll during Heart Turns. The User and Target will Roll for the Counter Roll Together.
+
+Loyalty - Allows Targets with Relationships at Rank S to gain Extra Leverage when the User is Under Half Health. This Increases Leverage by 6 Points.
+
+Charm - Allows Targets with Relationships at Rank S to gain Extra Experience with the User and Vice Versa. This Experience is divided amongst the User and Targets.
+
+Reliable - Allows Targets with Relationships at Rank S to Perform One Positive Critical when Closest User Perform One Negative Critical. This Triggers the Next Targets Roll.
+
+Associate - Allows Targets with Relationships at Rank A to Increase Counter Rolls by Half when with the User. This only works with Combined Counter Rolls.
+
+Contingent - Allows Targets with Relationships at Rank A to Increase Damage when Three Spaces Away from the User. This Increases Damage by Half.
+
+Arrangement - Allows Targets with Relationships at Rank A to Gain One Extra Action when Three Spaces Away from the User. This does not affect the User.
+
+Veteran - Allows Targets with Relationships at Rank A to gain Extra Leverage when Three Spaces Away from the User. This Increases Leverage by 6 Points.
+
+FollowUp - Allows Targets with Relationships at Rank A to Follow Up with a free Attack when the User is Attacking. This works within 2x the Action Range of the Target.
+
+Assistance - Allows Targets with Relationships at Rank A to Attack another Target for free when the User is being Attacked. This works within 2x the Action Range of the Target.
+
+BloodTide - Allows Targets with Relationships at Rank B to Increase the Users Damage once the Target has Fallen. This Increases Damage by Quarter.
+
+Defender - Allows Targets with Relationships at Rank B to be given an Action from the User when Defending. This removes an Action from the User to be given to the Target.
+
+Avenger - Allows Targets with Relationships at Rank B to be given an Action from the User when Attacking. This removes an Action from the User to be given to the Target.
+
+Diverse - Allows Targets with Relationships at Rank B to allow Users to Use One Action Exclusive to the Target for the Users First Turn. This Starts on the Users Combat Turn.
+
+Plagiarize - Allows Targets with Relationships at Rank E to have their Modifiers Used by the User when with the User. This is not restricted by distance.
+
+Rivalry - Allows Targets with Relationships at Rank F to deal Double Damage Against the Users and Vice Versa. This is not restricted by distance.
+
+INVENTORIES
+
+Duplication - Allows the User to Duplicate One Small Item Found in Any Container. This does not affect Key Items.
+
+Maintenance - Allows for the User to Increase Any Objects Loss Durability through Crafting Materials. This Requires One Original Material to Increase Durability by Quarter.
+
+Restore - Allows for the User to Increase Any Objects Loss Durability through Positive Criticals. This will increase Loss Durability by 5% for every Critical.
+
+Awareness - Allows the User to be Incapable of Losing Held Key Items. Key Items cannot be Stolen or Taken Away from the User, although they can be given away.
+
+Demolition - Allows for User Created Explosives to be Significantly more Powerful. This Increases Damage and Power by Half.
+
+Reactions - Allows for User Created Chemicals to be Significantly more Powerful. This Increases Damage and Status Effects by Half.
+
+Alleviation - Allows for User Created Consumables to be Significantly more Powerful. This Increases Effects and Status Effects by Half.
+
+MultiYield - Allows the User to Hold Three Objects on Hand at Once Instead of Two Objects on Hand. The Users gains an Extra Weapon Slot.
+
+BackMuscle - Allows for Medium Sized Objects to be Carried in at Least Stacks of Eight. This will not reduce the Step Points or Leverage of the User.
+
+BloodyArms - Allows for the User to Hold Objects even after Hand & Arm Mutilation. This still reduces Leverage and Thresholds, although only by Half.
+
+Donation - Allows the Users Counter Rolls to be Increased by One by Spending a Hundred Credits Held by the User. This can be done a Maximum of Four Times.
+
+Invest - Allows the User to Invest Credits into their Next Roll to gain an Extra Ten Percent Back or Lose the Invested Money on a win or loss.
+
+Expense - Allows the Users Credits to Increase by One for Every Counter Roll and Five for Every Critical.
+
+Midas - Allow the User to Increase Credits Earned Directly by Ten Percent the Original Amount. The User Cannot Increase an entire party's credits, only their share.
+
+Discount - Allows the User to have all Vendors give them a Twenty Percent Discount. The User Cannot pass Discount to an entire party, only themselves.

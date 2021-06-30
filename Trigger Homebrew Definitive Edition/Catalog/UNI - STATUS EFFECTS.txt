@@ -1,0 +1,104 @@
+ © Copyright 2020 - Stephan DeLuna, Garrett Neenan
+
+ This file is part of Trigger.
+
+    Trigger is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Trigger is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Trigger. If not, see <https://www.gnu.org/licenses/>.
+
+█ Gameplay Status Effects
+
+Stun (V) - The User is Unable to Move, Act, or Interact for the next One to Five Actions. Stun is Not Removed from a Target upon Taking Damage from other Indirect Attacks, Upon Taking Damage from a Direct Attack, all Stacks of Stun are Removed. Stun Keeps the Target Wasting an Action by Acting Dizzy, and Should be Treated as an Interruption when Stunned on Another Combat Turn. Stun is Capable of Affecting Individual Limbs on a User.
+
+Immobilize (V) - The User is Unable to Move, Act, or Interact for the next One to Five Turns. Immobilize is Not Removed from a Target upon Taking Direct Damage or Indirect Damage. Immobilize Keeps the User Unable to Move Until Turns have Passed, Immobilize Keeps the Target Wasting an Turns by Acting Dizzy, and Should be Treated as an Interruption when Stunned on Another Combat Turn.
+
+Heavier (X) - The User's Weight Changes and Causes the User to Take Different Knockback. Heavier is Not Removed from a Target upon Taking Direct Damage or Indirect Damage. Heavier affects a specific percentage of the affected objects Weight. Each Level of Heavier Increases the Weight of the Object by 10%- Although Each Level can decrease the affected weight if necessary, staying within the Limits of Each Level. Final Level can go Beyond Parameters
+
+Lighter (X) - The User's Weight Changes and Causes the User to Take Different Knockback. Lighter is Not Removed from a Target upon Taking Direct Damage or Indirect Damage. Lighter affects a specific percentage of the affected objects Weight. Each Level of Lighter Decreases the Weight of the Object by 10%- Although Each Level can decrease the affected weight if necessary, staying within the Limits of Each Level. Final Level can go Beyond Parameters.
+
+Retired (I) - The User is Knocked Out. Retired is Reached when the User's Health Reaches Zero. Retire doesn't mean the User is Dead although depending on the Severity of any Wounds or Injuries, Retire could lead to Death. The User Can Be Revived by Restoring At Least 1 Health Point. Upon Revival, the User will be Inactive for the Next Following Combat Turn. Certain Perks can allow the User to Function Briefly Beyond Retirement or Death.
+
+Death (I) - The User is Permanently Dead. Death cannot be reversed through any Conventional Means. Death can be Reached from Reaching Zero while sustaining life threating damage that has not or cannot be healed, Typically Retirement happens before Death. Death can lead to an unrecoverable body. Certain Perks can allow the User to Function Briefly Beyond Retirement or Death.
+
+Nausea (V) - The User is Dizzy and will lose Leverage and Step Points. Every Level of Nausea will have the User Lose 4 Leverage and 2 Step Points, Reaching a Maximum of 20 Leverage and 10 Step Points. Nausea above Level Three will cause the Lost of 1 Action. No Limit set on Nausea unless Stated Otherwise. Nausea at Level Five will cause Vomit III.
+
+Vomit (V) - The User is Vomiting and will be unable to Act. Every Level of Vomit will keep the User Unable to Act for 1 Combat Turn and will be removed after. Vomit Keeps the Target Wasting an Action by Acting Dizzy and Should be Treated as an Interruption when Stunned on Another Combat Turn. Nausea at Level Five will cause Nausea III.
+
+Climax (V) - The User is in Pleasure and will be unable to Act. Every Level of Climax will keep the User Unable to Act for 1 Combat Turn and will be removed after. Climax Keeps the Target Wasting an Action by Acting Dizzy and Should be Treated as an Interruption when Stunned on Another Combat Turn. 
+
+Regen (V) - The User is Regening and will gain Health. Health will be gained every action the user performs. Every Level of Regen will have the User Gain Extra 10% of the Health Back, Reaching a Maximum of 25% Health. Regen last until the User reaches Max Health or until Stated Otherwise.
+
+Hunger (V) - The User is Hungry and will lose Actions. Actions will be lost every turn until Hunger is Gone. Every Level of Hunger will have the User lose 1 Action on thier Turn, Reaching a Maximum of 5 Actions. Hunger last until the User Eats Food or until Stated Otherwise.
+
+External Bleeding (III) - The User is Bleeding Externally and will Take Damage. Every Level of External Bleeding will Deal 4 Damage for Every Action, Reaching a Maximum of 12 Health. External Bleeding can be removed unless Stated Otherwise. External Bleeding at Level Three will cause Nausea III.
+
+Internal Bleeding (III) - The User is Bleeding Internally and will Take Damage. Every Level of Internal Bleeding will Deal 8 Damage for Every Action, Reaching a Maximum of 24 Health. Internal Bleeding can be removed unless Stated Otherwise. Internal Bleeding at Level Three will cause Nausea III.
+
+Suffocation (III) - The User is Suffocating and will Take Damage. Every Level of Suffocation will Deal 6 Damage for Every Action, Reaching a Maximum of 18 Health. Suffocation can be removed unless Stated Otherwise. Suffocation at Level Three will cause Silence III.
+
+█ Complex Status Effects
+
+Blind (III) - The User is Blinded and will Struggle to see Anything. Every Level of Blind will have the User Lose 30% Step Points and 4 Leverage, Reaching a Maximum of 90% Step Points and 12 Leverage. Blind at Level Three will leave the User Unable to Block Dodge or Parry. 
+
+Deaf (III) - The User is Deaf and will Struggle to Hear Anything. Every Level of Deaf will have the User Lose 4 Leverage, Reaching a Maximum of 12 Leverage. The User is Unable to React to Suprise Attacks and the User is Unable to Hear Others Communicate with them.
+
+Silence (III) - The User is Silence and will Struggle to Speak to Anyone. Every Level of Silence will have the User Lose 4 Leverage, Reaching a Maximum of 12 Leverage. The User is Unable to React to Perform Heart Actions with Others and the User is Unable to Communicate with Others.
+
+Sleep (III) - The User is Sleeping and will Struggle to Act. Every Level of Sleep will leave the User Unable to Act, With the user having chances between 60% and 20% to awake when taking Damage depending on the Sleep Level. Sleep Cannot Last Longer then Five Turns.
+
+Scared (III) - The User is Scared and will be Afraid to Act. Every Level of Scared will have the User Lose 8 Leverage, Reaching a Maximum of 24 Leverage. Scared at Level Three will cause the User to Lose One Action. No Limit set on Scared unless Stated Otherwise.
+
+Confident (III) - The User is Confident and will be Proud to Act. Every Level of Scared will have the User Gain 8 Leverage, Reaching a Maximum of 24 Leverage. Confident at Level Three will cause the User to Gain One Action. No Limit set on Confident unless Stated Otherwise.
+
+Enraged (III) - The User is Enraged and will Attack Anything around them. The User will have a 30% Chance to Attack First Person they See, Reaching a Maximum of 90% Chance. Enrage causes the User to be Unable to perform any Non-Aggressive Action. This Cannot Last Longer then Five Turns
+
+Confusion (III) - The User is Confused and will Attack Themselves. The User will have a 30% Chance to Attack Themselves, Reaching a Maximum of 90% Chance. Confusion causes the User to no longer be entitled to the PassOnEffect. Cannot Last Longer then Five Turns
+
+Haste (III) - The User Grows Faster and will be able to Move More. Every Level of Haste will have the User Gain 15% Step Points and 2 Initiative, Reaching a Maximum of 45% Step Points and 6 Initiative. The User's Dashes and Dodge Distances are Affected. No Limit set on Haste unless Stated Otherwise.
+
+Slow (III) - The User Grows Slower and will be able to Move More. Every Level of Haste will have the User Lose 15% Step Points and 2 Initiative, Reaching a Maximum of 45% Step Points and 6 Initiative. The User's Dashes and Dodge Distances are Affected. No Limit set on Haste unless Stated Otherwise.
+
+█ Elemental Status Effects
+
+Wet (V) - The User is Soaked in Water or Similiar Liquid. Take 2x Static damage from Cold and Electrical damage attacks. Take 10% to 50% Less Burn Damage. This can be Reversed with through the Correct Burning Level or the User Attempting to Dry Themselves unless Stated Otherwise.
+
+Shocked (V) - The User is Shocked by Electricity or Lighting. Every Level of Shocked will have the User Lose 1 Action, Reaching a Maximum of 5 Actions. Shocked Increases Damage Taken by 2x Static Damage. This cannot be Reversed and must be Waited Through unless Stated Otherwise.
+
+Haze (V) - The User is Consumed by Lethal Aura around them. Every Level of Haze will Deal 8 Damage for Every Action, Reaching a Maximum of 40 Health. Haze Increases Damage Taken by 2x Static Damage. This can be passed through Physical Contact. This last for 2 to 10 Turns unless Stated Otherwise.
+
+Personification (V) - The User is Stagnant to their Position. Every Level of Personification will have the User Lose 2 Action and 3 Leverage, Reaching a Maximum of 10 Actions and 15 Leverage. Personification Decreases Damage Taken by 1/2x Static Damage. This last 1 to 5 Turns unless Stated Otherwise.
+
+Wither (V) - The User is Withering Away Slowly. Every Level of Wither will Deal 6 Damage for Every Action, Reaching a Maximum of 30 Health. Wither Level Stacks when Wither Affects the User Again. This last 1 to 5 Turns unless Stated Otherwise.
+
+Poisoned (X) - Take X damage every Action or Combat Turn (Check @damage_caclulation). This could have other effects that can affects on the User. This can be reversed through an antidote Unless Stated Otherwise or Given a Limit.
+
+Burning (X) - Take X damage every action and movement until extinguished (Check @damage_caclulation). Depending on the Degree of Burn, Burning Can Last 3+ For Every Higher Degree. Depending on the Degree of Burn, Full Body Burning Can Last 6+ For Every Higher Degree. -2 Leverage per Degree of Burn.
+
+Frozen (X) - No longer able to gain PassOnActions until the end of your next Combat Turn. Take X damage every action and movement until removed (Check @damage_calculation). This can be Reversed with Heat or Fire. -2 Leverage per Degree of Freeze.
+
+█ Extra Status Effects
+
+Stasis (I) - The User is Frozen in Space and Time and will Unable to Interact with the World. The User is Unable to Perform Actions or Move. Stasis could pervent the User from taking damage, if stated. No Limit set on Stasis unless Stated Otherwise. 
+
+Invisibile (I) - The User Cannot be Seen or Targeted by any others. Abilities Cannot Target Invisible Targets Unless Stated Otherwise. Invisibility could reveal the user when aggressive actions are taken, if stated. No Limit set on Invisible unless Stated Otherwise.
+
+Intangible (I) - The User Cannot be Grabbed or Interacted by any others. Abilities Cannot Interact with Intangible Targets Unless Stated Otherwise. Intangible could be removed if the user takes aggressive actions, if stated. No Limit set on Intangible unless Stated Otherwise.
+
+Disabled (I) - The User is Unable to Cast or Perform any Special Spells or Abilities this is Including Perks. Disable could leave the User Unable to hold onto any Passive Perks, if stated. No Limit set on Disabled unless Stated Otherwise.
+
+Reflect (I) - All Damage is Reflected at the Attacker, This only Works with Physical Attacks. Reflect could reflect indirect Physical Attacks Straight Back to the Attacker, if stated. No Limit set on Reflect unless Stated Otherwise.
+
+Shield (I) - All Damage is Reflected at the Attacker, This only Works with Non-Physical Attacks. Reflect could reflect indirect Non-Physical Attacks Straight Back to the Attacker, if stated. No Limit set on Shield unless Stated Otherwise.
+
+Runic (I) - All Damage is Absorbed by the User. The User Absorbs Damage that hits Any Health Points, other Vitality Types will still take Damage. The User could not Entitled to the PassOnEffect, if stated. No Limit set on Runic unless Stated Otherwise.
+
+Vigilance (I) - All Damage is Unable to Stun the User. The User Absorbs the Stun Status Effect although other Status Effects can leave the User Stunned. The User could not Entitled to the PassOnEffect, if stated. No Limit set on Vigilance unless Stated Otherwise. 

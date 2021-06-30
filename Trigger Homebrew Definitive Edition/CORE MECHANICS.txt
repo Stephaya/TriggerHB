@@ -1,0 +1,127 @@
+ © Copyright 2020 - Stephan DeLuna, Garrett Neenan
+
+ This file is part of Trigger.
+
+    Trigger is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Trigger is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Trigger. If not, see <https://www.gnu.org/licenses/>.
+
+𝗧𝗥𝗜𝗚𝗚𝗘𝗥 𝗛𝗢𝗠𝗘𝗕𝗥𝗘𝗪
+
+This Tabletop Homebrew ruleset is inspired by Tactical Games and made to fit within the TableTop Gameplay Format. This Homebrew is made to be easy for novices; however, it leaves just enough complexity for higher level players to utilize and enjoy the unique combat system present. This Homebrew gives players more creative freedom to act. Many new Mechanics introduce new Opportunities for the Players to Use.
+
+Battles are Dynamic. Battles are Fast. Battles are Concentrated.
+
+𝗖𝗢𝗥𝗘 𝗠𝗘𝗖𝗛𝗔𝗡𝗜𝗖𝗦
+
+◆ What's in this File?
+    Homebrew Introduction
+    Stats, Counters, and Approaches
+    Core Action System
+    Core Stealth System
+    Core Crafting System
+    Core Experience System
+
+█ Homebrew Introduction
+
+Combat and Roleplay Encounters Function Separately. This reflects a simpler gameplay aspect with high complexity levels while making the game's stats and variables more connected. The most notable feature is the Counters and Approaches System that dictates the Actions characters perform. Through these systems, Actions function more in tandem with the core character stats and allow for more creativity to get things done.
+
+Within the Trigger Homebrew System, Creativity is a Key Aspect in both Roleplay and Combat. Creativity with Combat is Expanded to allow any solution a Player could think to use, with Static Damage Determined through Stealth Systems, Physics Systems, Mutilation Systems, and others. Approaches are also offered to give Players opportunities to put Creative Options to use at the Game Master's Disposition. Even with the most Creative Plays, Damage and Knockback will always remain the same, but these Systems Help Expand Creativity by giving Players more Rich Offensive and Defensive Options to use at their Disposal. All of this is detailed below and in the rest of this Rulebook.
+
+█ Stats, Counters, and Approaches
+
+Stats in this Homebrew are intimate with the Action System, Character Systems, and Core Mechanical System. There are 9 Stats that can be added to a character. All characters, player controled or not, have personalized character sheets with these Stats. These Stats have no Cap, but typically max out at 16 during Initial Creation. As Stats grow, characters are capable of obtaining Modifiers related to their Stats and their Character. (@player_creation)
+
+Strength            Physical Strength of a Character. 
+Dexterity           Reflexes of a Character. 
+Constitution        Life Force of a Character. 
+Intelligence        Computational Skill of a Character. 
+Wisdom              Experience of a Character.
+Charisma            Appearance of a Character.
+Endurance           Poise of a Character. 
+Agility             Athletics of a Character. 
+Perception          Awareness of a Character. 
+
+★ Charisma functions through Apperance and Communication.
+★ Endurance focuses on how balanced and sturdy the Character is.
+★ Perception includes all senses like Sight, Touch, and Smell.
+
+Counters and Approaches give the players more unique ways to deal with certain situations. Counters and Approaches rewards players with creative solutions for solving issues. Counters and Approaches make up the bread and butter of the entire game, and are used in every given situation. Counters and Approaches help simplify the Game's Mechanics and Gameplay through creating an easy Game System that encourages Creative Thinking and Exploitation. Counters and Approaches utilize the base character stats to determine or increase outcomes.
+
+COUNTERS - Counter Rolls are used in and out of combat but will always require a Roll of a D20. Counter Rolls determine whether actions are Performed or Failed. Stats are typically chosen with a Counter, and the the Stat Chosen can be anything the player wants, but an Explanation of how that Stat applies to the Action must be given if not obvious. Using certain Stats can either Increase or Decrease the Threshold, while others may not be usable in a given situation. 
+Examples: "Someone Throws an Apple at you."
+            > Use Endurance to Endure the hit of the apple (Block)
+                Endurance + D20 >= Threshold
+            > Use Agility to Step Aside before the apple hits (Dodge)
+                Agility + D20 >= Threshold
+            > Use Intelligence to calculate and Move Away from where the apple Hits (Dodge)
+                Intelligence + D20 >= Threshold
+Multiple Stats may be combined into a Counter, however, doing this will use the Average of all stats involved as the number added to the Counter Roll. Multitasking within Actions may also require Multiple Stats combined into a Counter. Multitasking wastes one action for two equal or simple actions. 
+            > Use Strength and Dexterity to Move your Body Fast Enough to Hit the Apple Away (Deflect)
+                ((Strength + Dexterity) / 2) + D20 >= Threshold
+            > Use Charisma and Wisdom to distract the person throwing the apple, then assume where the apple may hit and dodge if needed (Dodge + Distraction)
+                ((Charisma + Wisdom) / 2) + D20 >= Threshold
+            > Use Dexterity and Intelligence to determine and avoid an apple while grabbing onto the person next to you (Dodge + Grab)
+                ((Dexterity + Intelligence) / 2) + D20 >= Threshold
+
+APPROACHES - Approaches are made to give players extra tools with specific scenarios. Anyone can make any Approach as long as they can explain and utilize it well. Approaches are more Verbal compared to Counters and May Require No Rolls. Approaches String Multiple Actions together to complete a task or objective. Some Approaches can be very complex but are all restricted by the Game Master. The Outcome of an Approach is left solely in the Game Master's Hands.
+
+Examples: "Someone Throws an Apple at you."
+            > Player: I Turn around and attempt to grab the apple, and I throw it back.
+            > Game Master: Okay, May I see your Stats.
+
+            > Player: I Punch the Apple and begin running towards the person who threw it.
+            > Game Master: Okay.
+
+★ Counters and Approaches can be used outside of Combat. Commonly used to Search for Objects or Complete Tasks.
+★ Non-Player Characters have access to these tools. In some scenarios, the Non-Player Characters will not be required to use them and will bypass any rules or restrictions.
+★ Multiple Approaches may be made at once, however, the Outcome is still in the Game Master's Hands (so be careful of what you exactly plan to do).
+★ Almost anything can be done during an Approach, so get creative. The Game Master should acknowledge creativity, but stay fair with the result.
+★ Players are Capable of Repeating Counter Rolls if Failed Before, Counter Rolls may be Repeated up to Three Times, after which the Player must find a new way to solve the problem. The Player may come back later to repeat the repeated Counter/Approach, but it's up to the Game Master to allow them to or not. Players are only Capable of Repeating the Action up to Three Times if the Action is not Urgent and Capable of being Repeated; This is Not Applicable in Combat.
+
+█ Core Action System
+
+The Actions System in place takes advantage of Counters and Approaches. Players cannot take multiple Actions at once; they can only do one Action at a time. Outside of Combat, players are not restricted by time or the number of Actions they can do within a given time. Inside of Combat, Players are limited on what actions they can exactly do and how many they can do on a turn. They may also be restricted by an optional timer set by the Game Master. The current party generally coordinates actions as they try to solve a problem or gather information.
+
+Actions Gameplay Include:
+    Speak               - Speak to an NPC or Player
+    Search              - Search through a given bag of holding
+    Counter             - Solve an issue using a Counter
+    Approach            - Solve an issue using an Approach
+    Interact            - Interact with an NPC or an Object - Outside of Combat
+    Engage              - Engage an NPC in Combat - Can Only be Done Outside of Combat
+
+Counters and Approaches function similarly but can yield different results. Counters and Approaches operate as Bread and Butter of the game. A Counter Requires a Roll against an Existing Roll or Number (This is known as the Threshold Number), and will typically yield a quick solution to an issue. An Approach can be made instead, however, the outcome will be left solely up to the Game Master.
+
+THRESHOLD NUMBERS - Threshold Numbers are determined by another counter or by a specified number (@uni-thresholds). When the Counter Number is not Stacked against another Counter Roll, the Game Master must select a Threshold Number based on the difficulty of the task (the Game Master must keep in mind consistency amongst all of this). There is no determined threshold chart provided as threshold numbers must adapt depending on the situation, but examples may be found in (@uni-thresholds).
+
+Extra Numbers may be added to the Threshold Number, depending on the scenario to focus on consistency. A Chosen Threshold number will often be restricted to an Action. Although this is up to the Game Master, if the player gets within 3 points to the threshold, the task should still be able to be completed by while leaving the player at a disadvantage. The Game Master is not allowed to Say the chosen Threshold Number until after the Player Rolls and Adds The dedicated Stat to the Counter. Multiple Actions may be stacked on top of a Counter, however, the Outcome may become more and more skewed depending on the Game Master.
+
+█ Core Stealth System
+
+Sneaking Functions off of Sneak Actions. Sneaking can only be done when the User is Hidden from All Hostile Targets; all Actions are classified as Sneak Actions from here. While Sneaking, all Actions performed are based on Hostile Targets Around them- these are considered Sneak Actions. At the Start of Sneaking or Start of Every Turn while Sneaking, the User must Roll Against all Hostile Targets around them to determine if they stay sneaking- this is considered the Initial Sneak. After that, All Actions are performed while Sneaking are Sneak Actions.
+
+Sneak Actions require two separate rolls to perform, the Action Roll and the Sneak Roll. The Action Roll functions as the standard actions performed and can still fail if the roll fails. The Sneak Roll functions against all Hostile Targets Around the User and will reveal the User if the roll fails. The User Loses Leverage for every Hostile Target around the User in a Ten Space Radius. Sneak Rolls are Rolled Against a Threshold Number Determined by how many entities are around the User in a Twenty-Space radius. Crouching and Crawling heavily Reduces the amount of Leverage Lost from Sneak Rolls. When a Sneak Roll fails, the User is revealed to all Visible Hostile Targets, and the User is taken out of Sneak. If any single Hostile Target spots the User, the User may perform one Action to subdue the target, which leaves the User Sneaking if Successful. Hostile Targets can specifically search for the User, introducing another Threshold for Sneak Rolls. Specific Modifiers and Perks can increase or decrease the amount of Leverage present within Sneak Rolls. All Actions Regarding the Stealth System can be found in (@adhd_combat-key_actions-support_actions).
+
+█ Core Crafting System
+
+Crafting Functions off of Craft Items. Craft Items are unique to each game but would typically encompass the essentials of crafting or creating other objects. Crafting works off of the Threshold System and could require tools or equipment to make. Multiple Crafting Items could be Required to Construct Items. The Bigger the Item- the More Expensive it is to make. 
+
+Crafting Small Objects (That Can be Stacked)- requires At Least One Crafting Item of the Appropriate Type to Create up to Three Objects. Crafting Medium Objects (That Cannot be Stacked)- requires At Least Three Crafting Items of the Appropriate Type to Create One of the Objects. Crafting Large Objects (That Cannot be Stored)- requires At Least Six Crafting Items of the Appropriate Type to Create One of the Objects. Crafting Huge Objects (That Function as Structures)- requires At Least Twelve Crafting Items of the Appropriate Type to Create the Structure. Each Crafting Item used during Crafting will increase the Threshold of the Craft by 5. More Complex Items and Structures will require more Crafting Items to construct. Failing to Reach the Threshold will Waste half of the Items Used in Crafting. Several Characters may work together during Crafting, and Rolls will be Added Together.
+
+Deconstructing Objects Functions Similarly- With the Size of Objects Increasing the Threshold by 8 points. Successfully Deconstructing an Object will yield a Quarter of the Required Crafting Items that it would take to Craft the Object. Failing to reach the Deconstruction Threshold will Break the Object and yield no Crafting Items. Small Objects which would require 1 Crafting Item to make Several of them will Never yield Crafting Items on Deconstruction.
+
+█ Core Experience System
+
+This Homebrew contains an Attribute-Centric Level Up System. Experience Increases Characters Stats or applies Additional Changes to the Character. These Additional Changes can include Modifiers or Perks (Depending on the Game Master). Participating in Roleplay or Combat can gain the User Experience as well as Finishing Objectives during the Campaign. Experience Gained may be locked towards a Stat or Distributed between Multiple Stats, depending on whether the Experience gained directed into a Stat or gained generally into the User.
+
+Characters Gain Experience for Every Counter Roll Performed; these Counter Rolls can be through Exploration, Conversation, or Combat. The Stat Attributed with the Counter Roll Increase that Stat Experience by One Experience Point (Criticals Increase Stat Experience by Three Points). Experience Increase Cannot be Gained if the Counter Roll is Repeated from a Failed Counter Roll Unless the Action or Stat is Different. Once a Stat Reaches One Hundred Experience, that Stat will Increase by One Full Point. Once a Stat Reaches a certain threshold, the User is Capable of Earning a Modifier related to that Stat (Depending on the Game Master, this could also happen for Perks). (@player_creation)

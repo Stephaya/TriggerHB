@@ -1,0 +1,91 @@
+ © Copyright 2020 - Stephan DeLuna, Garrett Neenan
+
+ This file is part of Trigger.
+
+    Trigger is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Trigger is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Trigger. If not, see <https://www.gnu.org/licenses/>.
+
+𝗧𝗥𝗜𝗚𝗚𝗘𝗥 𝗛𝗢𝗠𝗘𝗕𝗥𝗘𝗪
+
+This Tabletop Homebrew ruleset is inspired by Tactical Games and made to fit within the TableTop Gameplay Format. This Homebrew is made to be easy for novices; however, it leaves just enough complexity for higher level players to utilize and enjoy the unique combat system present. This Homebrew gives players more creative freedom to act. Many new Mechanics introduce new Opportunities for the Players to Use.
+
+Battles are Dynamic. Battles are Fast. Battles are Concentrated.
+
+𝗠𝗘𝗧𝗥𝗜𝗖 𝗖𝗔𝗟𝗖𝗨𝗟𝗔𝗧𝗜𝗢𝗡
+
+◆ Whats in this File?
+    Purpose of Conversions
+    Universal Measurement Conversions
+    Universal Measurement System
+
+█ Purpose of Conversions
+
+The Purpose of Conversions in this Homebrew is to open room for Complex Plugins, Skills, and Abilities. These Conversions and Custom Units allow this Roleplay to be more dynamic in combat and gameplay. These Conversations are primarily used in determining the Physical Interaction Between Objects and the Resulting Outcome of these Interactions. Conversions are provided in this file to help with these calculations. Necessary Conversions are Presented to give Basic Conversions to the Game-Specific Units. These Conversions and Game-Specific Units are commonly used in Calculations and Formulas regarding Damage.
+
+█ Universal Measurement Conversions
+
+These Universal Conversions are provided to relate Game-Specific Units with Real Metric Units. These Metric Units also have their Conversions, which are also offered here to act as a short guide to specifics. Game-Specific Units and Basic Conversions are centered around Area, Weight, Speed. The Universal Conversions are done with the Metric System instead of the Imperial System, although Imperial System Conversions to Metric are Provided.
+
+    USU = Universal Square Unit
+    USP = Universal Step Points
+    UWU = Universal Weight Unit
+
+    > 1 USU = 1 Cubic Meter
+    > 1 USP = 1/2 Meters per Second
+    > 1 UWU = 5 Kilograms
+    > 1 m2 = 100 Liters
+    > 1 m3 = 1000 Liters
+    > 1 Meters per Second = 3.3 Feet per Second
+    > 1 Meters per Second = 2.2 Miles per Hour
+    > 1 Cubic Meters = 35.3 Cubic Feet
+    > 1 Kilogram = 2.20 Pounds
+    > 1 Liter = 0.26 Gallon
+
+█ Universal Measurement System
+
+Universal Square Unit - The Universal Square functions with the general mechanics found with the Homebrew. Combat happens through Maps with Grids a Variety of Meters in Length; Depending on the Map, the Number of USU Located in the Map could Vary. Typically Maps have One Square Equalling to One Meter, though this may be increased for larger-scale combat. The Game Master should keep in mind the Height of Objects, as this can affect their USU. USU works in Three Dimensions so that Objects can take up Multiple USU in their Squares. An Object that is 2 USU Wide and 4 USU Tall would have 8 USU. Small Objects Typically take up less than 1 USU and can be Stored in Stacks. Medium Objects Typically take up to 1 USU and can be stored, but not in Stacks. Large Objects take up more than 1 USU and can only be Stored in specific scenarios and not in Stacks. Huge Objects take up Multiple USU and cannot be Stored.
+
+Universal Weight Unit - Weight has been given a Dramatic Simplification in this Homebrew. Every Universal Weight Unit is Equivalent to 5 Kilograms, and a List is provided below to show the most common Conversions for this. Environments can affect the Weight of Objects by giving Heavier or Lighter Status effect. With this in mind, there are Some Quick References to this Provided Below:
+
+    > Paper Clip - 0 UWU
+    > Bowling Ball - 1 UWU 
+    > School Desk - 2 UWU 
+    > Office Desk - 7 UWU
+    > Average Human - 12 UWU
+    > King Mattress - 14 UWU
+    > Street Light - 22 UWU
+    > Normal Tree - 181 UWU
+    > Average Car - 317 UWU
+    > Large Tree - 725 UWU 
+    > School Bus - 2131 UWU
+    > Semi Truck - 5080 UWU
+    > Average Airplane - 8165 UWU
+    > Average Skyscrapper - 40369721 UWU 
+    > Moon - 14700000000000000000000 UWU
+
+Universal Step Points - The Universal Step Point Systems works off the average Step Points for Characters' Movement Speed, Which Averages around 6 Meters. Since the Average Run Speed of a Human is about 10 Kilometers per hour, it would be safe to say that the Average Run Speed of a Human is around 3 Meters per Second. With this in mind, 1 USP is Equal to 0.5 Meters per Second. Stock Examples for various Objects' Speeds are shown below, although these are not concrete and everything is variable.
+
+    > Snail Speed - 0 USP
+    > Fist Speed - 11 USP
+    > Knife Speed - 15 USP
+    > Cheetah Speed - 62 USP
+    > Fastball - 84 USP
+    > Sports Car Speed - 222 USP
+    > Plane Speed - 250 USP
+    > Missle Speed - 514 USP
+    > Monorails - 632 USP
+    > Sound Speed - 686 USP
+    > Bullet Speed - 1518 USP
+    > Space Rocket Speed - 7800 USP
+    > Meteor Speed - 20000 USP
+    > Light Speed - 580000000 USP

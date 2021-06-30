@@ -1,0 +1,34 @@
+=============
+_name_
+=============
+Race: _ | Birthdate: _ | Gender: _ | Build: _ | Age: _ | Background: _
+-------------
+_backstory+goal_
+-------------
+_elements_
+-------------
+_appearance_
+-------------
+Strength: 		0
+Dexterity: 		0
+Constitution: 	0 
+Intelligence:   0  
+Wisdom: 		0  
+Charisma: 		0
+Endurance: 		0 
+Agility: 		0  
+Perception: 	0
+
+Initiative Points: 	0
+Hit Points: 		0
+Action Points: 		0
+Attack Points: 		0
+Energy Points: 		0
+Step Points:        0
+Extra Points:       +0
+-------------
+_perk_
+-------------
+_modifier_
+-------------
+

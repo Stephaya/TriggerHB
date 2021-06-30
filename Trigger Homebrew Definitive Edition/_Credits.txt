@@ -1,0 +1,44 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@(,..,#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@(                    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@                   ,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@.   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@    @@@@@@@@@@@@@@@@@@@@@  @@@@@@@@@     @@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@   *@@@@@@@@@@@@@@@@@@@    %@@@@&         ,@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@/   @@@@@@@@@@@@@@@@@@@@    @@@%   /@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@    @@@@@@@@@@@@@@@@@@@@   @@@   @@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@    @@@@@@@@@@@@@@@@@@@%   @/  *@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@   .@@@@@@@@@@@@@@@@@@@(      @@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@&   ,@@@@@@@@@@@@@@@@@@@&     @@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@    @@@@@@@@@@@@@@@@@@@@    %@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@    @@@@@@@@@@@@@@@@@@@@    @@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@( @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Discord: 
+	https://discord.gg/uhnyf96	
+
+Creators:
+	Stephan
+	Garrett
+
+Notes: 
+	Stephan - This project started back when I started my first tabletop game back in 2018. Since then, it has turned into a small passion project that has lasted almost over four years. The original concept of Trigger was to allow for an easy tabletop game experience; however, it has evolved into a dynamic and open system of rules for various games and game types. Trigger's whole purpose is to support any form of tabletop game and tabletop story with consistent rules that are easy to understand although hard to master. Several systems and alterations have been made to make the game feel more dynamic and allow for more customization. The Combat System was created from a concept developed from another game and was supposed to be fast and engaging compared to standard tabletop games. Several concepts found in the Combat System can be traced back to Strategy Games and Fighting Games. The Damage Calculations seemed necessary to include to expand on the capabilities of the game. Even though parts like the Physics System took forever to create and balance, it seemed necessary to allow for the dynamic gameplay Trigger was made for. The Player Creation was initially designed for anyone to create characters within seconds, although it has now transformed into various important choices and formulas. However, the Player Creation is still capable of being simplified for specific campaigns. The Modifiers and Perks probably took the longest; I wanted various active and passive abilities that other game masters could use in multiple ways to create unique Monsters, Characters, and Bosses. In the future, I hope that Trigger will get more plugins to expand the genres of games and stories: Good Luck and Have Fun to all Game Masters using Trigger.
+
+	Garrett - I joined in the creation process as a player in late 2019, when the first drafts of each file was coming out and, due to a specific player character in the game being run, the idea was brought up of creating a physics system. Since then, I've been involved in the creation and re-creation of just about every system found presently, with my primary contributions being towards Damage Calculation, ADHD Combat, and Perks. In the end, I think we've really created something special here; the 'Linux of TRPGs' as one of our play-testers put it. While the rulebook is just the base mechanics of the game, already we've seen the variety possible with our system here from plugins found in our server up above, both released and unfinished. I think Stephan and I were both pushed to find some way to make money off of this after the ungodly amount of time put into it, but I'm very happy we both agreed that it'd serve better in open source, where others can use and modify it as they see fit and give back to the community, which I'm hopeful we'll be able to grow over time.

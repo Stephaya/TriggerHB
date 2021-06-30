@@ -1,0 +1,496 @@
+ © Copyright 2020 - Stephan DeLuna, Garrett Neenan
+
+ This file is part of Trigger.
+
+    Trigger is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Trigger is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Trigger. If not, see <https://www.gnu.org/licenses/>.
+
+█ Master Perks List
+
+This is the Master Perk List created with the Base Epyon Homebrew System, consisting of 230 different Perks. Not all Perks are created equal, and many that may seem subpar alone can be combined with others to make devastating synergies. All Perks are marked as either 🅿 Passive or 🅰 Active. What Perks and How Many Perks can be taken is up to the Game Master's discretion, and the application of these Perks may change depending on the Plugin being played, from simple character benefits to acting as unlockable skills and abilities for characters. There are 8 Base Categories for Perks, being Offensive, Defensive, Personal, Deceptive, Support, Movement, Roleplay, and Inventory:
+
+█ Offensive Perks
+
+🅰 Assurance - Sacrifice an Action to Activate Assurance. Assurance May Only be Activated if the User has dealt Damage to a Target on their Turn. For the Rest of the User's Combat Turn, a Target they have already Dealt Damage to on that Turn takes 2x Damage from All Sources until the end of the User's Combat Turn.
+
+🅰 Attrition - Sacrifice an Action to Use Attrition. The User Marks a Target. Both The User and The Marked Target then take 1 Damage for every Action and Step Taken. The User may not Mark another Target until the first Marked Target has been Retired.  
+
+🅰 Double - Action Only Choice to Perform Double. The User Attacks the Target with Multiple Attacks based on the Target's Held Actions: for Every Two Actions Held the User Deals Two Hits. The User's Damage is Decreased by Half while Attacking with Double.
+
+🅰 Blitz - Sacrifice all Remaining Actions to Perform Blitz. Blitz Deals 6 Consecutive Attacks (That Act as Multihit Attacks) at Half Normal Damage per Action invested into it. Blitz reduces Leverage by 4 until the end of Combat or until the User is Retired. This cannot be undone and will stack if used again.
+
+🅰 Breaking Point - Action Only Choice to Perform Breaking Point. The User builds Stress and Anger until it all comes out at once. For every Attack the User fails to fully Block, a Tally is attached to Breaking Point. The User expends all current Breaking Point Tallies to perform a rush of Actions equal to the number of Tallies expended. This Sequence of Actions cannot be Interrupted and the User gains +1 Leverage for the rest of combat for each Tally expended during the Rush.
+
+🅰 Bull Rush - Active ability the Triggers on User Choice. Any time the User performs a Dash Cancel, they are given the option to instead perform Bull Rush. Rather than giving Extra Leverage from Dash Cancelling, the User is given 2x Damage on an Attack being made out of a dash if Bull Rush is Activated.
+
+🅰 Combo Master - Activates Once the User Deals Physical Damage. The User is Given An Extra Action That Bypasses PassOnEffect, Leverage, and Interuptions if The User Hits Thier Target (the Target can still Conflict). They Cannot Move from thier location with this Combo Action. Combo Master may only be used up to 2 times off one action.
+
+🅰 Crazy Trigger - Sacrifice all Remaining Actions to Perform Crazy Trigger. The User Pushes all remaining Actions into a String of Actions taking place within a Single Action. All Actions performed can only Target One Entity; One Counter Roll determines Whether All or None of the Actions succeed. For Every Pushed Action, 5 Leverage is Decreased. The User may Immolate These Actions for 10 Health per Immolation. 
+
+🅰 Cripple - Sacrifice an Action to Perform Cripple. Cripple Damages the Target by Converting Remaining Step Points Into Damage. Each Step point held by the Target is Converted into Two Damage. The Target loses all remaining Step Points. This functions as a normal Attack and must be applied to a Target within Action Range.
+
+🅰 Disable - Sacrifice an Action to Perform Disable. Disable allows the user to Disable any Grabbed Targets. Disabled Targets are Unable to Perform Abilities. Targets remain Disabled until being released from the User's Grab.
+
+🅰 Doom - Sacrifice an Action to Perform Doom. The User's next Attack deals 2x Damage. Doom may be stacked up to three times, for 3 seperate attacks. The User Loses 5 Leverage for Every Held Doom Stack.
+
+🅰 Eclipse - Sacrifice an Action to Perform Eclipse. The User Reduces the Damage, Damage Reduction, and Counter Rolls of a Visible Target by 5x until that Target's next Combat Turn. The User is inflicted with Stun III after performing Eclipse. Eclipse may be performed during another Action by the User, and the Stun will take effect after that current Action.
+
+🅰 Executioner - Sacrifice an Action to Perform Executioner. The User Deals 3x Damage, but all Damage dealt is also taken by the User. If the User Kills their Target, Damage is not Dealt back towards the User.
+
+🅰 Explosive Impact - Sacrifice an Action to Perform Explosive Impact, Explosive Impact may Only be Activated when making a Ranged Attack on a Target. The User's Ranged Attack Explodes on Impact, Dealing Damage to All Targets in a 3 Meter Radius. Explosive Impact deals a Static Amount of Damage to All Targets in the explosion, and deals 2x Damage to the Original Target. All Targets in the Explosion may Conflict.
+
+🅰 Feedback - Sacrifice all Remaining Actions to Perform Feedback. The User sacrifices their Actions to remove Actions from a Target. The Amount of Actions the Target Loses is Equal to the Amount the User Loses. For Each Lost Action, Both the Target and the User Take 12 Damage.
+
+🅰 Last Trigger - Sacrifice an Action to Perform Last Trigger. The User can Sacrifice an Action to Instantly Gain and Use 2 Extra Actions that cannot be Interrupted or Conflicted. Last Trigger Reduces the User's Hit Points to 0 After. The user Cannot use Approaches for these Turns, however all Counters are insantly performed without the risk of a target's Counter Roll or Leverage.
+
+🅰 Multitude - Sacrifice an Action to Perform Multitude. Upon Attacking a Target, if the User has Allies standing directly next to them, The User may activate Multitude to Deal Damage equal to the Damage Points of all adjacent Allies. Damage Modifiers on Allies or the User work with Multitude. Multitude Only uses The User's Actions and not the Allies' Action. 
+
+🅰 Nightmare - Sacrifice an Action to Perform Nightmare. Nightmare allows the user to Instantly Kill Targets while Bouncing Between Them. Targets with below 1/4 Max Health are Instantly Killed and can be Bounced to. Nightmare Bounces the User Towards the Next Target 3 Spaces Away. Every Kill with Nightmare Gives +9 Health Points.
+
+🅰 Overdrive - Sacrifice an Action to Perform Overdrive. The Current User Converts all Current Damage Points (Including those Gained), into Multi Hits. For Each Damage Point Converted the User Deals one Extra Multi Hit. Multihits hold the normal damage the User Holds. For Every 4 Multihits Gained, the user loses 1 Leverage. Overdrive may be Activated during another Action.
+
+🅰 Overfire - Sacrifice an Action to perform Overfire. The User Converts Held Leverage Into Flurry of Projectiles. Each point of Leverage pushed into Overfire increases the number of projectiles by 1, up to a maximum of 10 projectiles. Overfire may target several Targets.
+
+🅰 Pinball - Sacrifice an Action to perform Pinball. The User is capable of triggering Pinball upon making a Projectile Attack. Upon Activation, The User Rolls a D4. The Projectile will Bounce between Targets a number of times Equal to the number on the D4 Roll, losing 1 Leverage for each Bounce. The Projectile cannot cause Bleed while Pinball is active.
+
+🅰 Powered Up - Sacrifice An Action to Use Powered Up. Allows the User to Power Themselves Up to deal more Damage. Using an Action the User Can Power up. Powered up Increases damage by 1x, the User Can Power Themselves up to 5 Times. Powered Up Ends Once The User Takes or Deals Damage.
+
+🅰 Pressure Point - Sacrifice an Action to perform Pressure Point. The User is capable of making an Attack on a specific part of the Body which Disables that part of the Target if Hit. This ignores Negative Leverage set in place from Targeting Limbs. Any Affected Limb is Disabled for 3 Turns.
+
+🅰 Savage - Sacrifice an Action to Perform Savage. The User Deals Triple Damage on Melee Attacks, but the User's Leverage will be Reduced by the Square Root of Damage Dealt.  
+
+🅰 Slugger - Sacrifice an Action to Perform Slugger. The User is proficient at Dizzying enemies. Upon Activation, the User makes an Attack to a Target's Head, this Ignores Negative Leverage. Upon a Successful Attack, the Target is inflicted with Stun II. Slugger Cannot be used with Slash Damage Weapons. Slugger only applies to Melee Attacks.
+
+🅰 Sniper - Action only Choice to Perform Sniper when making a Ranged Attack. Damage Dealt by the Attack Deals x5 more Damage, If the Attack Misses, the User Loses -4 Leverage until the end of Combat. This can be Stacked if Sniper is Used Again.
+
+🅿 Adept - Passive that is always active, this ignores user choice. The User is able to Attack Twice Per Action. This Attack Does not Count as a Multi Hit. This only Works for Melee Attacks, and any Ranged Attacks are counted as One.
+
+🅿 Anger Point   - Passive that is always active, this ignores user choice. The User is angered when they take a critical hit. For Every critical the User is hit with, the User Gains Damage Points equal to the Damage Taken by the crit, and Leverage equal to half that. This Wears off once the user is killed or retired.
+
+🅿 Dirty - Passive That Is Always Active, This Ignores User Choice. If the User would Deal 3 or Less Damage with an Attack, That Damage is Automatically bumped up to 4 Damage. This goes Through Chip Damage, and functions with individual hits of a multihit attack.
+
+🅿 Disjoint - Passive That Is Active under User Choice. The User is capable of directing their Melee Attacks to hit every Target within 1 Combat Space of the original Target. Those in the Surrounding Area take 1/2 Damage from the attack.
+
+🅿 Distracted - Passive That Activates Under Conditions, This Ignores User Choice. The User is Easily Distracted, and gains +4 Leverage when Attacking a different Target than the one previously Attacked. This stacks up to 3 times and resets upon attacking the same Target twice in a row.
+
+🅿 Emptyhanded - Passive That Activates Under Conditions, This Ignores User Choice. The User excels at fighting Emptyhanded. If the User is not Holding Anything, they are given +8 Leverage. Punches Deal +3 Extra Damage for the Head, Chest, Legs, Feet, and Hands- If these Parts are Wearing Light Armor or Nothing.
+
+🅿 Impact Wrists - Passive That Is Always Active, This Ignores User Choice. When the User deals Physical Damage to Targets, All Targets Are Pushed Away from the User. Impact Wrists' knockback is equal to the Square Root of Damage Done, with a minimum of 1. This stacks with normal Knockback.
+
+🅿 Impaler - Passive That Activates Under User Choice. The User is capable of Dealing Damage to Targets Double their Action Range Behind the Target they are Attacking. This Attack Deals Full Damage.
+
+🅿 Inversion - Passive That Activates Under User Choice. Dealing Damage To Anything Heals the User By The Amount of Damage Dealt. Damage may be Inverted to Damage the User and Heal a Target. All Damage Dealt is Reduced by half. This is Restricted to Only Physical Damage and Biological Targets. 
+
+🅿 Killer - Passive That Is Always Active, This Ignores User Choice. Upon Killing a Target using Leverage over +10, the User Keeps that Leverage Until the Next Victim. This Resets Every Kill to Default to the Current Leverage the User is Holding, including the Leverage from past Killer triggers.
+
+🅿 Micronize - Passive That Is Always Active Under Conditions, This Ignores User Choice. Upon Attacking Targets with any kind of Bloom or Shield Points, Instantly Removes all Bloom and Shield Points. Any Extra Damage is negated and does not hurt the Target's Health.
+
+🅿 NonGuard - Passive That Is Always Active, This Ignores User Choice. The User Always Hits Physical Attacks on Targets. The User Always Takes in Physical Attacks from Targets. This bypasses Dodges, but Blocking and Parrying Can Still Reduce a Significant amount of Damage.
+
+🅿 Overswing - Passive That Is Active under User Choice. The User's Melee Attacks swing around to Hit Multiple Targets from the Front of the User. The two spaces parallel to the Direction of an Attack on a Target take Full Damage from the Attack, and All Entities are Pushed Back One Space for Every 10 Damage Dealt, on top of normal knockback.
+
+🅿 Paralyzer - Passive That Activates Under Conditions, The User can Choose to Disable This. The User Applies the Paralyzed Status Effect to any Entity they Grab. The Paralyzed Status Effect last until the User Releases the Target, or the Target is Freed.
+
+🅿 Pummel - Passive That Is Always Active, This Ignores User Choice. The User, when initially grabbing a Target, is able to deal damage that is Equal to the User's Attack (this wont require an additional action). The User Can Increase Pummel Damage through Multiple Hits for the use of Action Points. Pummel does not Activate The PassOnEffect.
+
+🅿 Rage Aura - Passive That Is Always Active Under Conditions, This Ignores User Choice. For Every Missing Health Point, The User Deals 1 Extra Damage on Any Physical Attack; this does not apply to Traps, Status Effects, Projectiles.
+
+🅿 Retribution - Passive That Is Always Active Under Conditions, This Ignores User Choice. The User gains an extra PassOnAction when Reciving Damage Equal to or higher 1/4th Thier Max HP. The User Marks Anyone who has Dealt Damage Directly to them. Marked Targets Take 2x Damage from the User. The Mark Wears Off after the User Attacks the Target Once. 
+
+🅿 Rivalry - Passive That Activates Under User Choice. The User Deals x2 Damage Towards A Specific Target of the Same Gender, but Takes x2 Damage from That Target.
+
+🅿 Satisfaction - Passive That Is Always Active, This Ignores User Choice. Every time the User Deals Damage to a Target, they gain +3 Attack Points against that Target. These Bonus Points wear off if the User Attacks another Target.
+
+🅿 Shadow Strike - Passive That Is Always Active Under Conditions, This Ignores User Choice. While Sneaking or Hidden, the User Deals 3x Damage. Shadow Strike also Functions on Blinded Targets.
+
+🅿 Sharpshooter - Passive That Is Always Active Under Conditions, This Ignores User Choice. For Every Meter the User is Away from thier Target, the User Gains +1 Leverage when Attacking that Target with a Projectile. Projectiles Upon Impact Deal +1 Damage for Every Meter.
+
+🅿 Skillful - Passive That Is Always Active Under Conditions, This Ignores User Choice. Every Time The User Attacks A Target, They gain a buff which allows them to Attack that Target 1 Extra Time per Action with a maximum of 5 Attacks Per Action. Leverage against the Target goes up by 3 for each stack of the Buff. These Buffs are Reset If The User Attacks Another Target, or if the User Misses an Attack. Buffs Are Not Reset If the User Is Attacked By Another Target.
+
+🅿 Tipper - Passive That Is Always Active Under Conditions, This Ignores User Choice. The User Increases Damage the Farther Away Damage is Dealt with Physical Attacks. The User Deals +1 Damage for every Meter the User is From the Target. Tipper Stacks up to +24 Damage.
+
+🅿 Trigger Fingers - Passive That is Always Active, This Ignores User Choice. If the User Attacked a Target the Previous Action- they now are given 10 Extra Leverage on the next Action, only for Attacks. This Opportunity is missed if the User Doesn't Follow Up with an Attack. Attacks Must hit for Trigger Fingers to give Leverage.
+
+█ Defensive Perks
+
+🅰 Absorbtion - Absorbtion - Sacrifice an Action to Perform Absorbtion. Absorbtion allows the User to Convert an Entire Attack's Damage Into Bloom Points, This only functions for the First Attack The User Is Hit with after performing Absorbtion. Upon Absorbing an Attack, the User is inflicted with Stun III. Absorbtion is Canceled if the User Performs another Action, and the User is Not Stunned if they Cancel Absorbtion before being Hit with an Attack.
+
+🅰 Afterimage - Sacrifice an Action to Perform Afterimage. Afterimage Allows the User to Form Afterimages of the User within Two Spaces of the User. Targets that Get within One Space of the Afterimage Instantly Dispel the Afterimage. Afterimage can be canceled into another Action- or other After Images.
+
+🅰 Anticipation - Sacrifice an Action to Perform Anticipation. The User Anticipates the Next Attack Coming at them. Upon the User Getting Attacked, the User is able to Instantly Dodge the Attack. The User is able to Cancel this Dodge into another Attack at the Expense of another Action. The User Cannot Cancel Anticipation into another Anticipation. Anticipation lasts until the end of the Combat Turn it is used on. Anticipation may not be used on a Conflict Action.
+
+🅰 Blubber - Sacrifice an Action to perform Blubber. The User gains Bloom Points equal to 2x their total missing Health Points. This can only be activated once per combat. Blubber does not work if the user is at Max Health Points.
+
+🅰 Bodyguard - Sacrifice an Action to Perform Bodyguard. The User is capable of Redirecting all Incoming Damage directed at Visible Allies within Three Spaces towards them instead. This can lead into other Counters to Resist the damage, but it Cannot be Dodged. Actions spent by Allies during this Sequence are Not Refunded. 
+
+🅰 Constructed - Sacrifice an Actions to Perform Constructed. The User is able to Gain 16 Bloom Points for the use of an Action, however the User cannot be at Full Health. All Bloom Points are Removed if the User is at Full Health.
+
+🅰 Deflect - Sacrifice an Action to Perform Deflect. The User Anticipates the Next Attack Coming at them. Upon the User Getting Attacked, the User is able to Instantly Parry the Attack. The User then gains a PassOnAction. Deflect lasts until the end of the Combat Turn it is used on. Deflect may not be used during a Conflict Action.
+
+🅰 Guts - Sacrifice an Action to Perform Guts. Guts Gives the User an Option Between Offensive Power or Defensive Power. The User Either is Able to Gain 16 Bloom Points or 8 Damage Points, which Last Until the Next Offensive or Defensive Action. Bloom Points decay once the User Conflicts an Attack. Damage Points Only Decay Once the User Attacks.
+
+🅰 Last Fall - Sacrifice an Action to Perform Last Fall. Upon Activating Last Fall, the User chooses a Target. For every Ally within 1 Space of the User, the Target gains 25 Bloom Points. These Bloom Points last until taking damage, after which they disappear. The User may Target themselves with Last Fall. Only one Target may have Bloom Points from Last Fall at a time, and it does not stack.
+
+🅰 Reconstruct - Sacrifice An Action to Use Reconstruct. The User may repair up to 12 Max Health Damage done through Mutilation per Action, restoring limbs and curing Bleed in the process. Mutilation Damage is Completely Restored once all required actions are pushed into Reconstruct.
+
+🅰 Stem - Sacrifice an Action to perform Stem. The User is a Miracle of Modern Medicine. If the User's Limbs become Mutilated, The User Can Perform Stem to Reattach these Limbs. Stem does not Heal the Health Points taken away from Mutilation, but does Restore the Maximum Health Points.
+
+🅰 Stimulate - Active Ability Under Conditions and User Choice. When Affected by Stuns or Paralyzing Effects, the User may Gain Leverage Instead of being left Unable to Act. The User Gains +10 Leverage When Effected by Stuns or Paralyzing Effects, though they will still lose one Action. This Leverage Lasts Until their Next Action. 
+
+🅰 Transcendence - Sacrifice an Action to perform Transcendence. Upon Activation, The User's Health Points are Doubled, and then all but 1 Health Point is Converted into Shields Points. The User's Shields Points are Regenerated to 100% on each of the User's Combat Turns. Anything that Heals Health Points may Not be used to Heal Shields Points on the User. This Lasts until the User Retires or Until the End of Combat. If the User's Remaining Health Point is Killed, the User will be Retired, even if they still have Shields Points.
+
+🅿 Adapted - Passive that is always active, this ignores user choice. On every New Combat Turn the User Gains 5 Bloom Points for every visible Character. There is no cap to the amount of Bloom Points that can be earned.
+
+🅿 Advance Reaction - Passive That is Always Active under Conditions, This Ignores User Choice. The User thinks ahead of their opponents, never leaving themselves vulnerable. If the User is Targeted by an Attack during Initiative Challenging, the User is entitled to a Conflict Action that holds +8 Leverage.
+
+🅿 Defiant - Passive that is always active under conditions, this ignores user choice. The User Does Not take Chip Damage When At Full Health. The User Can Still Give Chip Damage, they Simply Don't Take Chip Damage if At Full Health. If the User blocks Chip Damage using Defiant, they are still granted a PassOnAction as per standard rules.
+
+🅿 Fallbreak - Passive That Is Always Active, This Ignores User Choice. The User is Unable to Take Damage from Knockback- Instead upon Impact of a Surface the User Gains an Extra Action. The User can only gain Extra Actions from Other Targets, while Self Knockback does not Apply any Damage to the User.
+
+🅿 Glancing Blow - Passive That Is Always Active, This Ignores User Choice. The User is capable of completely Absorbing the First Attack they are Dealt. This does not trigger PassOnEffect. This only Resets once Combat Ends or the User is Retired.
+
+🅿 Irrelevant - Passive That Is Always Active, This Ignores User Choice. Small Injuries mean Nothing to the User. If the User would take Damage Equal to 5 HP or Less, they Instead take 0 Damage.
+
+🅿 Last Stand - Passive That Activates Under Conditions, This Ignores User Choice. At 10% Health or Below, All Damage taken by the User is reduced to Chip Damage. The User still must use an Action to defend themselves. Last Stand still triggers PassOnEffect.
+
+🅿 Living Armour - Passive That is Always Active, This Ignores User Choice. Upon receiving Healing, the User is receives 1/2 of the Healing as bonus Bloom Points. These Bloom Points wear off at the End of Combat.
+
+🅿 Magic Guard - Passive That Is Always Active, This Ignores User Choice. The User Can Only take Damage from Direct Attacks. Stationary Traps and Status Effects Cannot Harm the User.
+
+🅿 Multiscale - Passive That Is Always Active, This Ignores User Choice. Reduces the amount of damage the User Takes by half. This only works for direct attacks.
+
+🅿 Parry Point - Passive That Is Always Active, This Ignores User Choice. The User is proficient at Parrying, and upon Successfully Parrying an Attack, the User gains a Parry Point. Parry Points Stack and can be used to Increase Next Attack Damage by 12, Increase Bloom Points by 12, or Gain a PassOnAction. 
+
+🅿 Quick Thinker - Passive That Is Always Active Under Conditions, This Ignores User Choice. Upon Reacting to Conflict Actions with Counter Rolls, the User is given +3 Leverage for Every +1 Leverage the Target that is Attacking the User is Holding. Quick Thinker does not Activate on Sneak Attacks.
+
+🅿 Rebuild - Passive That Is Always Active, This Ignores User Choice. For every Health point Missing below the User's Maximum Health Points, the User is granted 1 Empty Shields Point. These Shields Points Function as Normal and Regenerate at 6 SP per turn. The User cannot be Healed through Filled Shields Points.
+
+🅿 Showman - Passive That Is Always Active Under Conditions, This Ignores User Choice. Within Initiative Challenging, for every Target who Interrupts while on the User's Turn, the User Gains 9 Bloom Points. The User can Sacrifice all given Bloom Points to Gain 1 Extra Leverage for Every 3 Bloom Points.
+
+🅿 Study - Passive That Is Always Active, This Ignores User Choice. The User Studys their Opponents and Allies. For Every Action the User sees a Target Perform in which the User is not the Direct Target, the User gains +3 Leverage against that Target. This Leverage is Reset when the User takes Damage from that Target. 
+
+🅿 Thick Skull - Passive That Is Always Active, This Ignores User Choice. The User is hardheaded and difficult to put down. The User is Immune to the Nausea, Scared, and Stun Status Effects. Additionally The User Gains 25% more Hit Points.
+
+🅿 Tough Skin - Passive That is Always Active, This Ignores User Choice. The User has 16 Shields Points built into their health. These cannot be taken away and fully Regenerate every Combat Turn.
+
+█ Personal Perks
+
+🅰 Acupressure - Sacrifice an Action to Perform Acupressure. Upon Activating Acupressure, the User Rolls a D9 to Randomly Select a Stat to Boost. Whichever Stat the User Rolls is Increased by 8. This Last Until Acupressure is Used Again.
+
+🅰 Adrenaline - Active that Triggers on User Choice under Conditions. The User Sacrifices 6 Health Points to gain an Extra Action. This can only be Triggered Once per Combat Turn.
+
+🅰 Duality - Sacrifice an Action to Perform Duality. While attacking or being attacked, The User is capable of Sacrificing an Action to Reverse a Target's Leverage to be Negative. In Exchange, All Leverage the Target accrues on their Next Turn will be Positive. Duality May Not be used the Same Target more than Once per Combat.
+
+🅰 Enkindle - Active That Triggers on User Choice. The User Sacrifices 1/4 of their Maximum Health Points to Gain An Extra Action Point. Action Points Refresh on each of the User's Combat Turns. Max Health Points Sacrificed by Enkindle may not be healed, as their Max Health is directly lowered. Enkindle lasts until the end of Combat or the User is Retired.
+
+🅰 Loves Luck - Action Only Choice to Perform Love's Luck. Upon Making a Roll, The User Gains 6 Health, if the User Wishes to Reroll, the User will lose 6 Health Instead. The User may Only Reroll Once. This Triggers on all Rolls for any reason.
+
+🅰 Magnify - Sacrifice an Action to Perform Magnify. Upon Activation of Magnify, the User may Multiply one of their Stats by 5x until the end of their Combat Turn, in Exchange, all Other Stats are Reduced to 0 Until the End of the Turn.
+
+🅰 Minds Eye - Sacrifice an Action to perform Mind's Eye. Upon Activation of Mind's Eye, the Target's next Attack cannot Miss or be Deflected. The User Suffers -8 Leverage for the Upcoming Combat Turn. Mind's Eye may also be cast on the User, Allies, or Enemies, but the User will always incur the Leverage Penalty.
+
+🅰 Pivot - Sacrifice an Action to Perform Pivot, Pivot may Only be Activated if the User is in the process of using an Action. Upon Activation of Pivot, the User stops whatever Action they are Already Performing, and may choose to perform another Action at no additional cost.
+
+🅰 Program - Sacrifice an Action to perform Program. The User is Capable of Queuing up Actions to be Performed beforehand. A Trigger must be Stated for the Action to occur, at which point the User will Automatically Interrupt and Perform the Action with +6 Leverage.
+
+🅰 Recycle - Sacrifice An Action to Use Recycle. Recycle allows the user to Replace Current Leverage with Leverage Equal to the Leverage of any of the past 3 Counter Rolls the User has made. This only applies to Leverage, not Rolls or Stats. 
+
+🅰 Twin-Cast - Active Ability that can be Triggered on User Choice. Upon Casting an Ability, the User may Activate Twin-Cast to Cast Another Ability in the Same Action. After using Twin-Cast, the User Loses an Extra Action on the Following Combat Turn.
+
+🅿 Sinners Delight - Action Only Choice to Perform Sinners Delight. Allows the User to Sacrifice 8 Health Points to Gain 2 Extra Rerolls during Rolls, these Extra ReRolls expire if not used during the current combat roll. The User gains 8 Health Points back if they get a Critical.
+
+🅿 Algorithm - Passive that is always active, this ignores user choice. Within Initiative Challenging, The User's Initiative raises to be Only 2 Lower than the Highest Initative, For Every Person Below the User, the User gains 2 Extra Leverage. This Leverage applies to the Initiative Challenge Roll.
+
+🅿 Ambitious - Passive That is Always Active, This Ignores User Choice. The User is capable of drawing on the Full Amount of Actions and Gained Resources from their next Turn, as opposed to the Normal Two. This Includes all Given Values that can be obtained from Next Turn.
+
+🅿 Analytic - Passive that is always active, this ignores user choice. If the User Has the Lowest Initative on the board, they gain an extra action every Combat Turn. They also gain 6 Leverage.
+
+🅿 Bide - Passive That Is Always Active, This Ignores User Choice. The User prefers to Bide their time before Acting. If the User holds All of their Actions until their Next Combat Turn, they will be granted +1 Action Point, which does Not Expire upon the Next Turn. This can Stack Infinitely. Using PassOnActions does not block Bide from Triggering.
+
+🅿 Equalizer - Passive That Triggers Under Conditions, This Ignores User Choice. The User is capable of Keeping Up with their Opponent. In Counter Rolls, The User will Always Match their Opponent if they've Rolled Lower. This does not apply to Leverage or Stats, only to the Roll.
+
+🅿 Euphoria - Passive that is always active under conditions, this ignores user choice. The User Gains 12 Extra Leverage when Dodging Projectiles. Euphoria can only dodge projectiles with defined USP values, while instant hit ranged attacks are unaffected by Euphoria.
+
+🅿 Frisk - Passive That Activates Under User Choice. The User is able to Identify Held Objects and Armor of Targets without using an Action. This Applies to Players and NPCs, but not Objects of Holding. The User is Unable to Determine Contents of Objects of Holding that are Held By the Target.
+
+🅿 Gods Luck - Passive That Activates Under User Choice. Allows the User to Reroll Once on any Current Roll. The User Can Gain More Rerolls by Sacrificing Actions. God's Luck Cannot be Reversed Once Done; God's Luck Applies to all Types of Rolls.
+
+🅿 Justified - Passive That Is Always Active Under Conditions, This Ignores User Choice. Physical Attacks Against the User that Trigger the PassOnEffect give 2 PassOnActions instead of 1, for justice. This Does Not Trigger When The User Takes Damage Dodging Or Casting. 
+
+🅿 Leech - Passive That Is Always Active, This Ignores User Choice. The User Passively Leeches Life from Dead or Retired Characters Around them. For Each Dead or Retired Character within 4 Spaces of the User, The User will gain +4 Health Points every Combat Turn. This Is Always Active, Even if the User themself is Retired.
+
+🅿 Liberation - Passive That Is Always Active Under Conditions, This Ignores User Choice. The User Gains An Extra Two Action Every Combat Turn, While Their Health is 30% or Under. These Actions Only Appear on Combat Turns. 
+
+🅿 Masochist - Passive That Is Always Active, This Ignores User Choice. Upon being targeted with an attack, if the User chooses to Accept the Damage without Reducing or Dodging it in any way, the User gains +8 Leverage. This Leverage Stacks until the User's next Combat Turn. 
+
+🅿 Meditation - Passive That Activates Under Conditions, This Ignores User Choice. The User may Meditate before performing an Action for increased Efficiency. For Every Turn in which the User expends 0 Step Points, they are granted +8 Meditation Leverage. All Actions made without moving will carry this Leverage. Upon moving once again, the next Action Performed by the User will have All Meditation Leverage Pushed into the Roll, after which it disappears.
+
+🅿 Moody - Passive That Activates Under User Choice. The User Chooses to Raise One Stat by 4 and Decreases One Stat by 4. This Restarts After the Current Combat Turn Ends. This is Optional on every turn and does not Cost an Action.
+
+🅿 Motivation - Passive That Is Always Active, This Ignores User Choice. The User is Filled with Motivation! For Each of the User's Combat Turns Past, the User Gains +2 Leverage. This Lasts until the end of Combat or the User is Retired, and stacks infinitely.
+
+🅿 Nymphomaniac - Passive That Is Always Active, This Ignores User Choice. If the User has Climax Applied them, they Gain +3 Damage, +3 Steps and +3 Leverage Until the End of the Session. This Can be Stacked up to 5 Times. Climax can be self-inflicted.
+
+🅿 Overconfident - Passive That Is Always Active, This Ignores User Choice. At the Start of Combat, the User is given +10 Base Leverage until taking damage for the first time.
+
+🅿 Paranoid - Passive That Is Always Active, This Ignores User Choice. When Defending against Sneak or Instant Attacks, The User gains +6 Leverage. This Leverage lasts against the target until the User's next Combat Turn.
+
+🅿 Perfect - Passive That Is Always Active, This Ignores User Choice. For Every 3 Missing Health Points and Every Point of Negative Leverage, the User gains +1 Charisma.
+
+🅿 Pessimist - Passive That Is Always Active Under Conditions, This Ignores User Choice. Upon losing any Counter Roll, The User Gains 2 Extra Leverage on Thier Next Counter Roll. If the User Loses the Next Counter Roll, The User Gains 4 Extra Leverage. This Keeps Growing by Increments of Two Until the User Wins a Conflict Turn.
+
+🅿 Quick Draw - Passive That Is Always Active Under Conditions, This Ignores User Choice. The User Always Attacks First at the start of a Skirmish, Regardless of Initative. This Does Not Start Your Turn, It Just gives you an Extra Turn to be done at the start of Combat. Actions spent by others during this turn are taken from their first turn, but the User's Actions are refreshed on their first real Turn.
+
+🅿 Quick Hand - Passive That Is Always Active, This Ignores User Choice. The User can Pickpocket without wasting Actions. The User Charges One Free Pickpocket Every Combat Turn that can be used to Steal Items off Targets. These Pickpockets never use Actions, but can be Interupted or Countered by Targets. The User is capable of Charging up to Three Pickpockets.
+
+🅿 Regeneration - Passive That Is Always Active, This Ignores User Choice. Allows the User to Heal 10% of their Max Health. This ability activates as a passive upon the User's Combat Turn. Regeneration Only Effects The User.
+
+🅿 Rehabilitation - Passive That Is Always Active, This Ignores User Choice. Allows the User to Heal 2 Health for Every Action Used. This also Applies when the user Immolates an Action. Rehabilitation only Effects the User.
+
+🅿 Rejuvenation - Passive That Is Always Active, This Ignores User Choice. All Damage Dealt By Physical Attack Gives the User 1/4 the Damage Back As Bloom Points. The User Can Gain A total of 100 Bloom Points from Rejuvenation.
+
+🅿 Revivification - Passive That Is Always Active, This Ignores User Choice. The User recovers from injuries quickly. If the User has been Retired for 3 Combat Turns, they are automatically Revived with 1 Health Point. This will not work if the User has no other Allies left alive.
+
+🅿 Rooted - Passive That is Always Active, This Ignores User Choice. If the User doesn't move on their Combat turn, they are granted +12 Leverage Until the End of their Combat Turn. This Leverage is Removed once the User Leaves their Position. Knockback-Cancelling buffs are also doubled for the User. 
+
+🅿 Routine - Passive That Is Always Active, This Ignores User Choice. Routine allows the User to Repeat the Previous Action with Extra Leverage Equal to their Last Roll Divided by Two. This does Not Work if the Last Action Failed and Resets Every Action.
+
+🅿 Sadist - Passive that is always active under conditions, this ignores user choice. Every time the User Deals Damage or Nearby visible Targets Take Damage, the User Gains +2 Leverage. This Leverage Stacks Until the User Takes Damage.
+
+🅿 Sanguination - Passive That Activates Under User Choice. The User licks the blood off of Bleeding Targets for 5 Health Points Back. The User is also able to Heal Health Points through Bites equal to the Damage Dealt. This does not require an action to use and cannot be repeated on the same target until the end of the Combat Turn. Sanguination also functions on the User.
+
+🅿 Second Chance - Passive That Is Always Active Under Conditions, This Ignores User Choice. This only applies once the User has launched a Projectile; If the User's Projectile Miss thier Target, the User is given a 50% chance of obtaining the Projectile Back Again. These Projectiles must be held Items the User had Before.
+
+🅿 Stress - Passive That Is Always Active Under Conditions, This Ignores User Choice. For Every 2 Health Points the User Loses, the User Gains 1+ Leverage to their Counter Rolls. Stress Leverage Stack until Stress Leverage Reaches 24.
+
+🅿 Super Luck - Passive That Is Always Active Under Conditions, This Ignores User Choice. The User Must Roll Above 1/4 of the Dice's Numbers. If the User rolls under 1/4 of the Dice's numbers, they ReRoll. There is no cap on the number of rerolls which can be triggered by Super Luck.
+
+🅿 Telepathy - Passive That Is Always Active Under Conditions. Telepathy Lets The User always Anticipate an Ally's Attack and To Attempt To Dodge It with +8 Leverage. This Works Best if the Ally has Risky or Explosive Attacks.
+
+🅿 Truant - Passive That Is Always Active, This Ignores User Choice. The User Can Hold Actions Past Combat Turns. The User may a number of Actions equal to their Action Points, which upon the User's next Combat Turn are added to the Action Refresh. Any Held Actions over 1x the User's Action Point stat are wasted on Turn Refresh.
+
+🅿 Unaware - Passive That Is Always Active Under Conditions, This Ignores User Choice. When attacking, the User ignores stat changes. This Can Bypass both Negative and Positive Stat Changes to the User and Targets. This is always Active on the User.
+
+🅿 Vibrations - Passive That Activates Under User Choice. The User is Sensitive to Vibrations around Them. Vibrations allows the User to Clearly Sense anything around them at Triple their Action Range. This does Not function in a vacuum or other spaces where nothing can Vibrate. 
+
+🅿 Zen - Passive That Is Always Active Under Conditions, This Ignores User Choice. The User Does Not Have to Roll For Counters. The User's Roll is already predetermined to be a 12. This Cannot Be Changed and it Only Effects Counters.
+
+█ Deceptive Perks
+
+🅰 Ensnare - Sacrifice an Action to Perform Ensnare. Upon the User Taking Damage, The Target that dealt the Damage to the User Loses -8 Leverage. This can Stack for every Attack done on the User. Multihits count as 1 Attack. This Last until the Target's Next Combat Turn.
+
+🅰 Exhaust - Sacrifice an Action to Perform Exhaust. The User may Deal Damage to an Target for 1/4 of thier Max Health Points, returning 1 Action to the User if successful. Exhaust may only be used Once per Target per Combat. Exhaust requires Physical Contact with the Target.
+
+🅰 Infiltrator - Sacrifice an Action to Perform Infiltrator. The User Can Sacrifice An Action To Turn Invisible. The Invisiblity Wears off Once the User Attacks or At The Start of their Next Combat Turn. The User Must Wait Two Combat Turns Before Using This Perk Again. The User Can Use this Perk to Stay Undetected.
+
+🅰 Joker - Sacrifice an Action to Perform Joker. During Counter Rolls, The User may replace their Roll with the roll of the Target, the Target gets the roll of the User in Return. Leverage and Stats are not Swapped and Replaced through Joker.
+
+🅰 Overpressure - Sacrifice an Action to Perform Overpressure. The User Exerts Pressure, causing the User to Steal 1 Action Point from a Visible Target of their Choice. This Action Point is not Refreshed until the User's Next Combat Turn. Pressure Cannot Steal Actions from Retired Targets. Pressure wears off when the User is Retired, and may only be used on 1 Target at a time.
+
+🅰 Subtle - Sacrifice an Action to Perform Subtle, Subtle may Only be Activated upon Casting an Ability. The User is Subtle in their Movements and Behaviors. Upon Activation of Subtle, the Ability being Cast will be done without any sort of Movement or Signs of Casting to be seen by other Entities. For Leverage Purposes, this counts as a Surprise Attack, and may not be Interrupted, only Conflicted.
+
+🅰 Switch - Sacrifice an Action to Perform Switch. The User's Leverage is replaced by the Target's Leverage in a Counter Roll; The Target's Levearage is replaced by the User's Leverage within the Counter Roll. This only applies to Leverage and does not apply to Stats or Rolls. 
+
+🅰 Zero Match - Sacrifice an Action to Perform Zero Match. When under Attack from a Target, the User can Negate All Damage and Actions done by Both Sides- This Equalizes Everything. This can be Activated at Any Time when the User is involved with a Defensive Conflict Roll. Zero Match will Refund All Actions spent by the Target during the Counter Roll; it will not Refund Actions spent by the User. The User may Cancel Zero Match into another Action, which may not be Interrupted but may be Conflicted.
+
+🅿 Bluff - Passive That is Always Active Through the Actor's Ability. The User Always has Something Up their Sleeve- or so their Opponents thinks. Opponents will be wary when talking with the User, not knowing what they Might have Hidden from them.
+
+🅿 Cloak - Passive That is Always Active Through the Actor's Ability. The User is able to redirect or dispell other Targets Easier when Talking to them. The User is capable of avoiding suspicious behavior. Although the User is still capable of getting Caught for Actions in the Open.
+
+🅿 Disarm - Passive that is always active under conditions, this ignores user choice. When using Counter Rolls to Disarm or Remove objects from Targets, the User Gains +8 Leverage. Disarm also grants Leverage when pinning down or otherwise restraining struggling, grabbed targets.
+
+🅿 Elusive Grab - Passive That Is Always Active Under Conditions, This Ignores User Choice. Able to Grab Targets at Triple the Users Action Range. The Target can still escape the Grab, this simply increase the Range that the User Can Grab Targets At.
+
+🅿 Eraser - Passive that is always active under conditions, this ignores user choice. Contact with a Target Replaces all of the Target's Perks with Eraser until the end of the battle. Eraser happens automatically and does not require an Action.
+
+🅿 Imitator - Passive That Activates on User Choice. The User, having Clearly Heard another Character's Voice in the past 24 Hours, is capable of perfectly imitating it. Imitating a Character's Voice coutns as hearing it, and Voices can be Practiced to keep them available for use.
+
+🅿 Intimidate - Passive That Is Always Active, This Ignores User Choice. The User applies the Scared status effect to all nearby targets. Targets within 5x the Users Action Range who can see the User gain this Debuff. This is always Active, but the User may Allow Allies to Ignore it.
+
+🅿 Mold Breaker - Passive That Is Always Active, This Ignores User Choice. The User Can Deal and Resist Damage To or From a Target Regardless of The Target's Perks or other Abilities. Mold Breaker has the highest priority over every other Perk. Normal Methods of Reducing or Avoiding Damage Still Apply.
+
+🅿 Nullify - Passive That Activates Under User Choice. Nullify Cancels the Immolation Function within a Full Initiative Challenge. This Applies to the User as Well. All Immolated Actions go back to the Users Once Canceled.
+
+🅿 Prankster - Passive That Activates Under User Choice. The User is Able to Change Temporary Initiative of a Target To What Ever He Wants. The User Can Only Do This To One Target within Initiative Challenging. This Does Not Take an Action. The User Cannot Use This on Themself.
+
+🅿 Reversed - Passive That Is Always Active, This Ignores User Choice. When the User deals Knockback to a Target, The Knockback is Reversed to go the other direction. Entities going in the other Direction will Pass Through the User.
+
+🅿 Vector - Passive That Is Always Active Under Conditions, This Ignores User Choice. The User is Capable of Grabbing Several Targets with One Hand. Grabbing Targets now only Reduces Leverage by -1, Although Each Target Grabbed Lowers Leverage.
+
+█ Support Perks
+
+🅰 Battery - Activates Once the User touches targets, controlled by User Choice. The User is an Action Battery. The User can Give and Take Actions from a Target through Touch, so long as the Target Agrees to the Transaction. Battery Does not Waste Actions upon Transfering Actions- As long as the User is within Action Range of the Target.
+
+🅰 Compromise - Sacrifice an Action to Perform Compromise. Compromise allows the User to Share and Split Damage Between them an any Entity within Action Range. Damage can be Split as much as the User Wishes. Status Effects cannot be Shared or Split in any way. Damage Split must be Consensual.
+
+🅰 Devotion - Sacrifice an action to Perform Devotion. Grants All Visible Allies within 3x the Users Action Range 10 Bloom Points. This Does Not Apply to The User. Bloom Points of other Allies cannot exceed 100 through Devotion.
+
+🅰 Harmonize - Sacrifice an Action to Perform Harmonize. The User and their Allies Share Positive Effects among eachother. All Allies within quadruple the Users Action Range, will take Full Healing and Positive Status Affects when administered to any other Ally within the Action Range. This affects the User as well.
+
+🅰 Healer - Sacrifice an Action to Perform Healer. Healer allows the User to Heal Other Targets for an Action. Healing Removes Basic Status Effects and Gives 16 Health. This cannot be applied to the user themself. 
+
+🅰 Natural Cure - Sacrifice An Action to Perform Natural Cure. The User Can Remove All Complex or Elemental Status Effects From Targets. The User Can Use this Perk on Them Selves if Needed. This Also Heals 4 Health Upon Use; This can only be used if the Target has a Status Effect.
+
+🅰 Replicate - Sacrifice an Action to Perform Replicate. The User copies the Perk of a defeated Monster or Enemy. The defeated Monster or Enemy must be visible to the User to allow this Perk to Activate. Replicate allows the User to Identify Perks of Fallen Monsters or Enemies without wasting an Action before Replicating the Perk.
+
+🅰 Restoration - Sacrifice An Action to Use Restoration. The User Removes All Negative Stat Changes and Complex Status Effects from a Target. This cannot be used on the User and only works on One Target.
+
+🅰 Resurrection - Sacrifice An Action to Use Resurrection, Resurrection may Only be used on a Retired Ally. Upon Activation of Resurrection, the User Heals a Nearby Retired Ally for 25% of their Maximum Health Points, and the Target immediately Gets Up, Skipping the Recovery Turn.
+
+🅰 Revelation - Sacrifice An Action to Use Revelation. The user is able to Reveal Areas Covered in Fog of War, this is only applied to a Single Area, The User must be directly next to the area or inside it. This applies to full areas covered in fog of war or small rooms covered in it.
+
+🅰 Swap - Sacrifice an Action to Activate Swap. Upon Activation of Swap, the User may Choose One Visible Target, If that Target consents, the Position of the User and the Target will be Swapped.
+
+🅰 Transfusion - Sacrifice an Action to Perform Transfusion. The User is able to Push Thier Own Health Points into the Target. The Target will be healed in the process, but the User will lose Health Points. The User Can Push as Many Health Points into the Target as possible- until the Target Reaches Max Health Points. With Consent, the User may also use Transfusion to Heal themselves at the cost of the Target's Health.
+
+🅰 Turnabout - Active Ability that can be Triggered on User Choice. The User may Swap Thier Action with an Action performed by a Visible Ally within 5x the User's Action Range. Turnabout is Not Restricted by Perks, Casts, or Actions. This does Not cost an Additional Action.
+
+🅰 Vibe Check - Sacrifice an Action to Perform Vibe Check. Vibe Checking the Target Causes the Target's Vibe to be Checked by the User. Both the Target and the User Must Select and Add up 3 of their stats. If their stats are within 10 points of eachother, Both Pass the Vibe Check, Gaining 4 Leverage (This Leverage is Stackable for the User Until Performing an Action Other than a Vibe Check). If the Vibe Check Fails, the Target Takes 8 Damage. 
+
+🅰 Wobble - Sacrifice an Action to Perform Wobble. Upon Grabbing a Target, if the User has Allies standing directly next to them, The User may activate Wobble to Attack the Target Once themselves and have their Allies Attack the Target once. The Target is Unable to Resist these Attacks Once Caught. Wobble Only uses The User's Actions and not the Allies' Action. 
+
+🅿 Competitive - Passive that is always active under conditions, this ignores user choice. Both the User and Any Nearby Allies both Gain +4 Leverage When Attacking. This Stacks by +1 For Every Ally within the Area. Allies must be within 10 Meters of Eachother. Competitive Works until the User is Retired.
+
+🅿 Envision - Passive that is always active under conditions, this ignores user choice. Envision allows the User to Naturally Dispell Blindness on Themself. Envision Allows the User to See Through Walls and Around Corners. Although Hearing is still Limited- they are able to Detect what is behind Areas.
+
+🅿 Friend Guard - Passive That Is Always Active Under Conditions, This Ignores User Choice. Reduces Damage by 25% done to Allies within 3x the User's Action Range. This Functions as a Passive Area of Effect. This can be Restricted if Allies are Not within Visable Range. This Does Not Apply to The User.
+
+🅿 Friendly Fire - Passive that is always active under conditions, this ignores user choice. Friendly Fire Applies to all Allies to the User. All allies deal 1/4 Damage To Each other. This Only Applies to all Allies. This does not apply to Misfired Traps or Recoil Damage.
+
+🅿 Hyperbole - Passive That Is Always Active Under Conditions, This Ignores User Choice. Hyperbole Applies to all Allies to the User. Increases in Stats, Damage, Leverage, and other values are increased doubled for allies. This does not affect the User and Base Stats are not affected with Hyperbole. 
+
+🅿 Inspire - Passive That Is Always Active, This Ignores User Choice. The User Inspires Allies with Them. This allows Allies with the User to gain extra Leverage based on the First Roll of the Users Turn Divided by Two. This Resets for the User Every Combat Turn. Doesn't Stack with Other Inspires, but the Largest Inspire will always be used.
+
+🅿 Receiver - Passive That Is Always Active Under Conditions, This Ignores User Choice. The User copies the Perk of a defeated ally. The defeated ally does not have to be visible to the User to allow this Perk to Activate.
+
+🅿 Shared - Passive that Activates on User Choice. The User may Share One Perk with a Willing ally within 5x the Users Action Range. If the Ally leaves this Range, the Perk will no longer be Shared. The User may Share Shared. The User may only Share a Perk with One Ally at a time.
+
+🅿 Savior - Passive That Is Always Active Under Conditions, This Ignores User Choice. Both the User and the Target are healed for 12 Health Points when the User Saves the Target from any Attacks. Health Points are transfered into Bloom Points if the User or Target is at Max Health Points.
+
+🅿 Synchronize   - Passive That Is Always Active Under Conditions, This Ignores User Choice. An Attacker will receive the same status effect or stat changes that they inflict to the User. This Does Not Apply to Damage, and this only works through Contact.
+
+🅿 Trace - Passive That Activates Under User Choice. When The User enters a battle, the User copies a Visible Targets Perk if the Visible Target Uses or Shows Thier Perk. This May Only be Done Once.
+
+🅿 Tracker - Passive that Triggers on User Choice. The User is Skilled at Tracking. So long as the User has seen a Target once before, they can always Recognize if that Target has been in an Area, Detect Clues that the Target has left behind, and approximate the Direction they went in from that Area. Tracker may Only be used to Focus on One Target.
+
+🅿 Victory Power - Passive That Is Always Active, This Ignores User Choice. Boosts the Damage Points of allies within 4 meters of the User by 6. 
+
+🅿 Victory Star - Passive That Is Always Active, This Ignores User Choice. Boosts the Leverage of allies within 4 meters of the User by 6. 
+
+🅿 Willow - Passive That Is Always Active, This Ignores User Choice. Decreases Damage Points of Enemies within 4 meters of the User by 6.
+
+█ Movement Perks
+
+🅰 Aerial Dash - Action Only Choice to Perform Aerial Dash. The User, While Airborne, is Capable of Dashing Once before Hitting the Ground. Dashing While in the Air Bypasses Entities on the Ground. Aerial Dash Sends the User Dashing Towards the Ground Afterwards. Aerial Dash use an Action to Perform And Can be Canceled Into Other Actions.
+
+🅰 Chain Dash - Action Only Choice to Perform Chain Dash. The User is Capable of Chaining Multiple Dashes within Single String of Actions. Multiple Dashes Chained Function as One Action, but Dash Leverage Stacks. Chain Dashes may be Cancelled as normal into other actions, with all accruted Leverage.
+
+🅰 Dash Burst -  Action Only Choice to Perform Dash Burst. The User is Capable of Canceling any Attack into a Dash. Dash Cancelling an Attack into a Dash will still leave the Target entitled to Conflict Actions. Dash Burst may be Cancelled again into other Actions.
+
+🅰 Dive Strike - Sacrifice an Action to Perform Dive Strike. The User is Capable of Leaping With Dashes. Leaping Counts as Dashing but Bypasses Entities on the Ground. Dive Strike Sends the User Dashing Towards the Ground Afterwards. The User is Considered Airborne While Leaping, Although Leaping Only Last with the Given Action. Dive Strike Can be Canceled Into Other Actions.
+
+🅰 Double Jump - Active Ability that Triggers on User Choice. The User can use the Air below them for an Extra Leap. The User, any time they are in Mid-Air or Falling, can Jump Once before Hitting the Ground. Jumping within the Air Functions Similar to Dashes or Dodges, and does Not require an Action to Perform.
+
+🅰 Effortless - Active Ability that Triggers on User Choice. Sacrifice 5 Health Points to Gain 2 Extra Step Points. Can Only Reach a Max of 10 Extra Step Points. This works within Any Combat Scenario, as long as its the User's Turn. 
+
+🅰 Emergency - Sacrifice an Action to Perform Emergency, Emergency may Only be Activated Once per Combat. Upon Activation of Emergency, the User Gains 2x Step Points to use Immediately. While Using these Step Points, Enemies are Unable to Interrupt the User's Movement. After the User is Finished Moving, their Turn Ends.
+
+🅰 Escape - Sacrifice an Action to Perform Escape. Upon Activating Escape, the User immediately and without the user of a Counter Roll Escapes from a Grab or other Movement Restraint, being granted a Dash to use immediately without the use of an additional Action.
+
+🅰 Lunge - Sacrifice an Action to Perform Lunge. The User Dashes Forward towards any Chosen Target. The User may Dash as far as their Step Points rather than half. Lunging Can be Chained Into a Grab without the use of another Action. 
+
+🅰 Overexertion - Sacrifice an Action to Perform Overexertion. The User Overexerts themself to Go Beyond their Limits. Upon Activation of Overexertion, the User is granted 4x Step Points and +6 Leverage until their Next Combat Turn. Additionally, all Movement counts as Dashing for the sake of Leverage. Upon the User's Next Combat Turn, they are given the Nausea III Status Effect for 1 Turn. Overexertion may Not be Activated while the User suffers from Nausea.
+
+🅿 Accelerated - Passive that is always active, this ignores user choice. As Long as All Step Points are Used within the Turn, the User Gains +2 Step Points for the Next Combat Turn. This Stacks 5 Times. Accelerated also Affects the Distance that Dashes Go.
+
+🅿 Brisk - Passive That Is Always Active, This Ignores User Choice. The User Gets Faster the More Damage they have Taken. For Every 4 Health Points the User is Missing, the User Gains 1 Step Point. The User is not Effected by map movement pentalities.
+
+🅿 Floaty - Passive That Is Always Active, This Ignores User Choice. The User is Pushed Twice as Far by Knockback, but is Immune to Knockback Damage. Dashes Are Increased to go as far as the Normal Step Points (opposed to being halfed), but Dashes no longer grant Leverage.
+
+🅿 Hustle - Passive That Is Always Active Under Conditions, This Ignores User Choice. For Every One Action Sacrificed to the Immolate Function, the User Gains 4 Extra Step Points To Use. These Extra Step Points Expire at the Start of the Next Combat Turn.
+
+🅿 Ouch - Passive That Is Always Active, This Ignores User Choice. Any Time the User Takes Damage, they are granted +3 Step Points to be used During their PassOnAction, or otherwise until their next Combat Turn.
+
+🅿 Recoil - Passive That Activates on User Choice. The User is Unable to Handle the Power of their own Projectile Attacks. Upon making a Projectile Attack, the User is Knocked Back in the Opposite Direction of the Attack with a Distance Equivalent to 1/10 of the Attack's USP.
+
+🅿 Reposition - Passive That is Always Active, This Ignores User Choice. After Casting an Ability, the User gains 3 Step Points. These Step Points may be Used after an Interruption Turn and Cannot be Interrupted.
+
+🅿 Swift - Passive That Is Always Active and An Ability That Triggers On User Choice. Dashes Are Increased to go as far as the Normal Step Points (opposed to being halfed). User May Dash Once on Their Combat Turn Without Using an Action.
+
+🅿 Swiftwind - Passive That Is Always Active, This Ignores User Choice. Upon Dashing the User gains More Distance. The User's Dash Increases Distance As Far As the User Wishes. Swiftwind Decreases Leverage by Two for Every One Space Dashed over the User's normal limit. Normal Dash Leverage still Applies.
+
+🅿 Zoom - Passive That Is Always Active and An Ability That Triggers On User Choice. Dashes Are Increased to go as far as 2x The Normal Step Points (opposed to being halfed). Dashing Increases Leverage by 8 Instead of 6.
+
+█ Roleplay Perks
+
+🅰 Affection - Sacrifice An Action to Perform Affection. The User is Able to Learn Specifics About A Character. The User Can Use One Action to Learn the Character's Romantic Taste within Others. This allows the User to Easily Romance Characters.
+
+🅰 Connections - Sacrifice An Action to Perform Connections. The User is Able to Learn Specifics About A Character. The User Can use One Action to Learn Specific Relations or Institutions that the Character may be affiliated with. Any Personal Connections to Specific Targets can be Revealed Through this. 
+
+🅰 Empath - Active Ability that can be Triggered Once Per Session. The User is capable of analyzing another character to find out 1 Character Trait, Ideal, and Flaw, as well as any other GM-Approved relevant information.
+
+🅰 Historian - Sacrifice an Action to Perform Historian. The User may Sacrifice an Action to look back into the History of an Inanimate Object they are Touching. They can see Any Specific Details of an Object through Visions and Memories. Historian will only View Important or Drastic Memories within the Inanimate Object. Historian may be used on Deceased Organic Life or Forgotten Objects. 
+
+🅰 Identify - Sacrifice An Action to Perform Identify. The User is Able to Learn Specifics About A Character. The User Can Use One Action to Learn the Character's Personality Traits or Personality Weaknesses. Against Creature- Identify allows the User to Understand Behaviors of the Creature. 
+
+🅰 Intuition - Sacrifice an Action to Perform Intuition. The User is Able to Learn Specifics About A Character. The User Can Use One Action to Learn the Character's Artificial Intelligence Type Or Any Perks or Skills the Character May Hold. 
+
+🅰 Spirits - Sacrifice an Action to Perform Spirits. The User The User may Sacrifice an Action to Communicate with the Afterlife of Dead or Decease Organic Objects. Spirits prohibits the User from Physically Interacting or Viewing the Afterlife- Although Communication with the Afterlife is Still Possible. 
+
+🅰 Reverb - Action Only Choice to Perform Reverb. The User is capable of Throwing their Voice. The User can Speak and have it sound as if it is Originating from a Point Within 10 Spaces. Throwing Voices Affect All Entities, Including Allies within the Area.
+
+🅿 Icy - Passive That Is Always Active Through The Actor. The User has an Intimidating Aura that makes People not want to Cross them. Characters who have Spoken to the User will not Act Against them unless Absolutely Necessary.
+
+🅿 Cute Charm - Passive That Is Always Active Under The Actor. Higher Chance of Persuasion on Any Character whose Sexuality attracts them to the User's gender- This is done through an Actor's Charm. Cute Charm Does Not Effect Appearance, only Persuasion When Acting through their character.
+
+🅿 Mature - Passive That Is Always Active Under The Actor. Adults have respect for the User. It is much more difficult to lower Support Rank Relationships with Adults and much easier to improve them. Mature also allows for many Adults to Communicate Eaiser with the User. Mature can only be given to Children or Teenage Characters.
+
+🅿 Movie Star - Passive That Is Always Active Under the Actor's Ability. The User gains +1 Charisma Until the End of a Session any time they make any Modern Entertainment Reference in Proper Context. Movie Star may Only be Triggered Once per Combat Turn, but so long as Context applies, it can be Triggered an infinite amount of times. If nobody else at the Table gets the reference, Movie Star will fail to Trigger. 
+
+🅿 Oblivious - Passive That Is Always Active, This Ignores User Choice. The User is oblivious, and that keeps it from being infatuated or falling for taunts. This Applies to Conversations as it causes the User to Ignore Specifics or Insults. The User Cannot be Enraged.
+
+🅿 Smooth Talker - Passive That Is Always Active Under The Actor. Smooth Talker significantly improves diplomacy and communication. Through the Actor's ability, they have a Higher Chance to Lower Prices, Persuasion with other Characters, or Calm or Neutralize Issues. Smooth Talker does not effect character appearance.
+
+🅿 Two-Faced - Passive That Is Always Active Under The Actor. The User has Two Social Faces. Negative and Positive Actions are not Correlated and to a Portion of Society; Positive Actions can only mean you are Positive in Heart, and Negative Actions can only mean you are Negative in Heart.
+
+█ Inventory Perks
+
+🅰 Junkie - Sacrifice can Action to Perform Junkie. Upon Looking for Items within an Area, the User can Identify how many Hidden Items may be within the Current Area. For Every Item Found the User Gains +4 Leverage. This Leverage Stacks only Until the User is Unable to Find anymore Items.  
+
+🅰 Lock Down - Sacrifice an Action to Perform Lock Down. The User has Higher Chance to disable or break any Mechanical based object. This only works on one Mechanism at a time and it must be Mechanical. Lock Down Gives the User +8 Leverage when Attempting to Disable, Break, Shutdown any Mechanism.
+
+🅰 Pickup - Sacrifice An Action to Use Pickup. The User Picks Up a Random Item within the Area. This Item may not Specified, and is Typically Related to the Area the User is in. Depending the Scenario the User May Recive Strong or Rare Items, but this is Typically Left into the Hands of The Game Master. Pickup is guaranteed and does Not require a Counter Roll.
+
+🅿 Back Muscle - Passive that is always active, this ignores user choice. The User Gains Four Extra Item Slots for their Inventory.
+
+🅿 Crafty - Passive that is always active, this ignores user choice. The User is knowledgeable on Crafting. The User is more capable of Crafting Any Product. Counter Rolls to Craft Chemical Products gain +4 Leverage. Failed Crafting Rolls allows the User to Salvage All of the Products.
+
+🅿 Directive - Passive That Is Always Active, This Ignores User Choice. Counter Rolls performed by the User that Lead or are Directly Tied to a Current Dedicated Quest- Give the User x2 More Experience. This is not Applied if the Quest is Deviated from or Ignored.
+
+🅿 Disassembly - Passive That Is Always Active Under Conditions, This Ignores User Choice. When Taking Apart or Disassembling Objects, the User gains +8 Leverage. This Leverage only applies towards the Dissassembly of the Object.
+
+🅿 Forager - Passive That Is Always Active, This Ignores User Choice. The User knows their way around the Outdoors. The User Instinctively knows where Herbs, Mushrooms, and Other Plant Life can be found, and excels at doing so, gaining +12 Leverage when Searching for them.
+
+🅿 Herban - Passive That Is Always Active Under Conditions, This Ignores User Choice. The User knows their way around plants and can make basic medicines with common plants. +8 to Herb Crafting Counter Rolls.
+
+🅿 Hoarder - Passive That Is Always Active, This Ignores User Choice. The User enjoys Hoarding Items. The User gains +1 Leverage for every Item in their Inventory. The User is reluctant to Use Items, and has -4 Leverage on any Roll Using Items.
+
+🅿 Magnetic - Passive That Is Always Active, This Ignores User Choice. The User natrually attracts Money and Items within the World. Magnetic Increases Found Money by 2x. Searching Counter Rolls hold an Extra +8 Leverage, Allowing the User to Find Things Easier within the World.
+
+🅿 Scholar - Passive That Is Always Active Under Conditions, This Ignores User Choice. The User Gains x3 Experience Points For Every Counter Roll performed. The Gained Experience is Exclusive to the Scholar. Scholar only works if the User is not Performing a Combat Counter Roll, Either Attacking or Defending- Combat Negates the Effects that Scholar Gives.
+
+🅿 Strong Arm - Passive That Is Always Active Under Conditions, This Ignores User Choice. The User increases Lift Capacity by x2 compared to Normal. Strength and Endurance Stat are both Increased by +4.
+
+🅿 Student - Passive That Is Always Active, This Ignores User Choice. The User Gains x3 Experience on Counter Rolls for their Highest Selected Stat. If Multiple Stats are Equal in Experience, the User Gains only 1.5x more Experience.
+
+🅿 Workforce - Passive That Is Always Active, This Ignores User Choice. The User is Skilled at performing Menial Labor. All Threshold Numbers for Counter Rolls are Reduced to Half for the User. This does Not Affect Opposing Counter Rolls, Only Threshold Numbers for Interacting with the World.
