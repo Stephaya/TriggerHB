@@ -1,0 +1,208 @@
+ © Copyright 2020 - Stephan DeLuna, Garrett Neenan
+
+ This file is part of Trigger.
+
+    Trigger is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Trigger is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Trigger. If not, see <https://www.gnu.org/licenses/>.
+
+𝗧𝗥𝗜𝗚𝗚𝗘𝗥 𝗛𝗢𝗠𝗘𝗕𝗥𝗘𝗪
+
+This Tabletop Homebrew ruleset is inspired by Tactical Games and made to fit within the TableTop Gameplay Format. This Homebrew is made to be easy for novices; however, it leaves just enough complexity for higher level players to utilize and enjoy the unique combat system present. This Homebrew gives players more creative freedom to act. Many new Mechanics introduce new Opportunities for the Players to Use.
+
+Battles are Dynamic. Battles are Fast. Battles are Concentrated.
+
+𝗔𝗗𝗛𝗗 𝗖𝗢𝗠𝗕𝗔𝗧
+
+◆ Whats in this File?
+	Inside of Combat Gameplay
+	The Turn Economy
+	Turn Order
+	Combat Turns
+	Conflict Turns
+	Interruptions
+	PassOnEffect
+	Initiative Challenging
+	Immolate System
+	Ambition System
+	Leverage System
+	Matching System
+	KeyActions on Turns
+	General Misconceptions
+
+█ Inside of Combat Gameplay
+
+Tabletop Roleplay has Gameplay inside and outside of the Combat Aspect. The Idea of Tabletop Roleplays is to test your self with puzzles and strategy to win games and solve mysteries. The Combat Aspect here is Part of the Bread and Butter of All Tabletop Games. If no one Plays, then the Game will become Stale. ADHD Combat is designed to Keep Combat Interesting while being faithful to other Tabletop Roleplaying Games.
+
+█ The Turn Economy
+
+The Turn Economy in this homebrew is a fundamental concept to keep in mind. The Turn Economy encourages combat, while at the same time, giving consequences for it. The Turn Economy focuses on a Pyramid where turns at the top can create a cascade of effects below them depending on what is and is not done.
+
+COMBAT TURNS - Combat Turns reside at the top of the Pyramid and start all rounds. The Person with the Highest Initiative Points (@Character_Creaction), will always go first. The Person with the Second Highest will go second, and so on... Combat Turns frequently start the fights by dealing damage first, however, dealing damage without good awareness could backfire. Combat Turns Draw from Action Points, and Characters without sufficient Action Points will not be able to Act.
+
+If a Character is about to take damage, there are a couple of ways they can Respond; CONFLICT ACTIONs are always available and happen before an attack is about to hit. CONFLICT ACTIONS open up simple actions that give the character enough room to possibly survive. Someone can Interrupt the Action with an Interruption Action, in hopes to save or avenge the Person who is about to be attacked. Lastly, they can take the damage and gain further actions through the PassOnEffect.
+
+CONFLICT TURNS - Conflict Turns are given to respond to an attack, and are optional. Conflict Turns allow characters to dodge or block an attack, however, depending on the scenario, it is possible to counterattack. Characters who decide to follow up with a Dodge are not entitled to the PassOnEffect- even if they take damage. Conflict Turns Draw from Action Points, and Characters without sufficient Action Points will not be able to Conflict.
+
+INTERRUPTIONS - Interruption Turns are given to assist with an attack or to defend an ally. Interruptions can only be done AFTER an Attack is Stated. Characters who are about to be Attacked or Affected Cannot use an Interruption Turn. Interruption Turns function very similarly to Conflict Turns, however, can only be done by someone who is not attacking or being attacked. Interruption Turns Draw from Action Points, and Characters without sufficient Action Points will not be able to Interrupt.
+
+PASSONEFFECT - The PassOnEffect is what gives the ADHD Combat its name. The PassOnEffect States that If A Character or Characters are Struck with an Attack, then they are given a free PassOnAction Immediately after the end of the Attacker's Action. If Multiple Characters are attacked at once, Initiative States whose PassOnAction goes first. Once the PassOnAction is done, the turn returns to the Attacker. Multiple Characters can get caught up within the PassOnEffect; it's up to the Game Master to keep track the best they can.
+
+HEART TURNS - Heart Turns are done by sharing the same action. Both Characters do their actions at the same time while sharing a Heart Turn. Heart Turns can only be done if both parties agree to share the turn. This can go either way and is not restricted by Initiative. Heart Turns can also be used to Strengthen Interruption Turns, as two parties can decide to Interrupt at the same time (if both parties agree, they can make their attack at the same time). This can also be done against two opposing parties during an Interruption, this is called a Challenge turn and can lead to both parties performing their actions at the same time (This can only happen if both parties agree to do their actions at the same time, a party can opt to go after another party. If the Parties cannot agree then Refer to @initiative_challenging).
+
+█ Turn Order
+
+Turns Refresh Action Points at the start of a Character's New COMBAT TURN. At the start of a COMBAT TURN, Actions are Refreshed to full. Action Points are Universal and Can be used in COMBAT TURNS, CONFLICT TURNS, INTERRUPTION TURNS, HEART TURNS, AND PASSONTURNS. Characters are given a Set Amount of Action Points based on their stats (@character_creation). Characters cannot naturally gain any more actions unless it's from the PassOnEffect. Extra Actions Gained from the PassOnEffect can be used immediately, or held onto for later use. Held PassOnActions and Action Points will be erased once the character's Turn Refreshes.
+
+At the end of the first Character's COMBAT TURN, they will be awarded a Turn Refresh and all actions spent during their opening turn will be Refreshed. This only applies to the First Turn of Combat.
+
+█ Combat Turns 
+
+COMBAT TURNS function as the Bread and Butter of the combat. At the start of each Character's Combat Turns, their Actions are Refreshed, and they are able to Move and Act as much as they are capable of. Characters may hold onto their COMBAT TURN's actions to save for later if they want to use it during CONFLICT TURNS, INTERRUPTION TURNS, HEART TURNS, or if they're going to strengthen their PASSONEFFECT, however, held actions will Expire when they reach their new COMBAT TURN. Characters may not hold onto any Bonus Actions they may have gained and will be required to use them or lose them.
+
+Possible Actions with COMBAT TURNS Include:
+
+Speak           - Communicate or Talk to an NPC or Object       - This Requires 0 Actions
+Move            - Use up Step Points to move on the Field       - This Requires 0 Actions
+Counter         - Attack/Defend/Interact using a Counter        - This Requires 1 Action
+Approach        - Attack/Defend/Interact using an Approach      - This Requires 1+ Actions
+Cast            - Use an Ability or Skill against an Target     - This Requires 1 Action
+Hold            - Hold your Actions to use for later            - This Holds Current Actions
+Pass 			- Pass your Current Turn to Another Character 	- This Requires Entire Turn
+
+Passing the Character's Turn allows another Character to Hold the Combat Turn. Passing a Turn Requires the Character to use no Actions on their Turn. Passing your Turn Means Another Character will use your Current Combat Turn as Their Own, however, Triggers that happen on Their Combat Turn will Not Happen on this current one they are borrowing.
+Fleeing in Combat will result in the Character no longer being engaged in Combat, and can only rejoin Combat up to the Game Master's discretion. Leaving Combat can most commonly be done by escaping the map boundaries. Combat is restricted to the map boundaries, which may be extended depending on context. 
+
+█ Conflict Turns
+
+Before an Attack Lands on a Target, the Target is Entitled to an Action of Thier own To Avoid or Counter the Attack. These Actions are called Conflict Actions and can only happen once an Attack is Stated and About to Hit the Target. CONFLICT ACTIONS Must use the Same Type of Action as the Attacker, i.e a Counter against a Counter or an Approach against an Approach. If The Target Chooses to use their CONFLICT ACTION, they are not entitled to the PASSONEFFECT; This Applies to everything except Blocks, As Taking Damage while Blocking will still yield the PASSONACTION. CONFLICT ACTIONS cannot draw from More Action Points to Extend How many Actions Can Be Done during that Turn; CONFLICT ACTIONS may only do One Action.
+
+Possible Actions with CONFLICT TURNS Include:
+
+Speak      		- Communicate or Talk to an NPC or Object 	- This Requires 0 Actions
+Counter         - Attack/Defend using a Counter             - This Requires 1 Action
+Approach     	- Attack/Defend/Interact using an Approach  - This Requires 1 Actions
+Cast            - Use an Ability or Skill against an NPC	- This Requires 1 Action
+Hold            - Hold your Actions to use for later        - This Holds Current Actions
+
+█ Interruptions
+
+During the Turn of a Character, If an Action or Movement is Performed- another external Character may Interrupt that Action with their Own.
+INTERRUPTIONS usually try to extend skirmishes or engagements. A User Cannot Interrupt a Turn if the User has already Interrupted during that Action, Even if the User is Interrupted themself. A Character cannot interrupt if the User is the one who's about to be attacked (They can only Conflict). Mutiple Characters Interrupting a Turn will cause an Initiative Challenge, Which will dictate which Action is Described First. Using Interruptions will always waste an action, even if not Performed. Interrupting a Turn And Taking Damage will not leave the user Entitled to the PASSONEFFECT.
+
+Possible Actions with INTERRUPTION TURNS Include:
+
+Speak         	- Communicate or Talk to an NPC or Object 		- This Requires 0 Actions
+Counter      	- Attack/Defend/Interact using a Counter        - This Requires 1 Action
+Approach     	- Attack/Defend/Interact using an Approach      - This Requires 1+ Actions
+Cast            - Use an Ability or Skill against an NPC        - This Requires 1 Action
+
+█ PassOnEffect
+
+If a Character Takes Damage from an Enemy, then that Character Gains an Entire Extra Action that will come after the Attacker's Action.
+The PASSONEFFECT is created to allow fights to go back and forth between characters. These Skirmishes typically end with characters Retreating or Retiring. PASSONACTIONS given from the PASSONEFFECT Function Similiary to Interruptions Actions. Although the Area of use is limited, it still gives the user an advantage. PASSONACTIONS can be held- however expire after the User's upcoming COMBAT TURN. The PASSONEFFECT Only Triggers from Direct Attacks. PASSONACTIONS cannot be earned through Trap, Status Effect, Knockback, or Recoil Damages.
+
+Possible Actions with PASSONACTION Include:
+
+Speak         	- Communicate or Talk to an NPC or Object     	- This Requires 0 Actions
+Counter         - Attack/Defend/Interact using a Counter        - This Requires 1 Action
+Approach        - Attack/Defend/Interact using an Approach      - This Requires 1+ Actions
+Cast            - Use an Ability or Skill against an NPC       	- This Requires 1 Action
+
+> Status Effect Damage, Trap Damage, Recoil Damage, or Thorns Damage does not Trigger the PASSONEFFECT.
+> Taking Damage while Blocking = PassOnEffect | Taking Damage while Dodging = No PassOnEffect | Taking Damage while Parrying = No PassOnEffect | Taking Damage while Casting = No PassOnEffect | Taking Knockback Damage = No PassOnEffect | Taking Mach Damage = No PassOnEffect | Taking Damage from Nonaggressive Nonopposing Characters = No PassOnEffect
+
+█ Initiative Challenging
+
+Initiative Challenging was a Mechanic introduced to Control the Flow of Interruption Actions. When Interrupting an Action, All Characters Interrupting will need to State at That Moment that they are going to Interrupt. Once this Phase is Over, No Other Active Characters may Interrupt this Sequence. Once all Interrupting Characters have Stated their Intent to Interrupt, all Interrupters will need to Roll D20 + Initiative to Decide which Characters State their Actions First. This is the Temporary Intitiative Order. The Lowest Initiative in that Order will State their Action First, and continue to climb until the Character with the Highest Temporary Initiative States their Action Last, able to React to all Other Parties. Actions May Not be Changed after being Stated and Locked In. If a CONFLICT ACTION is on the Board, they Always State their Action Last, able to react to All Interrupters.
+
+Counter Rolls and Immolations will then All be made in Temporary Initiative Order to Determine How Quickly and Effectively Each Party Performs their Action. Once these are Locked In, they may No Longer be Immolated. A Higher Counter Roll will be Performed Before other Actions, Regardless of Initiative. Allied Parties may Agree to Allow Other's Actions to go through before their own, so long as No Opposing Party goes between them. Parties Taking Part in Initiative Challenging are Not Entitled to a Conflict Action Should they be Targeted during an Interruption Turn.
+
+Once All Actions are Locked In and have According Counter Rolls to Determine Order, All Actions will go Through in Order of the Sequence. With the Consent of all Players involved, the Game Master may treat this as one Big Approach.
+
+█ Immolate System
+
+The Immolate System rewards Players for solid Action Management, allowing the User To Burn through Actions to Gain Extra Advantages or Negate Disadvantages during Combat. The Immolate Function may be used during any Counter Roll, so long as the User has Actions to Spend. The Immolate Function may also be used in Conjunction with the Ambition System.
+
+	IMMOLATE FUNCTION
+	The User Is Allowed to Sacrifice Actions or PassOnActions in order to Increase a Variety of Temporary Stats:
+		Increase Counter Rolls By 4;
+		Increase Temporary Initiative by 4;
+		Increase Damage Points Values Temporarily by 25%;
+		Increase Dynamic Damage Reduction Values Temporarily by 25%;
+		Increase Hits by 3 (Functioning as a Multihit)
+
+█ Ambition System
+
+Characters are able to use some of their actions from their Upcoming Combat Turn during their Current Combat Turn. A Maximum of Two Actions may be taken from a Character's Upcoming Combat Turn to be used on the Current Combat Turn. Characters are only able to use Actions from The Upcoming Combat Turn and No Further Combat Turns. These borrowed Actions are Refered to as Ambition Actions. Ambition Actions Cannot be Replenished going onto the Next Turn, as they were already used the previous Turn.
+
+If a character that has Combat Turn-based Resource Gain uses Ambition Actions, they may borrow gained Resources from the Upcoming Combat Turn. This only applies if the Character uses an Ambition Action. The Resource Gain may only be up to Half of the Maximum Amount of Resources Gained per Turn. If the Amount per Turn is Less Than 3, then the Character cannot draw from that Resource Through Ambition Actions.
+
+█ Leverage System
+
+Leverage is a system built to give an Advantage or Disadvantage to specific Characters or Attacks based on the situation, without relying on Luck from Rolling. Leverage works on a Plus/Minus scale, with 0 Leverage being the Base Leverage every character starts off with, and each step up or down giving an equivalent +/- 1 to Counter Rolls or Initiative Challenging against applicable Targets. 
+
+GAINING LEVERAGE
+Characters can gain Leverage in a Variety of Ways; Status Effects (@catalog-status_effects), Specific Scenarios (@catalog-thresholds), Modifiers (@catalog-modifications), and Perks (@catalog-perks) are the most common methods for Gaining Leverage. Leverage Varies Depending on the Situation and Details, although typically Leverage Sticks with the User until a certain point. Some Leverage Stacks into Multiple Actions and Even Multiple Turns.
+
+USING LEVERAGE
+Leverage is used in all Initiative Challenging and Counter Rolls, as long as they apply to the context at Hand. Leverage cannot be used to Increase/Decrease Damage. Leverage Only Applies to Counter Rolls During Combat, and has no Effect whatsoever outside of Combat.
+
+PRIMARY LEVERAGE
+Primary Ways that Leverage can be applied are through Status Effects (@catalog-status_effects), Specific Scenarios (@catalog-thresholds), Modifiers (@catalog-modifications), and Perks (@catalog-perks). Status Effects affect Leverage based on the Level of the Status Effect, with higher level Status Effects applying More Leverage. Specific Scenarios apply Situational Leverages, which are Applied based on the Situation the User Finds Themselves in, and can be either Positive or Negative for the User depending on the Scenario. Modifiers and Perks can offer Leverage depending on the Conditions and Rules of the Modifier or Perk, with Modifiers tending to be weaker Passives when compared to the stronger Actives and Passives found in Perks.
+
+█ Matching System
+
+The Matching System goes into Effect when Two or More Opposing Counter Rolls end up with an Equal or Very Similar Final Result. In Cases where Opposing Parties have Counter Rolls with a Difference of 2 or Less, the result will be only Slightly Favorable for the party with the Greater Counter Roll. If both parties share the same counter roll, both Actions cancel each other out, and Actions used will still be wasted. If Both Parties have the same Counter Roll, both will be Pushed Back by One Space in reference to the other Party. Alternatively- if both parties are willing, Similar Counter Rolls may be canceled into an Approach controlled solely by the Game Master.
+
+Multihit Challenges occur when two Characters Attack Eachother with Multihit Attacks. With both Characters- Attacking Eachother can Cancel Eachothers Attacks. Multihit Challenges have rules to determine who wins the engagement based on Leverage, where every Two Hits Decrease Leverage by One.
+Multihit Challenges First Favor the Character with the Higher Leverage, dealing Damage equal to (Damage per Hit x Difference of Hits), Unless the Character with Higher Leverage has Less Hits than the Opponent. If this is the case, then The Character with More Hits deals Damage equal to the Difference between the Number of Hits to the Opponent. If the number of Hits are Within Three Points of Each other, then the Attacks Cancel Eachother Out and Nobody takes Damage.
+
+█ KeyActions on Turns
+
+GENERAL ACTIONS
+★ Counters are Focused Around Rolls. Counters may have to be matched up against another Counter, and are the Primary Method of using Every Other Action.
+★ Criticals Function through Natural Counter Rolls Reaching Maximum or Minimum Numbers. Within Counter Rolls, Positive Criticals guarantee the Action's Success, While Negative Criticals guarantee failure. These Actions Succeed and Fail within the Context of the Scenario and will not yield Unattainable results. Counter Rolls that see two opposing Criticals will always cancel both Actions Completely. Attacks that Roll Positive Criticals will deal double the Damage to the Target. If the Target does not participate in the Counter Roll, the Attacker is still Entitled to a Counter Roll to check for a Positive Critical Possibility. However, Negative Criticals will always leave the Attack to Fail.
+★ Action Ranges are Typically One Space Directly around the User. Action Ranges Allow the User to Interact with Entities in their Range. With Larger Action Ranges, an Action will bring the User Next to the Location of the Interacted Object.
+★ Casting or Aiming Abilities from Farther Distances Decrease Leverage. For Every 6 Meters in Distance- Leverage is Decreased by 2 Point. This Works for all Projectiles. Moving While Casting or Aiming Abilities Decrease the Leverage by Double. This Functions with Throwing Objects or Shooting Objects.
+★ Canceling Actions into Other Actions have both Actions take place at the same time; allowing for Un-Conflictable Counterattacks, Bonus Leverage on Attacks, and other Combos, depending on what is being Canceled and the Context in which it happens. 
+
+DEFENSE ACTIONS
+★ Dashing Functions as an Extra Movement Option that all Users have access to use. Dashing will Move Users in one Direction as far as half their Step Points. Dashing does not have to reach its maximum length and may be shorter.
+★ Dash Canceling can be achieved by canceling the Dash early in order to Perform an Action immediately after. The User will still be in the state of Dashing, but will perform an Action to Cancel the Dash Early. Dash Canceling can stop the Dash at any point before it reaches its end.
+★ Dodging Functions as an Extra Defensive Option that functions similarly to Dashing. Dodging will move Users in one Direction as far as half their Step Points. Dashing does not have to reach its maximum length and may be shorter. Dodging Large Objects or AOE is only possible if the User's Dash Distance can go far enough to avoid the AOE. Dodging may be stationary if applicable.
+★ Dodge Canceling can be achieved by canceling the Dodge early in order to Perform an Action immediately after. The User will still be in the state of Dodging, but will perform an Action to Cancel the Dodge Early. Dodge Canceling can stop the Dodge at any point before it reaches its end, although this may be dangerous if an attack has AOE.
+★ Blocking Functions as an Extra Defensive Option that can Reduce Damage. When Blocking, only the Defending Side Performs a Counter Roll, which is directly related to Dynamic Damage Reduction (@damage_calculation-damage_reduction_and_chip_damage). Despite this, if the Attacker wishes, they are Entitled to a Counter Roll to Check for Criticals. PassOnActions can be Earned Through Blocking as the User still takes Damage. Counter Rolls and Leverage do apply to Blocking, which Increases Damage Reduction. Blocking Requires an Action.
+★ Parrying Functions as an Extra Defensive Option that Negates Damage from One Attack (Including Multihits). Parrying Functions through Counter Rolls with Extra Parry Leverage Added. Parry Leverage is a Counter Roll Stat to the Power of Amount of Held Actions. If this Number is Higher than the Attacker's Damage Sum, the Defender completely Negates Damage; otherwise, they will take full Damage from the Attack. Only Actions received from Action Refresh can be used for Parrying. Parrying Requires Only One Action, which does not count towards the "Held Actions" in Parry Leverage Calculation.
+★ Teching can be Performed when a Character being Affected by Physics is about to Crash into a Wall, Floor, or Other Obstacle. Teching Negates all Damage from being Thrown into an Object. Teching Consists of a Counter Roll against the Established Threshold of what Launched them, using the Leverage Value applied to the Character being Thrown. Teching does not Negate Movement, only Damage. Upon being Affected by the Physics Engine, the User can only perform this Action at the End of their Movement.
+
+OFFENSE ACTIONS
+★ Grabbing Functions as an Extra Offensive Option that allows the User to Restrict the Target. Grabbing grabs a Target within Action Range and pulls them to the User. Targets can Struggle out of the Grab With Counters; However, Grabbed Targets, on their Combat Turns, are Limited to Talking and Counters, and are otherwise restricted to Conflict Turns. Grabbed Targets are Entitled to PassOnActions, which are Also Limited to Talking and Counters
+★ Grab Canceling can be achieved by canceling the Grab early to act immediately after. Within a Grab Cancel, the Target Grabbed will still be Considered being Grabbed while the User Performs an Action. After this Action, the Target will no longer remain grabbed by the User. Grab Canceling can only be done once the Target is already grabbed, and may not be used during the intial Grab itself.
+★ Throws Functions as an Extra Offensive Option that allows the User to forcefully Move a Grabbed Target. Throws throw a Grabbed Target in any Direction, including Up or Down. Throws function off the Physics System (@damage_calculation-physics_system) to determine both the Held Leverage of the Thrown Object, as well as the Impact Damage and Distance that Object Holds. Throwing a Target Directly down will leave the Target in the State of Crawling, although this can be Teched.
+★ Throw Canceling can be achieved by canceling a Throw and performing another Action immediately after. Within a Throw Cancel, the Target Grabbed will still be Considered being Thrown while the User Performs an Action. Throw Canceling can only be done once the Target is grabbed and thrown unless the Throw Canceled into another Grab.
+★ Mutilation Functions as an Extra Offensive Option that allows the User to Remove Limbs from the Target. Mutilation Functions as a Single Attack and will not Waste an Extra Action. Performing a Mutilation will target a specific part of the body, detaching it and everything connected to it if successful. Normal Damage Dealt must be 2x the Total Removed Maximum Health from All would-be Removed Body Parts to cut them off; Less than 2x but Greater than 1x the Removed Max HP will Instead Break the Limb; Less than the Removed Max HP will only Temporarily Disable the Limb. Piercing Damage requires only 1x Max Hp to Remove Limbs; Concussive Damage requires 3x Max HP to Remove Limbs, but only 1x to Break Them. When performing a Mutilation, the User will have Negative Leverage of -16, stacked on top of the Negative Leverage from Targeting Specific Body Parts (@uni-thresholds). Successful Mutilation will leave the Target with Removed Maximum Health Points in addition to the damage dealt by the attack. Normal Attacks naturally will not Trigger Mutilation unless Stated Otherwise. (@damage_calculation-mutilation_system)
+
+SUPPORT ACTIONS
+★ Sneak Functions as an Extra Supportive Option that can allow the User to Stealth Around. Through the Core Stealth System (@core_mechanics-core-stealth-system), this requires the Transition from an Initial Sneak to Sneak Actions. The First Initial Sneak requires an Action and will have the User Counter Roll Against all Visible Targets in Ten Spaces around them. The Initial Sneak Determines if the User will Enter Sneak, after which all Other Actions will become Sneak Actions. Initial Sneak requires only One Roll, While Sneak Actions require Two Rolls, One to Stay Hidden and One to Perform an Action. When Rolling Initial Sneak and Sneak Actions, Every Visible Target in a Ten Space Range will Increase the Threshold Rolled Against by 2 for Every Two Spaces the Target is Close to the User. Visible Targets within Fifteen Spaces around the User that are actively searching for the User will also have their Counter Roll function as a seperate Threshold. All Sneak Actions Performed will require the User to Roll to stay Sneaking; if these Sneak Rolls or Initial Sneak Rolls Fail, then User is Revealed. Upon being Revealed, the Closest Target or Closest Searching Target will find the User, to which the User is capable of responding with an Action. If the User is capable of Subduing the Target without revealing themselves, then they will Remain Sneaking. The User may stop Sneaking without the Waste of an Action. 
+★ Crouching Functions as an Extra Supportive Option that can keep the User hidden and safe from attacks. Crouching Requires an Action to Perform and will not Waste an Action to Recover from. Crouching keeps the User close to the ground and Reduces Step Points by Half. The User Gains a Positive Leverage of 6 during Initial Sneak Rolls and Sneak Rolls, While the User will have Negative Leverage of 6 when performing other Actions. Dashing will pull the User out of Crouching. Crouching can Share an action with an Initial Sneak and will not Waste Two Actions.
+★ Crawling Functions as an Extra Supportive Option that can keep the User hidden and safe from attacks. Crawling Requires an Action to Perform and will not Waste an Action to Recover from. Crawling keeps the User close to the ground and Reduces Step Points by Three Quarters. The User Gains a Positive Leverage of 10 during Initial Sneak Rolls and Sneak Rolls, While the User will have Negative Leverage of 10 when performing other Actions. Crawling can Share an action with an Initial Sneak and will not Waste Two Actions. The User is Unable to perform any Movement Actions when Crawling Unless Stated Otherwise. The User can be Forced into a Crawl from Certain Attacks and Actions.
+★ Cover Functions as an Extra Supportive Option that can keep the User hidden and safe from attacks. Cover Requires an Action and Object to Hide Around or Inside to Perform and will not Waste an Action to Recover from. Cover will Apply Negative Leverage to Targets Attacking the User based on the Obscurity of the Object; this usually ranges around 6 to 12 Negative Leverage (@uni-thresholds). The User Gains a Positive Leverage of 8 during Initial Sneak Rolls and Sneak Rolls, While the User will have Negative Leverage of 8 when performing other Actions. Dashing towards an Object to Hide Behind will have the User Covered while Dashing.
+★ Shoving Functions as an Extra Supportive Option that can reposition nearby Targets to a more Desirable Location. Through Action Range, the User is Capable of Shoving Targets; Shoving Targets will push Targets the Distance Equal to the Target's Dash or Less, in the Opposite Direction of the User. Depending on the Target, Shoving can be Avoided through Counter Rolls. This will not deal Knockback Damage.
+★ Steal Functions as an Extra Supportive Option that can function both in and outside of Sneak. Inside Sneak, Steal Functions through a Counter Roll with Negative Leverage Against a Threshold based on the Objects Size. Outside Sneak, Steal Functions through a Counter Roll with Negative Leverage Against another Counter Roll from the Target. Held Negative Leverage is 8 if the User is Stealing a Random Item, While Held Negative Leverage is 12 when the User is Stealing a Specific Item. Stealing Inside Sneak has the User Against the Determined Threshold Number while Stealing Outside Sneak has the User Against the Counter Roll of the Target.
+
+█ General Misconceptions
+
+> Canceling Actions into Other Actions have both Actions take place at the same time; allowing for Un-Conflictable Counterattacks, Bonus Leverage on Attacks, and other Combos, depending on what is being Canceled and the Context in which it happens.
+> Multihit Attacks Function as One Attack. Dodging the First Hit of a Multihit Attack will Avoid the Entire Attack. Parrying the First Hit of a Multihit Attack will Negate the First Attack but not the Rest. Blocking a Multihit Attack will Reduce Damage Per Hit.
+> HEART TURNS can be combined during an INTERRUPTION TURN if Multiple People Interrupt Together, so long as they allow it to happen- If not, it turns into a CHALLENGE TURN.
+> Combat Maps, the Stage on which Combat is Played, works as any other TRPG on a Grid-Based Map, with each space usually consisting of 1 Square Meter. Combat Maps are left completely up to the Game Master and may take whatever form is applicable in a given situation.
