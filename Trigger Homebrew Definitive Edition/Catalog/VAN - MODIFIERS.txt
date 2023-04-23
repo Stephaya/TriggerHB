@@ -67,8 +67,6 @@ Deconstruct - Allows for Half Extra Crafting Material when Decrafting any Object
 
 Conspire - Allows for 4 Extra Leverage when Performing Actions while Sneaking. This Modifier changes over three levels; each level after level one Increases Extra Leverage by Another 4 when Sneaking. This does not affect sneak rolls, only rolls from actions while sneaking.
 
-Advance - Allows for 4 Extra Leverage when a Turn is Passed. This Modifier changes over three levels; each level after level one Increases Extra Leverage by Another 4 when the Previous Turn is Passed. This only gives extra leverage if the previous turn was passed with held actions. 
-
 Dominance - Allows for 4 Extra Leverage when Immolated in Offense Counter Roll. This Modifier changes over three levels; each level after level one Increases Extra Leverage by Another 4 through Immolations. This does not affect damage or multihits.
 
 Multitask - Allows Performing One Extra Action while Dashing. This Modifier changes over three levels; each level after level one changes the Restrictions for Actions while Dashing. This Changes from Actions directed to the User, then to Allies, then to Opponents.
@@ -76,6 +74,8 @@ Multitask - Allows Performing One Extra Action while Dashing. This Modifier chan
 Oppress - Allows for Positive Criticals to Stun Targets. This Modifier changes over three levels; each level after level one Increases Stun by One when Attacking Targets with Criticals. This only activates when the user attacks a target with a positive critical.
 
 Guerilla - Allows for Positive Criticals to Deal 25% More Damage. This Modifier changes over three levels; each level after level one Increases Damage against Targets by Another 25% with Criticals. This only activates when the user attacks a target with a positive critical.
+
+Infringe - Allows for 1 Additional Interruption every Turn, which increases the base Interruptions. This Modifier changes over three levels; each level after level one allows for one additional Interruption each turn. This cannot be stacked into other turns or given to others.
 
 CONSTITUTION
 
