@@ -97,7 +97,7 @@ Hold            - Hold your Actions to use for later        - This Holds Current
 █ Interruptions
 
 During the Turn of a Character, If an Action or Movement is Performed- another external Character may Interrupt that Action with their Own.
-INTERRUPTIONS usually try to extend skirmishes or engagements. A User Cannot Interrupt a Turn if the User has already Interrupted during that Action, Even if the User is Interrupted themself. A Character cannot interrupt if the User is the one who's about to be attacked (They can only Conflict). Mutiple Characters Interrupting a Turn will cause an Initiative Challenge, Which will dictate which Action is Described First. Using Interruptions will always waste an action, even if not Performed. Interrupting a Turn And Taking Damage will not leave the user Entitled to the PASSONEFFECT.
+INTERRUPTIONS usually try to extend skirmishes or engagements. A User Cannot Interrupt a Turn if the User has already Interrupted during that Action. A Character cannot interrupt if the User is the one who's about to be attacked (They can only Conflict). Multiple Characters Interrupting a Turn will cause an Initiative Challenge, Which will dictate which Action is Described First. Using Interruptions will always waste an action, even if not Performed. Interrupting a Turn And Taking Damage will not leave the user Entitled to the PASSONEFFECT. Characters may only Interrupt another Turn Once per Combat Turn.
 
 Possible Actions with INTERRUPTION TURNS Include:
 
